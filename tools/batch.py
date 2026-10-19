@@ -228,6 +228,59 @@ def cmd_review_prompts(a):
     json.dump(res, sys.stdout, ensure_ascii=False, indent=1)
 
 
+def make_prompts(wid, lo, hi, words=2000):
+    r = man(wid)
+    units = parse_greek.load(wid).units
+    tpl = (ROOT / "tools/prompts/translate.md").read_text(encoding="utf-8")
+    segs = segments.cut(wid, lo, hi, words)
+    out = []
+    d = WORK / wid
+    d.mkdir(parents=True, exist_ok=True)
+    for i, (s, e, w) in enumerate(segs):
+        before, after = ctx_range(units, s, e, "before"), ctx_range(units, s, e, "after")
+        prev = ""
+        if i:
+            ps, pe, _ = segs[i - 1]
+            prev = (f"- 前一段（@{ps}–@{pe}）由另一个子任务并行翻译，可能尚未完成；"
+                    f"如 `{d}/{ps}-{pe}.zh.md` 已存在，可参考其末尾几个单元以求衔接。")
+        p = fill(tpl, ROOT=ROOT, AUTHOR=r["author_en"], TITLE=r["work_en"], WID=wid,
+                 DOMAIN=r["domain"], FORMAT=r["format"], START=s, END=e, WORDS=w,
+                 START_PLUS=min(e, s + 3), CTX_BEFORE=before or "（无，本段在作品开头）",
+                 CTX_AFTER=after or "（无，本段在作品结尾）", PREV_NOTE=prev,
+                 OUT=d / f"{s}-{e}.zh.md", OUT_META=d / f"{s}-{e}.meta.json")
+        f = WORK / f"prompt-{wid}-{s}-{e}.md"
+        f.write_text(p, encoding="utf-8")
+        out.append({"wid": wid, "start": s, "end": e, "words": w, "file": str(f)})
+    return out
+
+
+def cmd_wave(a):
+    """领取下一批，生成各段说明，把小作品打包，输出每个子任务要处理的说明文件列表。"""
+    import next_batch
+    items = next_batch.pending(a.words, a.author)
+    segs = []
+    for it in items:
+        if it["end"] < it["start"]:
+            continue
+        segs += make_prompts(it["eul_wid"], it["start"], it["end"], a.seg)
+    jobs, cur, cw = [], [], 0
+    for s in segs:
+        if s["words"] >= a.seg * 0.6:
+            jobs.append([s])
+            continue
+        cur.append(s)
+        cw += s["words"]
+        if cw >= a.seg:
+            jobs.append(cur)
+            cur, cw = [], 0
+    if cur:
+        jobs.append(cur)
+    plan = {"items": items, "jobs": [[s["file"] for s in j] for j in jobs],
+            "words": sum(s["words"] for s in segs)}
+    (WORK / "wave.json").write_text(json.dumps(plan, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"本批 {plan['words']} 词，{len(items)} 个作品/片段，{len(jobs)} 个翻译子任务（见 .work/wave.json）")
+
+
 def cmd_reviewed(a):
     r = man(a.wid)
     path = zh_path(r["period"], r["author_slug"], a.wid)
@@ -251,8 +304,10 @@ def main():
     p = sub.add_parser("review-prompts"); p.add_argument("wid"); p.add_argument("range")
     p.add_argument("--words", type=int, default=4000)
     p = sub.add_parser("reviewed"); p.add_argument("wid")
+    p = sub.add_parser("wave"); p.add_argument("--words", type=int, default=40000)
+    p.add_argument("--seg", type=int, default=2000); p.add_argument("--author")
     a = ap.parse_args()
-    {"reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
+    {"wave": cmd_wave, "reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
      "review-prompts": cmd_review_prompts}[a.cmd](a)
 
 
