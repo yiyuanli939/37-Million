@@ -1,79 +1,57 @@
 name: 排版发布
 
-# 推送 v<卷号> 标签（如 v0001）时排出该卷并发布到 Releases。
-# 也可手动运行：可排试样卷（允许未译完），作为预发布。
+# 会话不能推送标签，所以用发布队列文件 releases.txt 触发：
+#   每行一卷："V0001" 表示正式发布（标签 v0001），"V0001 sample" 表示试样（只排已译作品，预发布）。
+# 推送改动了 releases.txt 的提交时，排出队列中尚未发布的卷，发布到 Releases，并同步到 Hugging Face。
 on:
   push:
-    # v0001：正式发布该卷。sample-V0001-<说明>：试样，只排已译的作品，发布为预发布版本。
-    tags: ["v[0-9][0-9][0-9][0-9]", "sample-V[0-9][0-9][0-9][0-9]-*"]
+    branches: [main, "claude/**"]
+    paths: [releases.txt]
   workflow_dispatch:
-    inputs:
-      volume:
-        description: 卷号，如 V0001
-        required: true
-      partial:
-        description: 允许未译完（试样，发布为预发布版本）
-        type: boolean
-        default: false
-      only:
-        description: 只排这些作品（eul_wid，空格分隔；试样用，可留空）
-        default: ""
 
 permissions:
   contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: 确定卷号
-        id: v
-        run: |
-          if [ "${{ github.event_name }}" = "push" ] && [[ "$GITHUB_REF_NAME" == sample-* ]]; then
-            vol=$(echo "$GITHUB_REF_NAME" | cut -d- -f2); echo "vol=$vol" >> "$GITHUB_OUTPUT"; echo "tag=$GITHUB_REF_NAME" >> "$GITHUB_OUTPUT"
-            echo "partial=--allow-partial --skip-untranslated" >> "$GITHUB_OUTPUT"; echo "only=" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event_name }}" = "push" ]; then
-            n="${GITHUB_REF_NAME#v}"; echo "vol=V$n" >> "$GITHUB_OUTPUT"; echo "tag=$GITHUB_REF_NAME" >> "$GITHUB_OUTPUT"
-            echo "partial=" >> "$GITHUB_OUTPUT"; echo "only=" >> "$GITHUB_OUTPUT"
-          else
-            vol="${{ inputs.volume }}"; echo "vol=$vol" >> "$GITHUB_OUTPUT"
-            if [ "${{ inputs.partial }}" = "true" ]; then
-              echo "tag=sample-$vol-$(date +%Y%m%d%H%M)" >> "$GITHUB_OUTPUT"; echo "partial=--allow-partial" >> "$GITHUB_OUTPUT"
-            else
-              echo "tag=v${vol#V}" >> "$GITHUB_OUTPUT"; echo "partial=" >> "$GITHUB_OUTPUT"
-            fi
-            echo "only=${{ inputs.only }}" >> "$GITHUB_OUTPUT"
-          fi
-      - name: 安装字体和 Typst
+      - name: 安装字体和工具
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq fonts-noto-cjk fonts-gfs-porson fonts-gfs-didot
-          pip install typst==0.15.0
-      - name: 拉取原文
-        run: |
-          wids=$(python3 - <<'PY'
-          import csv
-          v = {r["volume"]: r for r in csv.DictReader(open("volumes.csv", encoding="utf-8"))}["${{ steps.v.outputs.vol }}"]
-          print(" ".join(sorted({p.split("@")[0] for p in v["parts"].split(";") if p})))
-          PY
-          )
-          python3 tools/fetch_source.py $wids
-      - name: 排版
-        run: |
-          only=""
-          if [ -n "${{ steps.v.outputs.only }}" ]; then only="--only ${{ steps.v.outputs.only }}"; fi
-          python3 tools/build_volume.py ${{ steps.v.outputs.vol }} --out out ${{ steps.v.outputs.partial }} $only
-      - name: 发布
+          pip install -q typst==0.15.0 huggingface_hub pyarrow
+      - name: 排版、发布、同步
         env:
           GH_TOKEN: ${{ github.token }}
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
         run: |
-          vol=${{ steps.v.outputs.vol }}; tag=${{ steps.v.outputs.tag }}
-          title=$(python3 -c "import sys; sys.path.insert(0,'tools'); import build_volume as b; print(b.volume_titles()['$vol'])")
-          pre=""; [ -n "${{ steps.v.outputs.partial }}" ] && pre="--prerelease"
-          notes="《古希腊文献希中对照全译》$vol：$title。希腊文—中文对照，AI 翻译、AI 审校。底本 Eulogikon（提交 $(grep commit= source.lock | cut -c8-14)）。附对齐数据 JSONL。"
-          if gh release view "$tag" >/dev/null 2>&1; then
-            gh release upload "$tag" out/$vol.pdf out/$vol.jsonl --clobber
-          else
-            gh release create "$tag" out/$vol.pdf out/$vol.jsonl --title "$vol $title" --notes "$notes" $pre
-          fi
+          set -euo pipefail
+          short=$(git rev-parse --short HEAD)
+          commit7=$(grep commit= source.lock | cut -c8-14)
+          grep -v '^\s*#' releases.txt | while read -r vol kind; do
+            [ -z "$vol" ] && continue
+            if [ "$kind" = "sample" ]; then
+              tag="sample-$vol-$short"; flags="--allow-partial --skip-untranslated"; pre="--prerelease"
+            else
+              tag="v${vol#V}"; flags=""; pre=""
+            fi
+            if gh release view "$tag" >/dev/null 2>&1; then echo "$tag 已发布，跳过"; continue; fi
+            wids=$(python3 -c "
+          import csv
+          v={r['volume']:r for r in csv.DictReader(open('volumes.csv',encoding='utf-8'))}['$vol']
+          print(' '.join(sorted({p.split('@')[0] for p in v['parts'].split(';') if p})))")
+            python3 tools/fetch_source.py $wids
+            rm -rf out && python3 tools/build_volume.py "$vol" --out out $flags
+            title=$(python3 -c "import sys; sys.path.insert(0,'tools'); import build_volume as b; print(b.volume_titles()['$vol'])")
+            [ -n "$pre" ] && title="$title（试样）"
+            notes="《古希腊文献希中对照全译》$vol：$title。希腊文—中文对照，AI 翻译、AI 审校，未经人工校订。底本 Eulogikon（提交 $commit7）。附对齐数据 JSONL。"
+            gh release create "$tag" out/$vol.pdf out/$vol.jsonl --target "$GITHUB_SHA" --title "$vol $title" --notes "$notes" $pre
+            gh release list --limit 1000 --json tagName,isPrerelease > releases.json
+            if [ -n "${HF_TOKEN:-}" ]; then TAG="$tag" python3 tools/sync_hf.py out releases.json; else echo "没有 HUGGINGFACE_TOKEN，跳过同步"; fi
+          done

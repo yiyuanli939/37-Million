@@ -2,10 +2,8 @@ name: 同步 Hugging Face
 
 # 排版发布成功后，把该次发布的 PDF 和对齐数据上传到 Hugging Face 数据集，
 # 并刷新数据集说明里的进度表。需要仓库 Secret HUGGINGFACE_TOKEN。
+# 平时由 release.yml 在发布后直接同步；本工作流用于手动补同步。
 on:
-  workflow_run:
-    workflows: ["排版发布"]
-    types: [completed]
   workflow_dispatch:
     inputs:
       tag:
@@ -17,7 +15,6 @@ permissions:
 
 jobs:
   sync:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     env:
       HF_REPO: TimaeusWorld/37-Million-Words
@@ -31,13 +28,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p dl
-          if [ "${{ github.event_name }}" = "workflow_run" ]; then
-            tag="${{ github.event.workflow_run.head_branch }}"
-            # 手动触发的发布没有标签名作为 head_branch，取最新的发布
-            gh release view "$tag" >/dev/null 2>&1 || tag=$(gh release list --limit 1 --json tagName -q '.[0].tagName')
-          else
-            tag="${{ inputs.tag }}"
-          fi
+          tag="${{ inputs.tag }}"
           echo "TAG=$tag" >> "$GITHUB_ENV"
           if [ -n "$tag" ]; then gh release download "$tag" -D dl; fi
           gh release list --limit 1000 --json tagName,isPrerelease > releases.json
