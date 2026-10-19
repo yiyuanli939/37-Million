@@ -24,11 +24,13 @@ jobs:
           if not token:
               raise SystemExit("HUGGINGFACE_TOKEN secret is empty or not available to this workflow")
           api = HfApi(token=token)
-          user = api.whoami()["name"]
-          repo_id = f"{user}/37-million-test"
-          api.create_repo(repo_id, repo_type="dataset", private=True, exist_ok=True)
-          content = f"Test upload from GitHub Actions at {datetime.datetime.utcnow().isoformat()}Z\n"
+          repo_id = "TimaeusWorld/37-Million-Words"
+          repo_type = next((t for t in ("dataset", "model", "space") if api.repo_exists(repo_id, repo_type=t)), None)
+          if repo_type is None:
+              raise SystemExit(f"{repo_id} not found (or not visible to this token)")
+          content = f"Test upload from GitHub Actions at {datetime.datetime.now(datetime.timezone.utc).isoformat()}\n"
           api.upload_file(path_or_fileobj=content.encode(), path_in_repo="test.txt",
-                          repo_id=repo_id, repo_type="dataset", commit_message="Test upload")
-          print(f"UPLOADED: https://huggingface.co/datasets/{repo_id}/blob/main/test.txt")
+                          repo_id=repo_id, repo_type=repo_type, commit_message="Test upload")
+          prefix = {"dataset": "datasets/", "space": "spaces/"}.get(repo_type, "")
+          print(f"UPLOADED ({repo_type}): https://huggingface.co/{prefix}{repo_id}/blob/main/test.txt")
           PY
