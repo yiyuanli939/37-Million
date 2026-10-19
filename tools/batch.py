@@ -281,6 +281,16 @@ def cmd_wave(a):
     print(f"本批 {plan['words']} 词，{len(items)} 个作品/片段，{len(jobs)} 个翻译子任务（见 .work/wave.json）")
 
 
+def cmd_queue(a):
+    """为一个作品的指定范围生成翻译说明，追加到 .work/queue.txt。"""
+    lo, hi = map(int, a.range.split("-"))
+    segs = make_prompts(a.wid, lo, hi, a.seg)
+    with open(WORK / "queue.txt", "a", encoding="utf-8") as f:
+        for s in segs:
+            f.write(s["file"] + "\n")
+    print(f"加入队列 {len(segs)} 段，共 {sum(s['words'] for s in segs)} 词")
+
+
 def cmd_reviewed(a):
     r = man(a.wid)
     path = zh_path(r["period"], r["author_slug"], a.wid)
@@ -304,10 +314,12 @@ def main():
     p = sub.add_parser("review-prompts"); p.add_argument("wid"); p.add_argument("range")
     p.add_argument("--words", type=int, default=4000)
     p = sub.add_parser("reviewed"); p.add_argument("wid")
+    p = sub.add_parser("queue"); p.add_argument("wid"); p.add_argument("range")
+    p.add_argument("--seg", type=int, default=2000)
     p = sub.add_parser("wave"); p.add_argument("--words", type=int, default=40000)
     p.add_argument("--seg", type=int, default=2000); p.add_argument("--author")
     a = ap.parse_args()
-    {"wave": cmd_wave, "reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
+    {"queue": cmd_queue, "wave": cmd_wave, "reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
      "review-prompts": cmd_review_prompts}[a.cmd](a)
 
 
