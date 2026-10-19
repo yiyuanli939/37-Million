@@ -1,3 +1,4 @@
 # 发布队列：每行一卷。"V0001" 正式发布；"V0001 sample" 排试样（只含已译作品，预发布）。
 # 改动本文件并推送即触发 .github/workflows/release.yml。已发布的正式卷会跳过。
 V0001 sample
+V0001

@@ -3,8 +3,9 @@ eul_wid: aak-aa
 title_zh: 赫尔墨斯残篇
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

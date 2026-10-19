@@ -3,8 +3,9 @@ eul_wid: aci-aa
 title_zh: 埃塞俄比亚之歌
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

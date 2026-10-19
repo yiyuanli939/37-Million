@@ -3,8 +3,9 @@ eul_wid: adc-aa
 title_zh: 史诗残篇
 author_zh: 普罗孔涅索斯的阿里斯忒阿斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

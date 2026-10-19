@@ -3,8 +3,9 @@ eul_wid: aak-ab
 title_zh: 捕鱼残篇
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
