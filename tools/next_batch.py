@@ -15,10 +15,12 @@ import zh
 import parse_greek
 
 
-def pending(limit_words, aid=None):
+def pending(limit_words, aid=None, skip=()):
     out, total = [], 0
     for r in read_csv(MANIFEST):
         if aid and r["eul_aid"] != aid:
+            continue
+        if r["eul_wid"] in skip:
             continue
         n = int(r["units"])
         if not n:

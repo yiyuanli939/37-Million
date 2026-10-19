@@ -257,7 +257,7 @@ def make_prompts(wid, lo, hi, words=2000):
 def cmd_wave(a):
     """领取下一批，生成各段说明，把小作品打包，输出每个子任务要处理的说明文件列表。"""
     import next_batch
-    items = next_batch.pending(a.words, a.author)
+    items = next_batch.pending(a.words, a.author, set(a.skip or []))
     segs = []
     for it in items:
         if it["end"] < it["start"]:
@@ -317,7 +317,7 @@ def main():
     p = sub.add_parser("queue"); p.add_argument("wid"); p.add_argument("range")
     p.add_argument("--seg", type=int, default=2000)
     p = sub.add_parser("wave"); p.add_argument("--words", type=int, default=40000)
-    p.add_argument("--seg", type=int, default=2000); p.add_argument("--author")
+    p.add_argument("--seg", type=int, default=2000); p.add_argument("--author"); p.add_argument("--skip", nargs="*")
     a = ap.parse_args()
     {"queue": cmd_queue, "wave": cmd_wave, "reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
      "review-prompts": cmd_review_prompts}[a.cmd](a)
