@@ -226,6 +226,16 @@ def cmd_review_prompts(a):
     json.dump(res, sys.stdout, ensure_ascii=False, indent=1)
 
 
+def cmd_reviewed(a):
+    r = man(a.wid)
+    path = zh_path(r["period"], r["author_slug"], a.wid)
+    meta, units = zh.load(path)
+    meta["status"] = "reviewed"
+    meta["reviewer"] = "Claude (AI, 独立审校)"
+    path.write_text(zh.render(meta, units), encoding="utf-8")
+    print(path)
+
+
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -238,8 +248,9 @@ def main():
     p.add_argument("--no-doubts", dest="doubts", action="store_false")
     p = sub.add_parser("review-prompts"); p.add_argument("wid"); p.add_argument("range")
     p.add_argument("--words", type=int, default=4000)
+    p = sub.add_parser("reviewed"); p.add_argument("wid")
     a = ap.parse_args()
-    {"prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
+    {"reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
      "review-prompts": cmd_review_prompts}[a.cmd](a)
 
 
