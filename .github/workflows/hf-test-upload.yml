@@ -1,0 +1,34 @@
+name: Hugging Face test upload
+
+on:
+  push:
+    branches: [claude/project-thread-3w249w]
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q huggingface_hub
+      - name: Upload test file
+        env:
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, datetime
+          from huggingface_hub import HfApi
+          token = os.environ.get("HF_TOKEN")
+          if not token:
+              raise SystemExit("HUGGINGFACE_TOKEN secret is empty or not available to this workflow")
+          api = HfApi(token=token)
+          user = api.whoami()["name"]
+          repo_id = f"{user}/37-million-test"
+          api.create_repo(repo_id, repo_type="dataset", private=True, exist_ok=True)
+          content = f"Test upload from GitHub Actions at {datetime.datetime.utcnow().isoformat()}Z\n"
+          api.upload_file(path_or_fileobj=content.encode(), path_in_repo="test.txt",
+                          repo_id=repo_id, repo_type="dataset", commit_message="Test upload")
+          print(f"UPLOADED: https://huggingface.co/datasets/{repo_id}/blob/main/test.txt")
+          PY
