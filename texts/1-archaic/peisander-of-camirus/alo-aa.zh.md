@@ -3,8 +3,9 @@ eul_wid: alo-aa
 title_zh: 赫拉克勒斯纪残篇
 author_zh: 卡弥罗斯的佩珊德罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

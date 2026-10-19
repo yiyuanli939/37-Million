@@ -3,8 +3,9 @@ eul_wid: anc-ab
 title_zh: 论德行残篇
 author_zh: 萨福与阿尔凯奥斯残篇
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

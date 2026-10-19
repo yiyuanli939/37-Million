@@ -3,8 +3,9 @@ eul_wid: acs-aa
 title_zh: 马尔吉忒斯残篇
 author_zh: 科洛封的荷马
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -30,7 +31,7 @@ translator: Claude (AI)
 ……器具，他便猛力一推……
 ……陷在苦恼之中……；在那夜壶里……
 ……要取出来却毫无办法……他便撒了尿……
-> 夜壶：这一残篇大约讲马尔吉忒斯把头伸进夜壶、拔不出来的故事。
+> 夜壶：这一残篇大约讲马尔吉忒斯夜里一只手陷进夜壶、拔不出来的故事。
 
 ### @9
 很快……想出了一条计策……

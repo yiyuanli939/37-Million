@@ -3,8 +3,9 @@ eul_wid: bbi-aa
 title_zh: 米倪阿斯残篇
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -13,7 +14,7 @@ translator: Claude (AI)
 > 卡戎：冥河上的摆渡人，把死者的魂灵渡往冥府。
 
 ### @3-6
-“……要杀死我，凭着武力和长长的矛，
+“……杀死我，凭着武力和长长的矛，
 〔可是〕致命的摩伊拉和勒托的儿子毁灭了我。
 来吧，请你把这些事从头到尾告诉我：
 你为什么走了这么远的路，下到哈得斯〔的家〕来？
@@ -55,7 +56,7 @@ translator: Claude (AI)
 ……
 ……
 ……
-> 希波达墨亚：庇里托俄斯的妻子，与佩罗普斯之妻同名。
+> 希波达墨亚：庇里托俄斯的妻子，与珀罗普斯之妻同名。
 
 ### @18
 他这样说……

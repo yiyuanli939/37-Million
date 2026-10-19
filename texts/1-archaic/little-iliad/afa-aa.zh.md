@@ -3,15 +3,16 @@ eul_wid: afa-aa
 title_zh: 小伊利亚特残篇
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
 缪斯啊，对我讲述那些事迹吧：它们从前不曾有过，往后也不会再有。
 
 ### @2-3
-埃阿斯把那位英雄、佩琉斯之子举起来，抬出了厮杀，
+埃阿斯把那位英雄、佩琉斯之子举起来，从厮杀中抬了出来，
 神样的奥德修斯却不肯这样做。
 * 你怎么这样说话？你怎么说得这样不合体统？
 〈只要男人把重担放上去，女人也能扛起，

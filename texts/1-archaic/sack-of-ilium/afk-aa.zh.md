@@ -3,8 +3,9 @@ eul_wid: afk-aa
 title_zh: 伊利昂的陷落残篇
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -14,7 +15,7 @@ translator: Claude (AI)
 ### @2-11
 因为是父亲，〈著名的〉震地之神，亲自
 把〔本领〕赐给了他们
-两人，又让两人各有一方面胜过另一个：给其中一个的是更灵巧的
+两人，又让一个比另一个更为荣耀：给其中一个的是更灵巧的
 双手，能从肉里
 取出箭头，
 能切开〔伤处〕，医好一切伤口；

@@ -3,8 +3,9 @@ eul_wid: alo-ab
 title_zh: 铭体诗
 author_zh: 卡弥罗斯的佩珊德罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -12,7 +13,7 @@ translator: Claude (AI)
 他的狗叫勒塔尔戈斯，他的仆人叫巴贝斯；
 
 ### @3
-他是色萨利人，来自克里特，马格涅西亚族，海蒙之子；
+他是色萨利人，来自克里特，族属马格涅斯人，海蒙之子；
 
 ### @4
 他在前锋行列中战死，投身于凌厉的厮杀。

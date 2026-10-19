@@ -3,8 +3,9 @@ eul_wid: ahs-aa
 title_zh: 铭体诗
 author_zh: 斯巴达的多里欧斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -16,6 +17,6 @@ translator: Claude (AI)
 节庆的人群。
 这已令人惊叹；可是，客人啊，他在皮萨的祭坛前
 还做出了比这更惊人的事：他在游行中牵来的那头
-从未上轭的公牛，他剁成了肉块，独自一人把它吃得精光。
+从未上轭的牛，他剁成了肉块，独自一人把它吃得精光。
 > 米隆：克罗顿的摔跤手，多次在奥林匹亚赛会夺冠，以神力和食量著称。
 > 皮萨：奥林匹亚附近的古地名，常用来代指奥林匹亚。

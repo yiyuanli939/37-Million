@@ -3,8 +3,9 @@ eul_wid: anc-aa
 title_zh: 爱情与神话的抒情残篇
 author_zh: 萨福与阿尔凯奥斯残篇
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -52,9 +53,9 @@ translator: Claude (AI)
 从高耸的山岭上
 
 ### @15
-从前克里特的女子们正是这样，
-以柔嫩的脚合着节拍，绕着可爱的祭坛起舞，
-踩着青草那细软的花朵
+克里特的女子们也曾如此，迈动柔嫩的双足，
+应和着乐律，围着那惹人爱慕的祭坛舞蹈，
+脚下踏过青草娇嫩而柔软的花
 
 ### @16
 玛利丝手持纺锤，正纺着细细的亚麻
@@ -85,7 +86,7 @@ translator: Claude (AI)
 ### @25-27
 就像孩子
 追随母亲，
-我已长出了翅膀
+我扑扇着翅膀追去
 
 ### @28
 ……洞房的……这……

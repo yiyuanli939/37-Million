@@ -3,8 +3,9 @@ eul_wid: axw-aa
 title_zh: 福洛尼斯残篇
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -13,7 +14,7 @@ translator: Claude (AI)
 
 ### @2-5
 在那里，伊达山的巫师们，
-弗里吉亚的山民，住在家中：克尔弥斯、魁伟的达姆纳墨纽斯
+弗里吉亚的山民，安家居住：克尔弥斯、魁伟的达姆纳墨纽斯
 和强横的阿克蒙，
 他们是山中女神阿德瑞斯特娅手艺高超的侍从，
 他们最先凭着足智多谋的赫淮斯托斯的技艺，
