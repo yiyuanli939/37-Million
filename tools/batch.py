@@ -166,8 +166,9 @@ def cmd_assemble(a):
               if l.startswith("commit=")][0][:7]
     old_meta, old_units = zh.load(path) if path.exists() else ({}, [])
     if old_units:
-        first = units[0][0] if units else 0
-        units = [u for u in old_units if u[1] < first] + units
+        # 已组装（可能已审校）的单元不覆盖，只接上新译的部分
+        last = max(b for _, b, _ in old_units)
+        units = old_units + [u for u in units if u[0] > last]
     meta = {"eul_wid": a.wid, "title_zh": a.title_zh or old_meta.get("title_zh", ""),
             "author_zh": a.author_zh or old_meta.get("author_zh", ""), "source_commit": commit,
             "status": a.status, "translator": "Claude (AI)", "reviewer": "Claude (AI, 独立审校)"

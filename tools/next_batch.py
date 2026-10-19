@@ -15,6 +15,22 @@ import zh
 import parse_greek
 
 
+def work_covered(wid, done):
+    """把 .work/<wid>/ 里已译好、尚未组装的段（a-b.zh.md）接在 done 之后，返回连续覆盖到的单元号。"""
+    d = os.path.join(os.path.dirname(__file__), "..", ".work", wid)
+    segs = []
+    if os.path.isdir(d):
+        for f in os.listdir(d):
+            if f.endswith(".zh.md") and "-" in f:
+                a, b = f[:-6].split("-", 1)
+                if a.isdigit() and b.isdigit():
+                    segs.append((int(a), int(b)))
+    for a, b in sorted(segs):
+        if a <= done + 1 and b > done:
+            done = b
+    return done
+
+
 def pending(limit_words, aid=None, skip=()):
     out, total = [], 0
     for r in read_csv(MANIFEST):
@@ -26,7 +42,7 @@ def pending(limit_words, aid=None, skip=()):
         if not n:
             continue
         p = zh_path(r["period"], r["author_slug"], r["eul_wid"])
-        done = zh.covered(p)
+        done = work_covered(r["eul_wid"], zh.covered(p))
         if done >= n:
             continue
         units = parse_greek.load(r["eul_wid"]).units
