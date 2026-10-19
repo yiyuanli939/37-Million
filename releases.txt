@@ -2,3 +2,4 @@
 # 改动本文件并推送即触发 .github/workflows/release.yml。已发布的正式卷会跳过。
 V0001 sample
 V0001
+V0002
