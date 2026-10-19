@@ -2,3 +2,5 @@
 out/
 *.pdf
 __pycache__/
+build/.*.json
+.work/

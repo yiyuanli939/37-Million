@@ -1,0 +1,47 @@
+name: 同步 Hugging Face
+
+# 排版发布成功后，把该次发布的 PDF 和对齐数据上传到 Hugging Face 数据集，
+# 并刷新数据集说明里的进度表。需要仓库 Secret HUGGINGFACE_TOKEN。
+on:
+  workflow_run:
+    workflows: ["排版发布"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 要同步的发布标签（留空则只刷新数据集说明）
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    env:
+      HF_REPO: TimaeusWorld/37-Million-Words
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: pip install huggingface_hub pyarrow
+      - name: 下载发布文件
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p dl
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            tag="${{ github.event.workflow_run.head_branch }}"
+            # 手动触发的发布没有标签名作为 head_branch，取最新的发布
+            gh release view "$tag" >/dev/null 2>&1 || tag=$(gh release list --limit 1 --json tagName -q '.[0].tagName')
+          else
+            tag="${{ inputs.tag }}"
+          fi
+          echo "TAG=$tag" >> "$GITHUB_ENV"
+          if [ -n "$tag" ]; then gh release download "$tag" -D dl; fi
+          gh release list --limit 1000 --json tagName,isPrerelease > releases.json
+      - name: 上传
+        env:
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+        run: python3 tools/sync_hf.py dl releases.json

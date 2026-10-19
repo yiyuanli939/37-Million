@@ -1,0 +1,713 @@
+volume,period,group,title,parts,words
+V0001,Archaic,Epic,,ayg-aa@1-12;aci-aa@1-3;adc-aa@1-14;aak-aa@1-7;aak-ab@1-1;apk-aa@1-18;abo-aa@1-8;aaa-aa@1-12;aaa-ab@1-17;aaa-ac@1-2;aaa-ad@1-10;aau-aa@1-8;aau-ab@1-480;aau-ac@1-827;aau-ad@1-3;aau-ae@1-28;aau-af@1-10;aau-ag@1-1023;abe-aa@1-7,26796
+V0002,Archaic,Epic,,abe-ab@1-12110,87218
+V0003,Archaic,Epic,,abe-ac@1-7580,53790
+V0004,Archaic,Epic,,abe-ac@7581-15683;acs-aa@1-10;afa-aa@1-38;bbi-aa@1-18;axm-aa@1-5;avo-aa@1-2;bok-aa@1-61;bok-ab@1-59;alo-aa@1-7;alo-ab@1-4;axw-aa@1-12;afk-aa@1-17;adm-aa@1-58,60214
+V0005,Archaic,Poetry,,asm-aa@1-797;asm-ab@1-38;adw-aa@1-329;adw-ab@1-8;bfy-aa@1-20;bfy-ab@1-291;bfy-ac@1-71;bgi-aa@1-1;afu-aa@1-3;afu-ab@1-464;afu-ac@1-4;auu-aa@1-1;auu-ab@1-13;ago-aa@1-15;atq-aa@1-7;asc-aa@1-5;asc-ab@1-8;bnq-aa@1-120;bea-aa@1-12;bea-ab@1-12;ahs-aa@1-6;anc-aa@1-31;anc-ab@1-28,14680
+V0006,Archaic,Poetry,,ajg-aa@1-10550,65769
+V0007,Archaic,Poetry,,ajg-aa@10551-20937;bek-aa@1-320;aku-aa@1-63;ajq-aa@1-55;asw-aa@1-105;asw-ab@1-204;aly-aa@1-73;aly-ab@1-10;ami-aa@1-3;ale-aa@1-54;boa-aa@1-598;boa-ab@1-1238,80132
+V0008,Archaic,Poetry,,boa-ac@1-1479;boa-ad@1-934;boa-ae@1-942;aeq-aa@1-40;aqe-aa@1-55;apu-aa@1-6;apu-ab@1-468;apu-ac@1-13;apu-ad@1-12;agy-aa@1-2;agy-ab@1-128;big-aa@1-41;big-ab@1-314;big-ac@1-5;big-ad@1-1;big-ae@1-261;ari-aa@1-188;ams-aa@1-112;ams-ab@1-230;ahi-aa@1-134;ahi-ab@1-8,34231
+V0009,Archaic,Drama,,bjk-aa@1-43;bmc-aa@1-20;bmc-ab@1-22;bfe-aa@1-10;bou-aa@1-12;bou-ab@1-8;bhm-aa@1-88;bhm-ab@1-8;bhm-ac@1-317;bhm-ad@1-38;bhm-ae@1-14;bhm-af@1-6;bhm-ag@1-77;bju-aa@1-22;atg-aa@1-1;atg-ab@1-1;atg-ac@1-3;aqo-aa@1-3;aqo-ab@1-3;aqo-ac@1-2;aqo-ad@1-44;aqo-ae@1-2;aqo-af@1-2;aqo-ag@1-61;aqo-ah@1-218;aqo-ai@1-2;aqo-aj@1-17;aqo-ak@1-3;aqo-al@1-38,30327
+V0010,Archaic,Fiction,,aqo-am@1-16;aqo-an@1-197;aqo-ao@1-6;aqo-ap@1-563;aqo-aq@1-4,48081
+V0011,Archaic,History,,bls-aa@1-13;bls-ab@1-5;bls-ac@1-51;bls-ad@1-44;aby-aa@1-7;bpe-aa@1-17;bfo-aa@1-1;biq-aa@1-9;bao-aa@1-2;bpo-aa@1-15;bli-aa@1-36;bli-ab@1-405;bli-ac@1-3;bja-aa@1-4;aic-aa@1-3;aim-aa@1-4;awi-aa@1-7;age-aa@1-3;aws-aa@1-15;anm-aa@1-4;bbs-aa@1-4;bbs-ab@1-11;bbs-ac@1-4;bbs-ad@1-364,30134
+V0012,Archaic,Geography,,bhw-aa@1-117;bhw-ab@1-8;bhw-ac@1-12;apa-aa@1-34;apa-ab@1-5;apa-ac@1-5;bmw-aa@1-18;bmw-ab@1-7;aua-aa@1-33;aua-ab@1-6;bcm-aa@1-24;bcm-ab@1-4;anw-aa@1-1;bky-aa@1-29;bky-ab@1-146;avy-aa@1-1;bcw-aa@1-14;bcw-ab@1-16;ayq-aa@1-7;ayq-ab@1-120,31775
+V0013,Archaic,Presocratic,,ayq-ac@1-3;ayq-ad@1-2;ayq-ae@1-2;beu-aa@1-56;beu-ab@1-55;beu-ac@1-12;beu-ad@1-47;beu-ae@1-4;bke-aa@1-59;bke-ab@1-31;bmm-aa@1-5;azu-aa@1-5;azu-ab@1-1;bay-aa@1-1;bng-aa@1-16;bcc-aa@1-2;bgs-aa@1-12;bgs-ab@1-1;bgs-ac@1-10;bgs-ad@1-24;bgs-ae@1-15;axc-aa@1-1;aiw-aa@1-2;azk-aa@1-4;bdq-aa@1-5;bdq-ab@1-4;aqy-aa@1-24;aqy-ab@1-10;aqy-ac@1-23;aqy-ad@1-28;aqy-ae@1-1;akk-aa@1-13;akk-ab@1-24,30920
+V0014,Archaic,Philosophy,,aoq-aa@1-4;bdg-aa@1-44;bdg-ab@1-4;aka-aa@1-1;aeg-aa@1-2;bae-aa@1-6;ars-aa@1-11;auk-aa@1-200;aza-aa@1-2,20993
+V0015,Classical,Epic,,gwm-aa@1-6;gwm-ab@1-1;emy-aa@1-5;emy-ab@1-21;emy-ac@1-62;dfm-aa@1-160;euq-aa@1-15;cee-aa@1-8;gbi-aa@1-4;bsq-aa@1-10;cyy-aa@1-9;fjq-aa@1-57;fjq-ab@1-455;fjq-ac@1-3;dbq-aa@1-3;gxg-aa@1-11;eqa-aa@1-13;ehe-aa@1-18;ehe-ab@1-169;ehe-ac@1-43;ehe-ad@1-6;gtu-aa@1-302;gtu-ab@1-310,31638
+V0016,Classical,Poetry,,gze-aa@1-2;fzk-aa@1-24;brw-aa@1-30;brw-ab@1-6;brw-ac@1-52;brw-ad@1-9;brw-ae@1-9;brw-af@1-4;brw-ag@1-44;brw-ah@1-4;brw-ai@1-1056;brw-aj@1-283;brw-ak@1-48;brw-al@1-2;brw-am@1-20;doi-aa@1-17;des-aa@1-99;dse-aa@1-4;cwg-aa@1-22;gyk-aa@1-59;dfw-aa@1-2;grm-aa@1-14;grm-ab@1-34;grm-ac@1-20;cbc-aa@1-27;dgg-aa@1-181;cgw-aa@1-24;dos-aa@1-3;upu-aa@1-9;upu-ab@1-1;upu-ac@1-7;upu-ad@1-5;upu-ae@1-19;upu-af@1-8;upu-ag@1-6;upu-ah@1-5;upu-ai@1-7;upu-aj@1-13;upu-ak@1-293;upu-al@1-21;upu-am@1-21;upu-an@1-22;upu-ao@1-59;upu-ap@1-5;upu-aq@1-12;upu-ar@1-496;upu-as@1-5;upu-at@1-5;upu-au@1-18;upu-av@1-14;upu-aw@1-19;upu-ax@1-20;upu-ay@1-9;upu-az@1-547;upu-ba@1-19;upu-bb@1-580;upu-bc@1-5;upu-bd@1-1;upu-be@1-49;upu-bf@1-17;upu-bg@1-1;esi-aa@1-3;esi-ab@1-4;bsg-aa@1-9;dzm-aa@1-9;gja-aa@1-7;dgq-aa@1-281;gya-aa@1-217;cyo-aa@1-231;fle-aa@1-122;fle-ab@1-16;fle-ac@1-95;cye-aa@1-16;gao-aa@1-16;cqc-aa@1-16;cqc-ab@1-1;cqc-ac@1-1;cqc-ad@1-27;cqc-ae@1-17;gls-aa@1-3;gls-ab@1-5;ewe-aa@1-3;gay-aa@1-2;hdk-aa@1-4;dzc-aa@1-22;dsy-aa@1-65;ccq-aa@1-12;fqo-aa@1-1;fby-aa@1-2;fby-ab@1-10;fby-ac@1-1;gfe-aa@1-3;gfe-ab@1-21;crg-aa@1-26;fxm-aa@1-15;bpy-aa@1-25,37287
+V0017,Classical,Drama,,dha-aa@1-94;emo-aa@1-1079;emo-ab@1-1089;emo-ac@1-1116;emo-ad@1-1075;emo-ae@1-1656;emo-af@1-1055;emo-ag@1-3368;emo-ah@1-1240;emo-ai@1-7;emo-aj@1-1052;eaq-aa@1-74;ddy-aa@1-10;buy-aa@1-13;fnw-aa@1-35;fiw-aa@1-30;gsq-aa@1-94;epg-aa@1-5;grw-aa@1-12;cjy-aa@1-8;eii-aa@1-26;cbm-aa@1-14;cbm-ab@1-6,74943
+V0018,Classical,Drama,,cbm-ac@1-1397;cbm-ad@1-1573;cbm-ae@1-584;cbm-af@1-1687;cbm-ag@1-1267;cbm-ah@1-1026;cbm-ai@1-1193;cbm-aj@1-1206;cbm-ak@1-1385;cbm-al@1-178,71487
+V0019,Classical,Drama,,cbm-am@1-2833;cbm-an@1-171;cbm-ao@1-477;cbm-ap@1-355;cbm-aq@1-1135;cbm-ar@1-4;cbm-as@1-1369;cbm-at@1-123;cbm-au@1-133;cbm-av@1-1333;cbm-aw@1-681;cbm-ax@1-1304;cbm-ay@1-1630;cbm-az@1-98;cbm-ba@1-1206,80179
+V0020,Classical,Drama,,cbm-bb@1-1652;cbm-bc@1-32;cbm-bd@1-951;cbm-be@1-1335;cbm-bf@1-1563;chg-aa@1-1;chg-ab@1-25;cxu-aa@1-12;dvg-aa@1-4;cps-aa@1-12;gmc-aa@1-5;geu-aa@1-3;buo-aa@1-1389;buo-ab@1-1280;buo-ac@1-1870;buo-ad@1-1536;buo-ae@1-1506;buo-af@1-7;buo-ag@1-5,79007
+V0021,Classical,Drama,,buo-ah@1-1332;buo-ai@1-2384;buo-aj@1-1504;dru-aa@1-163;dru-ab@1-4;heo-aa@1-14;fjg-aa@1-59;gyu-aa@1-992;gyu-ab@1-167;gyu-ac@1-1658;eba-aa@1-3,44416
+V0022,Classical,Comedy,,fim-aa@1-45;fim-ab@1-29;fim-ac@1-4;dwa-aa@1-56;dwa-ab@1-37;foq-aa@1-144;foq-ab@1-129;hbw-aa@1-217;hbw-ab@1-194;hdu-aa@1-106;hdu-ab@1-98;cks-aa@1-7;cks-ab@1-6;fgy-aa@1-1056;fgy-ab@1-979;hee-aa@1-12;hee-ab@1-11;eem-aa@1-12;eem-ab@1-8;fgo-aa@1-27;fgo-ab@1-13;ebk-aa@1-83;ebk-ab@1-53;ebk-ac@1-7;equ-aa@1-12;equ-ab@1-7;dts-aa@1-10;daw-aa@1-774;daw-ab@1-731;daw-ac@1-716;daw-ad@1-809;daw-ae@1-1006;daw-af@1-1262;daw-ag@1-787;daw-ah@1-76;daw-ai@1-77;daw-aj@1-21;daw-ak@1-20;daw-al@1-938,77642
+V0023,Classical,Comedy,,daw-am@1-782;daw-an@1-967;daw-ao@1-1395;daw-ap@1-1091;daw-aq@1-1031;daw-ar@1-821;fua-aa@1-65;fua-ab@1-66;gtk-aa@1-35;gtk-ab@1-36;gzo-aa@1-7;gzo-ab@1-7;gta-aa@1-47;gta-ab@1-44;dkc-aa@1-37;dkc-ab@1-19;dxo-aa@1-11;dxo-ab@1-6;eec-aa@1-17;eec-ab@1-16;gmw-aa@1-18;gmw-ab@1-19;dac-aa@1-93;dac-ab@1-63;dac-ac@1-7;dac-ad@1-2;czs-aa@1-579;czs-ab@1-400;czs-ac@1-32;czs-ad@1-66;czs-ae@1-4;hmg-aa@1-29;hmg-ab@1-28;eds-aa@1-9;eds-ab@1-8;gzy-aa@1-2;gzy-ab@1-2;dam-aa@1-21;dam-ab@1-15;fsc-aa@1-71;fsc-ab@1-70;gpo-aa@1-8;gpo-ab@1-9;fkk-aa@1-104;fkk-ab@1-101;fka-aa@1-65;fka-ab@1-60;cwq-aa@1-11;eyc-aa@1-26;eyc-ab@1-25;fpa-aa@1-375;fpa-ab@1-342;ery-aa@1-74;ery-ab@1-74;dum-aa@1-692;dum-ab@1-522,82243
+V0024,Classical,Comedy,,dum-ac@1-77;dum-ad@1-152;dum-ae@1-10;fdm-aa@1-29;fdm-ab@1-29;fqy-aa@1-4;fqy-ab@1-4;djs-aa@1-168;djs-ab@1-131;djs-ac@1-10;gmm-aa@1-5;gmm-ab@1-5;dso-aa@1-13;dso-ab@1-20;cxa-aa@1-11;cxa-ab@1-9;cxk-aa@1-32;cxk-ab@1-28;fpk-aa@1-38;fpk-ab@1-37;fqe-aa@1-13;fqe-ab@1-14;fcs-aa@1-26;fcs-ab@1-16;fcs-ac@1-6;gli-aa@1-33;gli-ab@1-31;eis-aa@1-41;eis-ab@1-25;fvo-aa@1-7;fvo-ab@1-7;dxy-aa@1-443;dxy-ab@1-350;dxy-ac@1-24;gcm-aa@1-42;gcm-ab@1-38;hgc-aa@1-74;hgc-ab@1-62;gcw-aa@1-8;gcw-ab@1-7;gcw-ac@1-10;gdg-aa@1-22;gdg-ab@1-8;fdc-aa@1-46;fdc-ab@1-33;duw-aa@1-126;duw-ab@1-88;duw-ac@1-9;efq-aa@1-423;efq-ab@1-311;efq-ac@1-32;efq-ad@1-6;efq-ae@1-10;cfi-aa@1-6;cfi-ab@1-6;eew-aa@1-19;eew-ab@1-14;fly-aa@1-12;fly-ab@1-9;gfo-aa@1-14;gfo-ab@1-14;evu-aa@1-24;evu-ab@1-26;evu-ac@1-17;eco-aa@1-131;eco-ab@1-109;eco-ac@1-11;eco-ad@1-21;edi-aa@1-85;edi-ab@1-59;ggs-aa@1-42;ggs-ab@1-43;efg-aa@1-151;efg-ab@1-120;efg-ac@1-5;hcq-aa@1-169;hcq-ab@1-172;hcq-ac@1-5;hcq-ad@1-8;cgm-aa@1-4;cgm-ab@1-4;gsg-aa@1-34;hlc-aa@1-55,36266
+V0025,Classical,Fiction,,hlc-ab@1-5;fza-aa@1-4;dca-aa@1-4;ezg-aa@1-1;hlm-aa@1-11;hgm-aa@1-3;cas-aa@1-4;cnk-aa@1-6;eug-aa@1-7;fhi-aa@1-338;fhi-ab@1-33;fhi-ac@1-46;gue-aa@1-1;fmi-aa@1-8;ebu-aa@1-63;dxe-aa@1-16;ela-aa@1-7;cnu-aa@1-3;gxq-aa@1-3;duc-aa@1-7;hiu-aa@1-2;fau-aa@1-8,30036
+V0026,Classical,History,,ere-aa@1-5;guo-aa@1-7;guo-ab@1-1;cna-aa@1-6;bvs-aa@1-3;guy-aa@1-2;gvi-aa@1-4;ero-aa@1-2;fsw-aa@1-2;fsw-ab@1-48;fsw-ac@1-68;gvs-aa@1-7;brm-aa@1-32;gng-aa@1-3;gnq-aa@1-5;fms-aa@1-3;hbc-aa@1-2;clm-aa@1-6;dji-aa@1-12;epq-aa@1-10;epq-ab@1-3;fyq-aa@1-6;goa-aa@1-2;clw-aa@1-23;gok-aa@1-15;cmg-aa@1-14;bta-aa@1-10;bta-ab@1-2;ftg-aa@1-31;gou-aa@1-6;dzw-aa@1-3;gpe-aa@1-17;cvc-aa@1-2;fyg-aa@1-8;hey-aa@1-8;cmq-aa@1-2;fbe-aa@1-47;fbe-ab@1-282;fbe-ac@1-3;grc-aa@1-1;gpy-aa@1-3;fbo-aa@1-8;cdk-aa@1-4;cvm-aa@1-42;cvm-ab@1-306;cvm-ac@1-1;ecy-aa@1-1;ecy-ab@1-11;ecy-ac@1-13;ecy-ad@1-60;ecy-ae@1-2;fku-aa@1-5;cdu-aa@1-3;evk-aa@1-63,70018
+V0027,Classical,History,,elu-aa@1-455,61852
+V0028,Classical,History,,elu-aa@456-986,61825
+V0029,Classical,History,,elu-aa@987-1519;cvw-aa@1-12;dwu-aa@1-10;gig-aa@1-5;giq-aa@1-1;fri-aa@1-3;fri-ab@1-30;ekg-aa@1-4;gjk-aa@1-1;cey-aa@1-13;gju-aa@1-3;gke-aa@1-2;bxg-aa@1-5;gko-aa@1-1;gae-aa@1-1;ekq-aa@1-4;bqi-aa@1-2;fnm-aa@1-7;dpc-aa@1-25;fnc-aa@1-3;eqk-aa@1-5;fvy-aa@1-26;bvi-aa@1-196;drk-aa@1-69;cfs-aa@1-6;ess-aa@1-1;gdq-aa@1-8;gea-aa@1-4;dlg-aa@1-6;gbs-aa@1-1;gek-aa@1-7;eva-aa@1-4;gfy-aa@1-2;bya-aa@1-2,82275
+V0030,Classical,History,,dti-aa@1-22;cgc-aa@1-10;egk-aa@1-6,2558
+V0031,Classical,History,,dny-aa@1-365,59009
+V0032,Classical,History,,dny-aa@366-616,37523
+V0033,Classical,History,,dny-aa@617-917;dny-ab@1-4;csa-aa@1-4;ewo-aa@1-1;ghm-aa@1-4;dhk-aa@1-18;fxw-aa@1-2;csk-aa@1-34;csk-ab@1-1;csu-aa@1-3;ezq-aa@1-103;ezq-ab@1-44;ezq-ac@1-141;ezq-ad@1-120;ezq-ae@1-91,81732
+V0034,Classical,History,,ezq-af@1-566,35796
+V0035,Classical,History,,ezq-ag@1-1276,79253
+V0036,Classical,History,,ezq-ah@1-174;ezq-ai@1-121;ezq-aj@1-364,34270
+V0037,Classical,History,,ezq-ak@1-1070;ezq-al@1-191,75965
+V0038,Classical,History,,ezq-am@1-1317;ezq-an@1-33;ezq-ao@1-138,64869
+V0039,Classical,Biography,,eom-aa@1-2;cte-aa@1-3;ens-aa@1-13;btk-aa@1-125;btk-ab@1-24;etm-aa@1-4;byk-aa@1-20;byk-ab@1-19;byu-aa@1-192;byu-ab@1-422,40871
+V0040,Classical,Presocratic,,bze-aa@1-36;bze-ab@1-13;die-aa@1-106;die-ab@1-164;die-ac@1-1;exs-aa@1-9;exs-ab@1-8;cui-aa@1-19;cui-ab@1-4;czi-aa@1-1;coo-aa@1-2;coo-ab@1-2;btu-aa@1-15;dio-aa@1-2;eow-aa@1-5;diy-aa@1-21,31560
+V0041,Classical,Eleatic,,diy-ab@1-12;bwc-aa@1-5;dei-aa@1-3;faa-aa@1-29;faa-ab@1-11;dcu-aa@1-2;hcg-aa@1-5;hcg-ab@1-1;gqi-aa@1-1;ffa-aa@1-2;gqs-aa@1-6;gqs-ab@1-5;eyw-aa@1-3;eyw-ab@1-1;ewy-aa@1-2;bwm-aa@1-3;eoc-aa@1-41;eoc-ab@1-8;eoc-ac@1-3;cqm-aa@1-5;bue-aa@1-33;bue-ab@1-27;bue-ac@1-3;exi-aa@1-4;eag-aa@1-22;eag-ab@1-4;dra-aa@1-37;dra-ab@1-8;dmk-aa@1-26;dmk-ab@1-5;dmk-ac@1-27;fhs-aa@1-16,30036
+V0042,Classical,Democritean,,fhs-ab@1-3;dmu-aa@1-3;hik-aa@1-9;hik-ab@1-6;dkm-aa@1-50;ejw-aa@1-3;bqs-aa@1-27;bqs-ab@1-85;bqs-ac@1-39;bqs-ad@1-38;bqs-ae@1-31;bqs-af@1-29;bqs-ag@1-33;bqs-ah@1-132;bqs-ai@1-9;dbg-aa@1-5;brc-aa@1-9;brc-ab@1-155;brc-ac@1-140,33698
+V0043,Classical,Sophist,,brc-ad@1-24;dwk-aa@1-2;bzo-aa@1-7;bzo-ab@1-23;bzo-ac@1-112;bzo-ad@1-7;bzo-ae@1-81;bzy-aa@1-1;cje-aa@1-11;etc-aa@1-2;dys-aa@1-138;dys-ab@1-17;dyi-aa@1-114;frs-aa@1-3;dhu-aa@1-163;dhu-ab@1-133;hks-aa@1-101,30414
+V0044,Classical,Cynic,,hks-ab@1-2;gwc-aa@1-43;fak-aa@1-2;ejm-aa@1-7;fpu-aa@1-2;ddo-aa@1-1;hhq-aa@1-2;hhq-ab@1-12;fdw-aa@1-6;fdw-ab@1-65;fve-aa@1-9;feg-aa@1-118;dno-aa@1-4;dno-ab@1-5;ffk-aa@1-113,37914
+V0045,Classical,Platonist,,ffk-ac@1-355;ffk-ad@1-229;ffk-ae@1-903;ffk-af@1-181,28725
+V0046,Classical,Platonist,,ffk-ag@1-1221,88157
+V0047,Classical,Platonist,,ffk-ah@1-26;ffk-ai@1-67;ffk-aj@1-161;ffk-ak@1-2;ffk-al@1-120;ffk-am@1-1019;ffk-an@1-114,81245
+V0048,Classical,Platonist,,ffk-ao@1-4;ffk-ap@1-232;ffk-aq@1-33;ffk-ar@1-891;ffk-as@1-5;ffk-at@1-761;ffk-au@1-93;ffk-av@1-33;ffk-aw@1-28,74032
+V0049,Classical,Platonist,,ffk-ax@1-373;ffk-ay@1-1140;ffk-az@1-112;ffk-ba@1-5;ffk-bb@1-1071,82213
+V0050,Classical,Platonist,,ffk-bc@1-240;ffk-bd@1-1176;ffk-be@1-135;ffk-bf@1-41;ffk-bg@1-254;ffk-bh@1-32,71702
+V0051,Classical,Platonist,,ffk-bi@1-34;ffk-bj@1-95;ffk-bk@1-2;ffk-bl@1-188,36555
+V0052,Classical,Platonist,,ffk-bm@1-1795,104595
+V0053,Classical,Platonist,,ffk-bn@1-561;ffk-bo@1-164;ega-aa@1-6;ega-ab@1-109;ega-ac@1-6;hda-aa@1-161,42619
+V0054,Classical,Aristotelian,,hgw-aa@1-218;hgw-ab@1-7;hgw-ac@1-7,77688
+V0055,Classical,Aristotelian,,hgw-ad@1-265;hgw-ae@1-50,32623
+V0056,Classical,Aristotelian,,hgw-af@1-150;hgw-ag@1-15;hgw-ah@1-2;hgw-ai@1-9;hgw-aj@1-42;hgw-ak@1-13;hgw-al@1-10;hgw-am@1-15,81874
+V0057,Classical,Aristotelian,,hgw-an@1-99;hgw-ao@1-5;hgw-ap@1-27;hgw-aq@1-22;hgw-ar@1-10;hgw-as@1-10;hgw-at@1-6;hgw-au@1-118,71510
+V0058,Classical,Aristotelian,,hgw-av@1-307,94141
+V0059,Classical,Aristotelian,,hgw-aw@1-176;hgw-ax@1-36;hgw-ay@1-18,71845
+V0060,Classical,Aristotelian,,hgw-az@1-796,64483
+V0061,Classical,Aristotelian,,hgw-ba@1-72,26299
+V0062,Classical,Aristotelian,,hgw-bb@1-156;hgw-bc@1-21,66197
+V0063,Classical,Aristotelian,,hgw-bd@1-92;hgw-be@1-12;hgw-bf@1-20;hgw-bg@1-388;hgw-bh@1-22;hgw-bi@1-78,75293
+V0064,Classical,Aristotelian,,hgw-bj@1-228,78910
+V0065,Classical,Aristotelian,,hgw-bk@1-105;hgw-bl@1-68;hgw-bm@1-12;hgw-bn@1-10;hgw-bo@1-6;hgw-bp@1-30;hgw-bq@1-32,79466
+V0066,Classical,Aristotelian,,hgw-br@1-22;hgw-bs@1-2;hgw-bt@1-4;hgw-bu@1-24;hgw-bv@1-18;hgw-bw@1-10;hgw-bx@1-484;hgw-by@1-1,46536
+V0067,Classical,Aristotelian,,hgw-bz@1-181,65574
+V0068,Classical,Aristotelian,,hgw-ca@1-133;hgw-cb@1-7,44011
+V0069,Classical,Aristotelian,,hgw-cc@1-173,55509
+V0070,Classical,Aristotelian,,hgw-cd@1-130,44184
+V0071,Classical,Peripatetic,,clc-aa@1-2;gww-aa@1-47;gww-ab@1-2;hki-aa@1-127;hjy-aa@1-2;fuk-aa@1-159;fuu-aa@1-1;ceo-aa@1-5;flo-aa@1-42,35311
+V0072,Classical,Stoic,,hje-aa@1-13;coe-aa@1-6;chq-aa@1-8;eho-aa@1-5;hfs-aa@1-5;hfs-ab@1-10;dfc-aa@1-6;dde-aa@1-2;cty-aa@1-5;cty-ab@1-9;ccg-aa@1-10;ccg-ab@1-7;ccg-ac@1-132;ccg-ad@1-6;ccg-ae@1-4;ccg-af@1-31;ccg-ag@1-8;cia-aa@1-1;cik-aa@1-8;cki-aa@1-2;cqw-aa@1-3;cqw-ab@1-3;has-aa@1-14;bxq-aa@1-11;bxq-ab@1-8;gcc-aa@1-3;dpm-aa@1-3;ciu-aa@1-59;ggi-aa@1-2;dqq-aa@1-6;hbm-aa@1-205,39995
+V0073,Classical,Oratory,,hbm-ab@1-164;hbm-ac@1-148;hbm-ad@1-53;etw-aa@1-2;eym-aa@1-39;eym-ab@1-37;eym-ac@1-25;eym-ad@1-125;eym-ae@1-12;fzu-aa@1-2;hlw-aa@1-148;hlw-ab@1-1;hlw-ac@1-1;fsm-aa@1-51;fsm-ab@1-29;fsm-ac@1-74;fsm-ad@1-26;fsm-ae@1-60;fsm-af@1-84;fsm-ag@1-27,79131
+V0074,Classical,Oratory,,fsm-ah@1-274;fsm-ai@1-33;fsm-aj@1-53;fsm-ak@1-74;fsm-al@1-77;fsm-am@1-41;fsm-an@1-53;fsm-ao@1-22;fsm-ap@1-27;fsm-aq@1-64;fsm-ar@1-57;fsm-as@1-50;fsm-at@1-90;fsm-au@1-23;fsm-av@1-58;fsm-aw@1-34;fsm-ax@1-30,81123
+V0075,Classical,Oratory,,fsm-ay@1-200;fsm-az@1-156;fsm-ba@1-33;fsm-bb@1-55;fsm-bc@1-47;fsm-bd@1-29;fsm-be@1-41;fsm-bf@1-55;fsm-bg@1-22;fsm-bh@1-36;fsm-bi@1-16;fsm-bj@1-17;fsm-bk@1-26;fsm-bl@1-87;fsm-bm@1-40;fsm-bn@1-204;fsm-bo@1-27,80271
+V0076,Classical,Oratory,,fsm-bp@1-66;fsm-bq@1-134;fsm-br@1-60;fsm-bs@1-204;fsm-bt@1-44;fsm-bu@1-52;fsm-bv@1-27;fsm-bw@1-64;fsm-bx@1-45;fsm-by@1-20;fsm-bz@1-38;fsm-ca@1-26;fsm-cb@1-102,65542
+V0077,Classical,Oratory,,fsm-cc@1-300;fsm-cd@1-37;fsm-ce@1-28;fsm-cf@1-25;fsm-cg@1-34;fsm-ch@1-70;fsm-ci@1-32;fsm-cj@1-21;fsm-ck@1-36;fsm-cl@1-49;eme-aa@1-39;eme-ab@1-46;eme-ac@1-1;dqg-aa@1-4;dqg-ab@1-17;dqg-ac@1-13;dqg-ad@1-20;fci-aa@1-30;fci-ab@1-42;fci-ac@1-21;fci-ad@1-18;fci-ae@1-17;fci-af@1-284;fci-ag@1-15;fge-aa@1-22;fge-ab@1-23;fge-ac@1-48;fge-ad@1-35,81913
+V0078,Classical,Oratory,,fge-ae@1-40;fge-af@1-11;fge-ag@1-30;fge-ah@1-34;fge-ai@1-35;fge-aj@1-39;fge-ak@1-51;fge-al@1-40;fge-am@1-19;ffu-aa@1-48;ffu-ab@1-11;ffu-ac@1-50;ffu-ad@1-15;ffu-ae@1-12;ffu-af@1-32;ffu-ag@1-16;ffu-ah@1-55;ffu-ai@1-10;ffu-aj@1-3;ffu-ak@1-8;ffu-al@1-43;ffu-am@1-9;ffu-an@1-7;ffu-ao@1-201;ffu-ap@1-40;ffu-aq@1-19;ffu-ar@1-39;ffu-as@1-17;ffu-at@1-74;ffu-au@1-11;ffu-av@1-40,82187
+V0079,Classical,Oratory,,ffu-aw@1-115;ffu-ax@1-147;ffu-ay@1-36;ffu-az@1-47;ffu-ba@1-82;ffu-bb@1-34;ffu-bc@1-45;ffu-bd@1-40;ffu-be@1-100;ghw-aa@1-8;hfi-aa@1-138;hfi-ab@1-102;ejc-aa@1-20;ejc-ab@1-17;ejc-ac@1-15;ejc-ad@1-26;ejc-ae@1-8,82189
+V0080,Classical,Oratory,,ejc-af@1-18;ejc-ag@1-60;ejc-ah@1-20;ejc-ai@1-34;ejc-aj@1-10;ejc-ak@1-11;ejc-al@1-33;ejc-am@1-41;ejc-an@1-14;ejc-ao@1-37;ejc-ap@1-86;ejc-aq@1-37;ejc-ar@1-87;ejc-as@1-6;ejc-at@1-48;ejc-au@1-49;ejc-av@1-15;ejc-aw@1-24;ejc-ax@1-25;ejc-ay@1-23;ejc-az@1-15;ejc-ba@1-18;ejc-bb@1-28;ejc-bc@1-11;ejc-bd@1-26;ejc-be@1-38;ejc-bf@1-35;ejc-bg@1-17;ejc-bh@1-38;ejc-bi@1-42;ejc-bj@1-8;fog-aa@1-2;dpw-aa@1-24;dpw-ab@1-15;coy-aa@1-32;coy-ab@1-21;elk-aa@1-1;elk-ab@1-1;dvq-aa@1-14;dvq-ab@1-12;ghc-aa@1-1;cda-aa@1-13;cjo-aa@1-1,69452
+V0081,Classical,Science,,ftq-aa@1-236;hhg-aa@1-7;hhg-ab@1-10;hhg-ac@1-88;hhg-ad@1-2;hhg-ae@1-144;hhg-af@1-5;eni-aa@1-8;eni-ab@1-10;feq-aa@1-25;feq-ab@1-396;fwi-aa@1-3,59299
+V0082,Classical,Mathematics,,dma-aa@1-2;cus-aa@1-6;cpi-aa@1-5;ehy-aa@1-36;ehy-ab@1-184,30460
+V0083,Classical,Medicine,,ehy-ac@1-2;bww-aa@1-63;bww-ab@1-31;bww-ac@1-4;bww-ad@1-20;bww-ae@1-41;bww-af@1-21;bww-ag@1-19;bww-ah@1-3;bww-ai@1-27;bww-aj@1-3;bww-ak@1-1;bww-al@1-58;bww-am@1-17,80382
+V0084,Classical,Medicine,,bww-an@1-86;bww-ao@1-20;bww-ap@1-5;bww-ar@1-1;bww-as@1-14;bww-at@1-24;bww-au@1-19;bww-av@1-125;bww-aw@1-317;bww-ax@1-10;bww-ay@1-14;bww-az@1-39;bww-ba@1-26,81459
+V0085,Classical,Medicine,,bww-bb@1-10;bww-bc@1-8;bww-bd@1-22;bww-be@1-6;bww-bf@1-28;bww-bg@1-118;bww-bh@1-1;bww-bi@1-45;bww-bj@1-12;bww-bk@1-16;bww-bl@1-48;bww-bm@1-11;bww-bn@1-8;bww-bo@1-1;bww-bp@1-25;bww-bq@1-211;bww-bs@1-34;bww-bt@1-14;bww-bu@1-17,61280
+V0086,Classical,Medicine,,bww-bv@1-84;bww-bw@1-20;bww-bx@1-7;bww-by@1-11;bww-bz@1-19;bww-ca@1-12;bww-cb@1-227,82108
+V0087,Classical,Medicine,,bww-cc@1-36;bww-cd@1-94;bww-ce@1-12;bww-cf@1-1;bww-cg@1-5;bww-ch@1-47;bww-ci@1-116;bww-cj@1-44;bww-ck@1-61;bww-cl@1-106;bww-cm@1-160;bww-cn@1-124;hai-aa@1-3;fws-aa@1-2,69843
+V0088,Classical,Grammar,,cai-aa@1-2;gky-aa@1-14;dlq-aa@1-276;cto-aa@1-493;cto-ab@1-1525,76535
+V0089,Classical,Scholia,,cto-ac@1-3;cto-ad@1-5;cto-ae@1-3;cto-af@1-12;cto-ag@1-1,2430
+V0090,Classical,Scholia,,cto-ah@1-890,51436
+V0091,Classical,Scholia,,cto-ah@891-1859,51463
+V0092,Classical,Scholia,,cto-ah@1860-2825;cto-ai@1-205,60773
+V0093,Classical,Scholia,,cto-aj@1-601,50351
+V0094,Classical,Scholia,,cto-aj@602-1402,57527
+V0095,Classical,Scholia,,cto-aj@1403-2100;cto-ak@1-626;cto-al@1-9,55915
+V0096,Classical,,,hia-aa@1-14;hia-ab@1-24;hia-ac@1-3;fic-aa@1-103;cbw-aa@1-16;dkw-aa@1-2;fxc-aa@1-23;egu-aa@1-2,14684
+V0097,Hellenistic,Epic,,jco-aa@1-3;jco-ab@1-10;jfq-aa@1-5837;jfq-ab@1-42;kaa-aa@1-6;keq-aa@1-9;kak-aa@1-1;mfi-aa@1-10;mfi-ab@1-47;jxs-aa@1-42;kjq-aa@1-5;kjq-ab@1-32;kjq-ac@1-2;kjq-ad@1-5;kjq-ae@1-3;kjq-af@1-40;kjq-ag@1-21;kjq-ah@1-4;kjq-ai@1-2;kjq-aj@1-1;kjq-ak@1-15;kjq-al@1-2;kjq-am@1-1;kjq-an@1-16;kjq-ao@1-22;kjq-ap@1-14;kjq-aq@1-1;kjq-ar@1-2;kog-aa@1-215;kog-ab@1-134;kog-ac@1-10;jvk-aa@1-1;jvk-ab@1-4;lek-aa@1-1;jym-aa@1-24;jom-aa@1-65;ica-aa@1-18;ica-ab@1-8;jqa-aa@1-25;jqa-ab@1-20;mcq-aa@1-20;izm-aa@1-5;izm-ab@1-85;izm-ac@1-62;izm-ad@1-22;izm-ae@1-58;lko-aa@1-18,51586
+V0098,Hellenistic,Poetry,,hvc-aa@1-10;hvc-ab@1-9;iuc-aa@1-48;iuc-ab@1-14;nfc-aa@1-420;knm-aa@1-12;knm-ab@1-6;lou-aa@1-42;lou-ab@1-17;jce-aa@1-216;kcs-aa@1-8;kcs-ab@1-6;mwq-aa@1-32;mwq-ab@1-98;mwq-ac@1-79;mvm-aa@1-6;iji-aa@1-6;ioi-aa@1-109;keg-aa@1-6;keg-ab@1-3;kdc-aa@1-3;icu-aa@1-18;icu-ab@1-18;kgy-aa@1-3;jug-aa@1-3;jug-ab@1-24;iha-aa@1-2;iha-ab@1-61;iha-ac@1-1;jva-aa@1-1;hzs-aa@1-34;juq-aa@1-1;jni-aa@1-45;jni-ab@1-218;jni-ac@1-104;jni-ad@1-57;lvs-aa@1-7;lmm-aa@1-66;lmm-ab@1-14;iei-aa@1-81;mpi-aa@1-41;kza-aa@1-6;kza-ab@1-61;joc-aa@1-32;mgm-aa@1-2;mdu-aa@1-127;mdu-ab@1-30;mdu-ac@1-26;mdu-ad@1-35;mdu-ae@1-166;mdu-af@1-125;lcw-aa@1-958;lcw-ab@1-631;lcw-ac@1-207;lcw-ad@1-22;lcw-ae@1-11;khi-aa@1-28;lnq-aa@1-56;jqu-aa@1-9;jqu-ab@1-12;mje-aa@1-42;mje-ab@1-270;jro-aa@1-26;iys-aa@1-11;hvm-aa@1-107;hvm-ab@1-46;hvm-ac@1-44;hvm-ad@1-6;ick-aa@1-37;hwg-aa@1-21;hwg-ab@1-108;kka-aa@1-4;idy-aa@1-5;its-aa@1-15;irk-aa@1-72;izc-aa@1-28;izc-ab@1-124;izc-ac@1-5;izc-ad@1-857;izc-ae@1-20;kmi-aa@1-7;kmi-ab@1-84;lmw-aa@1-17,63794
+V0099,Hellenistic,Drama,,mjy-aa@1-1;kbo-aa@1-4;nfm-aa@1-267;isy-aa@1-208;mjo-aa@1-9;ifw-aa@1-1474;ifw-ab@1-14;nkw-aa@1-6;jme-aa@1-41;lja-aa@1-9;iqg-aa@1-17;ivq-aa@1-1068;ivq-ab@1-986;ivq-ac@1-11;hvw-aa@1-61;hvw-ab@1-59;iie-aa@1-53;iie-ab@1-42;iie-ac@1-3;ihu-aa@1-54,30305
+V0100,Hellenistic,Comedy,,ihu-ab@1-45;hrg-aa@1-26;hrg-ab@1-25;ksm-aa@1-22;ksm-ab@1-14;ivg-aa@1-49;ivg-ab@1-49;kfk-aa@1-27;kfk-ab@1-9;kfk-ac@1-158;kfk-ad@1-31;kfu-aa@1-106;kfu-ab@1-8;kfu-ac@1-360;kfu-ad@1-63;kfu-ae@1-10;kfu-af@1-8;kfu-ag@1-16;kfu-ah@1-3;kfu-ai@1-98;kge-aa@1-91;kge-ab@1-9;kfa-aa@1-1887;kfa-ab@1-10;lrc-aa@1-9;lrc-ab@1-8;lhc-aa@1-29;lhc-ab@1-30;jag-aa@1-63;jag-ab@1-64;khs-aa@1-8;khs-ab@1-7;jdi-aa@1-49;jdi-ab@1-48;hrq-aa@1-11;hrq-ab@1-12;lok-aa@1-325;lok-ab@1-297;ino-aa@1-23;ino-ab@1-21;ksc-aa@1-17;ksc-ab@1-16;jtw-aa@1-31;jtw-ab@1-29;jns-aa@1-13;jns-ab@1-10;iyi-aa@1-18;iyi-ab@1-19;kpk-aa@1-366;kpk-ab@1-8;kpk-ac@1-8;hps-aa@1-5;hps-ab@1-264;hps-ac@1-11;hps-ad@1-17;hps-ae@1-17;hps-af@1-27;hps-ag@1-24;hps-ah@1-4;hps-ai@1-22;hps-aj@1-17;hps-ak@1-19;hps-al@1-564;hps-am@1-2;hps-an@1-114;hps-ao@1-14;hps-ap@1-31;hps-aq@1-16;hps-ar@1-74;hps-as@1-16;hps-at@1-1011;hps-au@1-87;hps-av@1-110;hps-aw@1-33;hps-ax@1-33;hps-ay@1-28;hps-az@1-897;hps-ba@1-74;hps-bb@1-1764;hps-bc@1-36;hps-bd@1-1659;hps-be@1-26;hps-bf@1-247,76447
+V0101,Hellenistic,Comedy,,hps-bg@1-2118;hps-bh@1-352;hps-bi@1-31;hps-bj@1-86;hps-bk@1-75;hps-bl@1-445;hps-bm@1-1188;hps-bn@1-132;hps-bo@1-643;hps-bp@1-132;hps-bq@1-116;ibq-aa@1-2;jqk-aa@1-29;jqk-ab@1-29;hsu-aa@1-87;hsu-ab@1-83;lpe-aa@1-608;lpe-ab@1-566;lpe-ac@1-13;lpe-ad@1-18;lpe-ae@1-11;lig-aa@1-12;lig-ab@1-12;jsi-aa@1-25;jsi-ab@1-25;ios-aa@1-93;ios-ab@1-75;ios-ac@1-4;hpi-aa@1-9;lhw-aa@1-62;kyq-aa@1-15;kyq-ab@1-11;ilg-aa@1-45;ilg-ab@1-45;iti-aa@1-36;iti-ab@1-35;iti-ac@1-3;jzq-aa@1-5;jzq-ab@1-5;jjw-aa@1-10;jjw-ab@1-9;lxg-aa@1-11;lli-aa@1-58;lli-ab@1-56,50198
+V0102,Hellenistic,History,,jlu-aa@1-14;mvc-aa@1-2;luy-aa@1-3;izw-aa@1-12;izw-ab@1-1;kbe-aa@1-9;nhu-aa@1-8;nhu-ab@1-2;ijs-aa@1-7;lpy-aa@1-3;hye-aa@1-4;iio-aa@1-3;lze-aa@1-5;mps-aa@1-1;lhm-aa@1-2;mks-aa@1-4;imu-aa@1-9;moe-aa@1-6;lcm-aa@1-10;lcm-ab@1-285;kvo-aa@1-51;jba-aa@1-7;jcy-aa@1-3;jcy-ab@1-1;lqi-aa@1-10;mlm-aa@1-38;kci-aa@1-12;kci-ab@1-1;kby-aa@1-7;mik-aa@1-20;nie-aa@1-9;nie-ab@1-1;lae-aa@1-3;ira-aa@1-8;knw-aa@1-3;ido-aa@1-3;kws-aa@1-8;mvw-aa@1-7;mzs-aa@1-70;mey-aa@1-11;iqq-aa@1-23;mqw-aa@1-18;hsk-aa@1-22;jec-aa@1-12;lfe-aa@1-4;kyg-aa@1-2;ine-aa@1-7;ikc-aa@1-6;ltk-aa@1-9;iwk-aa@1-11;hqw-aa@1-7;lqs-aa@1-1;nde-aa@1-12,41808
+V0103,Hellenistic,History,,nde-ab@1-1295,73391
+V0104,Hellenistic,History,,nde-ab@1296-2368,59141
+V0105,Hellenistic,History,,nde-ab@2369-3858,77329
+V0106,Hellenistic,History,,nde-ab@3859-4873,54196
+V0107,Hellenistic,History,,nde-ab@4874-6336,76376
+V0108,Hellenistic,History,,nde-ab@6337-7424,59333
+V0109,Hellenistic,History,,nde-ac@1-852;ndy-aa@1-5;ndy-ab@1-17;ndy-ac@1-38,71209
+V0110,Hellenistic,History,,ndy-ad@1-66;ndy-ae@1-38;ndy-af@1-81;ndy-ag@1-27;ndy-ah@1-4;ndy-ai@1-23;ndy-aj@1-62;ndy-ak@1-16,72616
+V0111,Hellenistic,History,,ndy-al@1-925,73430
+V0112,Hellenistic,History,,ndy-al@926-1777,75059
+V0113,Hellenistic,History,,ndy-al@1778-2735,76017
+V0114,Hellenistic,History,,ndy-al@2736-3563;ndy-am@1-121,82484
+V0115,Hellenistic,History,,ndy-an@1-18;ndy-ao@1-68;ndy-ap@1-26;ndy-aq@1-11;ndy-ar@1-1;mki-aa@1-15;kdm-aa@1-11;kdm-ab@1-1;jga-aa@1-9;lju-aa@1-8;lju-ab@1-91;kic-aa@1-3;jwo-aa@1-4;krs-aa@1-2;ksw-aa@1-36;mbc-aa@1-23;mfs-aa@1-5;jwy-aa@1-5;hoe-aa@1-14;hoe-ab@1-6;hoe-ac@1-61;hoe-ad@1-20;jwe-aa@1-41;ihk-aa@1-7;lbs-aa@1-61;lbs-ab@1-19;mzi-aa@1-1;iiy-aa@1-3;hoo-aa@1-13;hyy-aa@1-2;mmg-aa@1-5;mmg-ab@1-1;mmg-ac@1-1;mmg-ad@1-11;mmg-ae@1-4;mmg-af@1-4;mmg-ag@1-2;mmg-ah@1-1;mmg-ai@1-28;mmg-aj@1-9;mmg-ak@1-1;mmg-al@1-1;mmg-am@1-1;mmg-an@1-2;mmg-ao@1-4;mmg-ap@1-1;mmg-aq@1-8;mmg-ar@1-7;mmg-as@1-3;mmg-at@1-1;mmg-au@1-1;mmg-av@1-2;mmg-aw@1-1,81241
+V0116,Hellenistic,History,,mmg-ax@1-35;mmg-ay@1-1;mmg-az@1-1;mmg-ba@1-2;mmg-bb@1-1;mmg-bc@1-10;mmg-bd@1-2;mmg-be@1-1;mmg-bf@1-2;mmg-bg@1-1;mmg-bh@1-2;mmg-bi@1-5;mmg-bj@1-4;mmg-bk@1-1;mmg-bl@1-2;mmg-bm@1-1;mmq-aa@1-3;hxa-aa@1-20;jbu-aa@1-66;jbu-ab@1-1;nlg-aa@1-91;ktg-aa@1-9;mrg-aa@1-3;kgo-aa@1-2;kgo-ab@1-17;iam-aa@1-13;ima-aa@1-108;kqo-aa@1-2;mcg-aa@1-7;lng-aa@1-67;jpg-aa@1-11;mxa-aa@1-1;njs-aa@1-3;mnu-aa@1-12;jpq-aa@1-20;iac-aa@1-41;moy-aa@1-3;lpo-aa@1-2;kim-aa@1-3;iuw-aa@1-19;jre-aa@1-2;jre-ab@1-2;jre-ac@1-22;jre-ad@1-2;jre-ae@1-12;jre-af@1-2;jre-ag@1-2;hto-aa@1-5;jry-aa@1-7;jgk-aa@1-5;hoy-aa@1-4;kiw-aa@1-5;lke-aa@1-8;lke-ab@1-267;lke-ac@1-1;hwq-aa@1-40;hwq-ab@1-2;jds-aa@1-7;jds-ab@1-92;ldg-aa@1-142,74035
+V0117,Hellenistic,History,,ldg-ab@1-2328,62841
+V0118,Hellenistic,History,,ldg-ab@2329-4705,62829
+V0119,Hellenistic,History,,ldg-ab@4706-7110,62874
+V0120,Hellenistic,History,,ldg-ab@7111-9640,62834
+V0121,Hellenistic,History,,ldg-ab@9641-12381;ldg-ac@1-2;lzy-aa@1-4;jkq-aa@1-2;ifc-aa@1-2;jis-aa@1-1;ipm-aa@1-2;kri-aa@1-9;luo-aa@1-12;ikw-aa@1-3;jjc-aa@1-5;moo-aa@1-23;jhy-aa@1-2;ktq-aa@1-10;nbg-aa@1-4;kuk-aa@1-18;kvy-aa@1-23;myo-aa@1-4;jjm-aa@1-16;jmy-aa@1-5;hxk-aa@1-46,72868
+V0122,Hellenistic,History,,hxk-ab@1-210;hxk-ac@1-2;nes-aa@1-12;ldq-aa@1-7;hus-aa@1-3;kwi-aa@1-35;lls-aa@1-15;lrw-aa@1-11;knc-aa@1-149,33078
+V0123,Hellenistic,Biography,,knc-ab@1-4;knc-ac@1-2;kku-aa@1-4;iru-aa@1-1;iru-ab@1-5;iru-ac@1-8;iru-ad@1-3;iru-ae@1-9;iru-af@1-4;iru-ag@1-22;iru-ah@1-20;iru-ai@1-6;iru-aj@1-5;iru-ak@1-2;iru-al@1-2;iru-am@1-4;iru-an@1-16;kua-aa@1-1;jho-aa@1-1;jho-ab@1-12;jho-ac@1-3;jho-ad@1-4;jho-ae@1-4;jho-af@1-5;jho-ag@1-1;jho-ah@1-1;jho-ai@1-1;jho-aj@1-3;jho-ak@1-55;jho-al@1-2;jii-aa@1-62;jii-ab@1-31,49210
+V0124,Hellenistic,Geography,,loa-aa@1-45;jkg-aa@1-16;mbm-aa@1-4;mgc-aa@1-7;jvu-aa@1-39;lzo-aa@1-6;kpu-aa@1-59;kpu-ab@1-5;mna-aa@1-67;mna-ab@1-16;hqc-aa@1-22,17940
+V0125,Hellenistic,Geography,,nck-aa@1-1667;nck-ab@1-2;nck-ac@1-19,75392
+V0126,Hellenistic,Geography,,nck-ad@1-300,70825
+V0127,Hellenistic,Geography,,nck-ad@301-602,63750
+V0128,Hellenistic,Geography,,nck-ad@603-1101,80080
+V0129,Hellenistic,Geography,,nck-ad@1102-1491;mhg-aa@1-15,71014
+V0130,Hellenistic,Pythagorean,,dck-aa@1-3;lrm-aa@1-104;jow-aa@1-2;kjg-aa@1-6;mye-aa@1-2;lay-aa@1-3;mxk-aa@1-44;jla-aa@1-3;mwg-aa@1-78;crq-aa@1-4,34881
+V0131,Hellenistic,Sophist,,lfy-aa@1-3;hmq-aa@1-4;mkd-aa@1-10;kkk-aa@1-2;kkk-ab@1-2;kkk-ac@1-3;kkk-ad@1-2;kkk-ae@1-2;kkk-af@1-2;kkk-ag@1-2;kkk-ah@1-2;lgs-aa@1-84;ikm-aa@1-2;jem-aa@1-2;lyz-aa@1-143,30149
+V0132,Hellenistic,Aristotelian,,kdw-aa@1-16;lue-aa@1-89;lue-ab@1-3;lue-ac@1-5;lue-ad@1-33;nbq-aa@1-36;nbq-ab@1-28;koq-aa@1-3;lbi-aa@1-12;lfo-aa@1-27,32982
+V0133,Hellenistic,Peripatetic,,kpa-aa@1-37;naw-aa@1-11;kuu-aa@1-25;mrq-aa@1-1;ilq-aa@1-36;iwa-aa@1-11;hna-aa@1-16;ipc-aa@1-84;ljk-aa@1-114;ljk-ab@1-240;ljk-ac@1-8,38045
+V0134,Hellenistic,Peripatetic,,ljk-ad@1-595;ljk-ae@1-90;ljk-af@1-16,69982
+V0135,Hellenistic,Peripatetic,,ljk-ag@1-743,72423
+V0136,Hellenistic,Peripatetic,,ljk-ah@1-140;ljk-ai@1-7;ljk-aj@1-28;ljk-ak@1-13;ljk-al@1-1;ljk-am@1-153;ljk-ao@1-144;ljk-ap@1-72;ljk-aq@1-40;ljk-ar@1-23;ljk-as@1-36;ljk-at@1-124;ljk-au@1-74,67207
+V0137,Hellenistic,Stoic,,lcc-aa@1-68;mlc-aa@1-18;jzg-aa@1-5;mnk-aa@1-22;jyw-aa@1-55;nac-aa@1-97;nac-ab@1-42;mty-aa@1-6;kms-aa@1-9;kms-ab@1-40,37765
+V0138,Hellenistic,Stoic,,kms-ac@1-1032,98302
+V0139,Hellenistic,Stoic,,kms-ad@1-3;kms-ae@1-571;kms-af@1-1;ixe-aa@1-1;jew-aa@1-158;jew-ab@1-10;lya-aa@1-5;lxq-aa@1-109;jtc-aa@1-13;ium-aa@1-28;msa-aa@1-28,65362
+V0140,Hellenistic,Stoic,,msa-ab@1-5,102342
+V0141,Hellenistic,Stoic,,msa-ac@1-197;ipw-aa@1-11;ies-aa@1-338;kve-aa@1-5,45318
+V0142,Hellenistic,Epicurean,,ibg-aa@1-20;ibg-ab@1-6;jtm-aa@1-33;jtm-ab@1-37;hui-aa@1-4;hui-ab@1-30;hui-ac@1-32;hui-ad@1-14;hui-ae@1-421;hui-af@1-21;hui-ag@1-89;hui-ah@1-46;jbk-aa@1-40;msu-aa@1-132;msu-ab@1-151;msu-ac@1-82;msu-ad@1-67;msu-ae@1-237;msu-af@1-159;msu-ag@1-42;msu-ah@1-23;msu-ai@1-6;jss-aa@1-56,81916
+V0143,Hellenistic,Epicurean,,jss-ab@1-25;hnu-aa@1-32;msk-aa@1-21;mhq-aa@1-1;lgi-aa@1-437,35812
+V0144,Hellenistic,Jewish,,lgi-ab@1-130;lgi-ac@1-231;lgi-ad@1-78;lgi-ae@1-127;lgi-af@1-128;lgi-ag@1-155;lgi-ah@1-136;lgi-ai@1-10,66836
+V0145,Hellenistic,Jewish,,lgi-aj@1-507;lgi-ak@1-99;lgi-al@1-201;lgi-am@1-178;lgi-an@1-60;lgi-ao@1-159,72735
+V0146,Hellenistic,Jewish,,lgi-ap@1-178;lgi-aq@1-56;lgi-ar@1-169;lgi-as@1-165;lgi-at@1-279;lgi-au@1-187;lgi-av@1-72;lgi-aw@1-144;lgi-ax@1-5,75335
+V0147,Hellenistic,Jewish,,lgi-ay@1-204;lgi-az@1-239;lgi-ba@1-252;lgi-bb@1-153;lgi-bc@1-10;lgi-bd@1-295;lgi-be@1-146;lgi-bf@1-152,78051
+V0148,Hellenistic,Jewish,,lgi-bg@1-837;lgi-bh@1-141;lgi-bi@1-67;lgi-bj@1-185,82175
+V0149,Hellenistic,Jewish,,lgi-bk@1-15;lgi-bl@1-473;lgi-bm@1-228;lgi-bn@1-3,39139
+V0150,Hellenistic,Philosophy,,niy-aa@1-1;iso-aa@1-1;iso-ab@1-1;iso-ac@1-13;iso-ad@1-10;iso-ae@1-3;iso-af@1-5;iso-ag@1-52;iso-ah@1-6;iso-ai@1-12;iso-aj@1-8;iso-ak@1-14;iso-al@1-64;iso-am@1-294;iso-an@1-14;iso-ao@1-9;iso-ap@1-213;iso-aq@1-18;iso-ar@1-63;hyo-aa@1-143;lmc-aa@1-1;jxi-aa@1-2;kly-aa@1-3;kly-ab@1-56;kly-ac@1-14;kly-ad@1-1;lyu-aa@1-7;ifm-aa@1-11;ifm-ab@1-60;lea-aa@1-52;lea-ab@1-8;lea-ac@1-24;lea-ad@1-72;lea-ae@1-25;lea-af@1-4;lea-ag@1-25;lea-ah@1-43;lea-ai@1-60;lea-aj@1-190;jyc-aa@1-24;mda-aa@1-36;mto-aa@1-1;jfg-aa@1-2,82481
+V0151,Hellenistic,Oratory,,hty-aa@1-1;ise-aa@1-5;hnk-aa@1-234;hqm-aa@1-28;hqm-ab@1-18;hqm-ac@1-85;hqm-ad@1-14;hqm-ae@1-208;nji-aa@1-6;mdk-aa@1-5;mbw-aa@1-16;mbw-ab@1-14;mbw-ac@1-2;igg-aa@1-6;lta-aa@1-2,37365
+V0152,Hellenistic,Theology,,ltu-aa@1-205;hte-aa@1-3;hte-ab@1-1153;hte-ac@1-8;hte-ad@1-2;hte-ae@1-2;hzi-aa@1-23;myy-aa@1-73,35374
+V0153,Hellenistic,Science,,nha-aa@1-36;meo-aa@1-30;liq-aa@1-38;liq-ab@1-15;iny-aa@1-38;lsg-aa@1-9;nhk-aa@1-113;kqe-aa@1-2;kqe-ab@1-2;kqe-ac@1-10;lyk-aa@1-368,81678
+V0154,Hellenistic,Science,,lyk-ab@1-43;lwc-aa@1-2;lao-aa@1-14;lao-ab@1-4;imk-aa@1-170;jgu-aa@1-9;jhe-aa@1-30;jhe-ab@1-41;leu-aa@1-6;leu-ab@1-20;lww-aa@1-51;lww-ab@1-14,79512
+V0155,Hellenistic,Science,,lww-ac@1-82;lky-aa@1-3,27704
+V0156,Hellenistic,Mathematics,,kle-aa@1-258;ixo-aa@1-45,69927
+V0157,Hellenistic,Mathematics,,ixo-ab@1-124;ixo-ac@1-31;ixo-ad@1-7;ixo-ae@1-100;ixo-af@1-46;ixo-ag@1-30;ixo-ah@1-48,77389
+V0158,Hellenistic,Mathematics,,ixo-ai@1-67;ixo-aj@1-4;ixo-ak@1-2;ixo-al@1-23;ixo-am@1-3;ixo-an@1-24;iaw-aa@1-6;iaw-ab@1-32;iaw-ac@1-23;iaw-ad@1-52;iaw-ae@1-15;iaw-af@1-21;iaw-ag@1-50;iaw-ah@1-26,71760
+V0159,Hellenistic,Mathematics,,iaw-ai@1-229,50948
+V0160,Hellenistic,Mathematics,,iaw-ai@230-444,50726
+V0161,Hellenistic,Mathematics,,iaw-ai@445-624;iaw-aj@1-8;iaw-ak@1-10;iaw-al@1-28;iaw-am@1-13;iaw-an@1-30;iaw-ao@1-3,71755
+V0162,Hellenistic,Mathematics,,iaw-ap@1-63;iaw-aq@1-95,30566
+V0163,Hellenistic,Medicine,,ndo-aa@1-34;kzk-aa@1-13;kzk-ab@1-28;kzk-ac@1-4;kzk-ad@1-8;kzk-ae@1-2;kzk-af@1-1;mqm-aa@1-9;jaq-aa@1-222;mas-aa@1-2;nkc-aa@1-2,36229
+V0164,Hellenistic,Grammar,,mte-aa@1-103;mia-aa@1-4645,34176
+V0165,Hellenistic,Grammar,,mia-ab@1-11703;mia-ac@1-5;mia-ad@1-1;klo-aa@1-7;klo-ab@1-10,75357
+V0166,Hellenistic,Grammar,,klo-ac@1-552;klo-ad@1-2;klo-ae@1-12;klo-af@1-12;klo-ag@1-7;klo-ah@1-14;klo-ai@1-2;klo-aj@1-93;klo-ak@1-2;hxu-aa@1-5;nio-aa@1-1;mus-aa@1-9;lsq-aa@1-79;nam-aa@1-8;nam-ab@1-27;kau-aa@1-6;kau-ab@1-36;kau-ac@1-1;mui-aa@1-80;mui-ab@1-61;mui-ac@1-1;mui-ad@1-1;ixy-aa@1-90;kxc-aa@1-1;kzu-aa@1-2,81853
+V0167,Hellenistic,Grammar,,nca-aa@1-690;jlk-aa@1-25;igq-aa@1-17;igq-ab@1-11;kqy-aa@1-27;kqy-ab@1-2;nkm-aa@1-8;nei-aa@1-41;ncu-aa@1-53;ncu-ab@1-133;ncu-ac@1-16;mai-aa@1-61;nfw-aa@1-8;mee-aa@1-6,54393
+V0168,Hellenistic,Lexicography,,jmo-aa@1-79;ngq-aa@1-1001,61477
+V0169,Hellenistic,Scholia,,ngq-ab@1-1;ngq-ac@1-41;ngq-ad@1-31;ngq-ae@1-3;ngq-af@1-1;mlw-aa@1-386;mlw-ab@1-323;mlw-ac@1-3;mlw-ad@1-1530;mlw-ae@1-1;mlw-af@1-439,47941
+V0170,Hellenistic,Scholia,,mlw-ag@1-2452;mlw-ah@1-445;mlw-ai@1-611,81649
+V0171,Hellenistic,Scholia,,mlw-aj@1-467;mlw-ak@1-876;mlw-al@1-397,42291
+V0172,Hellenistic,Scholia,,mlw-am@1-2927;mlw-an@1-1043,52985
+V0173,Hellenistic,Scholia,,mlw-ao@1-2454;mlw-ap@1-225;mlw-aq@1-1195,67838
+V0174,Hellenistic,Scholia,,mlw-ar@1-4702,48454
+V0175,Hellenistic,Scholia,,mlw-as@1-1121;mlw-at@1-765,72179
+V0176,Hellenistic,Scholia,,mlw-au@1-770;mlw-av@1-2004,63073
+V0177,Hellenistic,Scholia,,mlw-aw@1-2188;lvi-aa@1-22;lvi-ab@1-10,43959
+V0178,Hellenistic,Scholia,,lvi-ac@1-151,58274
+V0179,Hellenistic,Scholia,,lvi-ad@1-188,63493
+V0180,Hellenistic,Scholia,,lvi-ae@1-125;lvi-af@1-58;lvi-ag@1-40,75206
+V0181,Hellenistic,Scholia,,ngg-aa@1-1749,49786
+V0182,Hellenistic,,,hsa-aa@1-81,4013
+V0183,Roman,Epic,,qrw-aa@1-10;pbe-aa@1-140;nsy-aa@1-6;qky-aa@1-73;qta-aa@1-3517;rje-aa@1-2145;pge-aa@1-31;pge-ab@1-1;rki-aa@1-11,39066
+V0184,Roman,Poetry,,qja-aa@1-3;qja-ab@1-19;obk-aa@1-174;rcq-aa@1-22;rgw-aa@1-1;pkk-aa@1-49;pku-aa@1-101;pfu-aa@1-101;pfu-ab@1-24;rty-aa@1-9;rto-aa@1-45;puk-aa@1-1;puk-ab@1-1;rui-aa@1-1;pqy-aa@1-80;pqy-ab@1-2;pqy-ac@1-3;pqy-ad@1-136,32565
+V0185,Roman,Fiction,,pqy-ae@1-137;rey-aa@1-225;qhw-aa@1-3;qhw-ab@1-1;qhw-ac@1-2;rdu-aa@1-212;npw-aa@1-704;otm-aa@1-46;qay-aa@1-1;qay-ab@1-7;qqs-aa@1-129;qek-aa@1-1;qek-ab@1-4,82437
+V0186,Roman,Fiction,,qek-ac@1-1;rte-aa@1-342;oba-aa@1-6;oba-ab@1-8;oba-ac@1-2;oec-aa@1-8;oec-ab@1-45;oec-ac@1-139;qgs-aa@1-506;rnk-aa@1-249,73832
+V0187,Roman,History,,qjk-aa@1-1;ppk-aa@1-1;pdc-aa@1-22;pdc-ab@1-26;pdc-ac@1-6;pdc-ad@1-45;pdc-ae@1-77;pdc-af@1-32;pdc-ag@1-9,10761
+V0188,Roman,History,,pdc-ah@1-275,51292
+V0189,Roman,History,,pdc-ah@276-653;pdc-ai@1-49;pdc-aj@1-31,69031
+V0190,Roman,History,,pdc-ak@1-483;pdc-al@1-200;pdc-am@1-1;pdc-an@1-80;pdc-ao@1-356;pdc-ap@1-46;pdc-aq@1-534,82049
+V0191,Roman,History,,pdc-ar@1-294;qfe-aa@1-3;rwg-aa@1-4;pri-aa@1-9;qdq-aa@1-16;qiq-aa@1-59;nxy-aa@1-6;ouq-aa@1-7;ods-aa@1-3;rpi-aa@1-52;otc-aa@1-7;otc-ab@1-15;rhq-aa@1-69;rhq-ab@1-13;rhq-ac@1-11;rhq-ad@1-1,38785
+V0192,Roman,History,,rhq-ae@1-313;rhq-af@1-3;rhq-ag@1-81;rhq-ah@1-32;rhq-ai@1-5;rhq-aj@1-22;rhq-ak@1-3,57444
+V0193,Roman,History,,rhq-al@1-398,108188
+V0194,Roman,History,,rhq-am@1-5;rhq-an@1-4;rhq-ao@1-20,2195
+V0195,Roman,History,,rhq-ap@1-1225,70741
+V0196,Roman,History,,rhq-ap@1226-2404,71889
+V0197,Roman,History,,rhq-ap@2405-3717,78571
+V0198,Roman,History,,rhq-ap@3718-4871,66438
+V0199,Roman,History,,rhq-ap@4872-6214;rhq-aq@1-5,74568
+V0200,Roman,History,,rqm-aa@1-224;rqm-ab@1-16;rqm-ac@1-1;rqm-ad@1-13;rqm-ae@1-17;rmg-aa@1-30;dne-aa@1-3;qfo-aa@1-39,60325
+V0201,Roman,History,,qzy-aa@1-736;puu-aa@1-1;ovk-aa@1-20,47360
+V0202,Roman,History,,ofq-aa@1-1261,62648
+V0203,Roman,History,,ofq-aa@1262-2757,62638
+V0204,Roman,History,,ofq-ab@1-466;ofq-ac@1-352,36297
+V0205,Roman,History,,ofq-ad@1-1024,62386
+V0206,Roman,History,,ofq-ad@1025-2043,62417
+V0207,Roman,History,,ofq-ad@2044-3175,62365
+V0208,Roman,History,,ofq-ad@3176-4374,62446
+V0209,Roman,History,,ofq-ad@4375-5548;oaq-aa@1-1;qju-aa@1-61;pvy-aa@1-6;ova-aa@1-9,74670
+V0210,Roman,History,,ocy-aa@1-207;npc-aa@1-12;nmu-aa@1-11;npm-aa@1-4;pqe-aa@1-11;ple-aa@1-4;ple-ab@1-65;ple-ac@1-63;nmk-aa@1-1;psm-aa@1-3;rjy-aa@1-10;rjy-ab@1-78;rjy-ac@1-3;rik-aa@1-14;nqq-aa@1-11;nra-aa@1-2,68990
+V0211,Roman,Biography,,nti-aa@1-52;uwi-aa@1-456;rjo-aa@1-122;rjo-ab@1-145,73502
+V0212,Roman,Biography,,rjo-ac@1-109;rjo-ad@1-64;rjo-ae@1-79;rjo-af@1-106;rjo-ag@1-199;rjo-ah@1-92;rjo-ai@1-115,71174
+V0213,Roman,Biography,,rjo-aj@1-151;rjo-ak@1-153;qvi-aa@1-1;qvi-ab@1-1;qvi-ac@1-4;qvi-ad@1-1;rlw-aa@1-65,38861
+V0214,Roman,Geography,,rps-aa@1-26;rna-aa@1-63;rna-ab@1-54;rna-ac@1-1;qtk-aa@1-47,21938
+V0215,Roman,Geography,,qvs-aa@1-873,66304
+V0216,Roman,Geography,,qvs-aa@874-1933,76317
+V0217,Roman,Geography,,qvs-aa@1934-2991,75074
+V0218,Roman,Geography,,qpe-aa@1-557;oga-aa@1-58;ola-aa@1-5;ola-ab@1-113;roy-aa@1-207;ojm-aa@1-71,42368
+V0219,Roman,Pythagorean,,nxe-aa@1-7;nxe-ab@1-98;nxe-ac@1-20;nwu-aa@1-2;nos-aa@1-1;noi-aa@1-3;pza-aa@1-127;pza-ab@1-63;bhc-aa@1-7;que-aa@1-837,59131
+V0220,Roman,Sophist,,ria-aa@1-20,2179
+V0221,Roman,Sophist,,ria-ab@1-781,103316
+V0222,Roman,Sophist,,ria-ac@1-408;ria-ad@1-233;pnc-aa@1-2;pnc-ab@1-3;pnc-ac@1-52;psw-aa@1-600,67960
+V0223,Roman,Sophist,,nxo-aa@1-72;quo-aa@1-122;qko-aa@1-32;qko-ab@1-6;nlq-aa@1-48;nlq-ab@1-158;nlq-ac@1-40;ozg-aa@1-1;ozg-ab@1-107;pwi-aa@1-70;pwi-ab@1-15,73043
+V0224,Roman,Cynic,,ogu-aa@1-33;pak-aa@1-29;pzk-aa@1-6;pzk-ab@1-11;qhm-aa@1-6;qhm-ab@1-110;rai-aa@1-69,32436
+V0225,Roman,Platonist,,rmq-aa@1-11;rmq-ab@1-28;rmq-ac@1-16;quy-aa@1-264;pyg-aa@1-2;okg-aa@1-22;okg-ab@1-106;okg-ac@1-17;okg-ad@1-9;okg-ae@1-150;okg-af@1-32;okg-ag@1-10;okg-ah@1-68;okg-ai@1-19;okg-aj@1-10,81130
+V0226,Roman,Platonist,,okg-ak@1-60;okg-al@1-9;okg-am@1-13;okg-an@1-108;okg-ao@1-73;okg-ap@1-7;okg-aq@1-25;okg-ar@1-19;okg-as@1-24;okg-at@1-124;okg-au@1-108;okg-av@1-15;okg-aw@1-7;okg-ax@1-13;okg-ay@1-12;okg-az@1-15;okg-ba@1-12;okg-bb@1-17;okg-bc@1-38;okg-bd@1-34;okg-be@1-14;okg-bf@1-16;okg-bg@1-19,81212
+V0227,Roman,Platonist,,okg-bh@1-40;okg-bi@1-215;okg-bj@1-20;okg-bk@1-12;okg-bl@1-18;okg-bm@1-21;okg-bn@1-16;okg-bo@1-18;okg-bp@1-21;okg-bq@1-53;okg-br@1-20;okg-bs@1-154,46344
+V0228,Roman,Platonist,,okg-bt@1-775;okg-bu@1-23;okg-bv@1-150;okg-bw@1-87,79088
+V0229,Roman,Platonist,,okg-bx@1-7;okg-by@1-79;okg-bz@1-53;okg-ca@1-21;okg-cb@1-110;okg-cc@1-19;okg-cd@1-15;okg-ce@1-197;okg-cf@1-6;okg-cg@1-27;okg-ch@1-114;okg-ci@1-117;okg-cj@1-20;okg-ck@1-25;okg-cl@1-25,73808
+V0230,Roman,Platonist,,okg-cm@1-210;okg-cn@1-93;okg-co@1-56;okg-cp@1-108;okg-cq@1-124;okg-cr@1-24;okg-cs@1-290;okg-ct@1-26;okg-cu@1-14,68217
+V0231,Roman,Platonist,,okg-cv@1-189;okg-cw@1-9;okg-cx@1-57;okg-cy@1-9;okg-cz@1-71;okg-da@1-150;okg-db@1-47;okg-dc@1-81;okg-dd@1-28;okg-de@1-2;okg-df@1-365,74787
+V0232,Roman,Platonist,,okg-dg@1-205;okg-dh@1-141;okg-di@1-109;okg-dj@1-225;okg-dk@1-69;okg-dl@1-44;okg-dm@1-162;okg-dn@1-134;okg-do@1-50,78663
+V0233,Roman,Platonist,,okg-dp@1-2;okg-dq@1-211;okg-dr@1-5;okg-ds@1-297;okg-dt@1-76;okg-du@1-147;okg-dv@1-2;okg-dw@1-148;okg-dx@1-123;okg-dy@1-2,78167
+V0234,Roman,Platonist,,okg-dz@1-177;okg-ea@1-16;okg-eb@1-65;okg-ec@1-46;okg-ed@1-116;okg-ee@1-171;okg-ef@1-466;okg-eg@1-144;okg-eh@1-280,78474
+V0235,Roman,Platonist,,okg-ei@1-251;okg-ej@1-2;okg-ek@1-185;okg-el@1-51;okg-em@1-199;okg-en@1-125;okg-eo@1-147;okg-ep@1-204;okg-eq@1-238,80386
+V0236,Roman,Platonist,,okg-er@1-136;okg-es@1-128;okg-et@1-177;okg-eu@1-327;okg-ev@1-177;okg-ew@1-7,74057
+V0237,Roman,Platonist,,okg-ex@1-3;okg-ey@1-122;okg-ez@1-41;okg-fa@1-178;okg-fb@1-268;okg-fc@1-174;okg-fd@1-149;okg-fe@1-476,73336
+V0238,Roman,Platonist,,okg-ff@1-233;okg-fg@1-285;okg-fh@1-341;okg-fi@1-246;okg-fj@1-10;okg-fk@1-98;okg-fl@1-102;okg-fm@1-112,80269
+V0239,Roman,Platonist,,okg-fn@1-169;okg-fo@1-175;okg-fp@1-271;okg-fq@1-73,35888
+V0240,Roman,Aristotelian,,reo-aa@1-149,53273
+V0241,Roman,Aristotelian,,reo-aa@150-287,53590
+V0242,Roman,Aristotelian,,reo-aa@288-417;reo-ab@1-4,54634
+V0243,Roman,Aristotelian,,reo-ac@1-179,61947
+V0244,Roman,Aristotelian,,reo-ac@180-368,62133
+V0245,Roman,Aristotelian,,reo-ac@369-591,62069
+V0246,Roman,Aristotelian,,reo-ad@1-227,84696
+V0247,Roman,Aristotelian,,reo-ae@1-214,67730
+V0248,Roman,Aristotelian,,reo-ae@215-375,67868
+V0249,Roman,Aristotelian,,reo-ae@376-527,68096
+V0250,Roman,Aristotelian,,reo-ae@528-682,68051
+V0251,Roman,Aristotelian,,reo-ae@683-837,67698
+V0252,Roman,Aristotelian,,reo-af@1-173,51676
+V0253,Roman,Aristotelian,,reo-ag@1-86;reo-ah@1-196;reo-ai@1-183,74088
+V0254,Roman,Aristotelian,,reo-aj@1-47;reo-ak@1-100;reo-al@1-26;reo-am@1-18;reo-an@1-80,68448
+V0255,Roman,Aristotelian,,reo-ao@1-41;reo-ap@1-49,59643
+V0256,Roman,Peripatetic,,ree-aa@1-4;ree-ab@1-9;pms-aa@1-186,70796
+V0257,Roman,Stoic,,pcs-aa@1-1;pcs-ab@1-5;pcs-ac@1-105;pcs-ad@1-8;pcs-ae@1-1;pcs-af@1-99;pcs-ag@1-27;pcs-ah@1-1;pcs-ai@1-74;pcs-aj@1-106,18936
+V0258,Roman,Stoic,,pcs-ak@1-1108;pcs-al@1-27,79002
+V0259,Roman,Stoic,,pcs-am@1-202;pcs-an@1-11;pcs-ao@1-204;pcs-ap@1-3;pcs-aq@1-120;pcs-ar@1-344;omo-aa@1-11;obu-aa@1-75;ojw-aa@1-2;ojw-ab@1-2,58264
+V0260,Roman,Stoic,,ojw-ac@1-95;ojw-ad@1-8;ojw-ae@1-40;ojw-af@1-95;nso-aa@1-2,77476
+V0261,Roman,Stoic,,pnw-aa@1-16;pnw-ab@1-5;pnw-ac@1-19;qpy-aa@1-417;nma-aa@1-41;nma-ab@1-10;nma-ac@1-21;oym-aa@1-1,56145
+V0262,Roman,Epicurean,,peg-aa@1-297;peq-aa@1-166,24048
+V0263,Roman,Pyrrhonian,,qou-aa@1-812,50957
+V0264,Roman,Pyrrhonian,,qou-aa@813-1640,50969
+V0265,Roman,Pyrrhonian,,qou-aa@1641-2451,50944
+V0266,Roman,Pyrrhonian,,qou-ab@1-737,51720
+V0267,Roman,Eclectic,,ovu-aa@1-129;ovu-ab@1-45;rrq-aa@1-1;rvw-aa@1-10,14913
+V0268,Roman,Neoplatonist,,rlc-aa@1-252,78949
+V0269,Roman,Neoplatonist,,rlc-aa@253-458,65261
+V0270,Roman,Neoplatonist,,rlc-aa@459-658,69385
+V0271,Roman,Hermetic,,qpo-aa@1-236;oqk-aa@1-21;oqk-ab@1-11;oqk-ac@1-3;oqk-ad@1-5;oqk-ae@1-8;oqk-af@1-8;oqk-ag@1-14;oqk-ah@1-21;oqk-ai@1-5;oqk-aj@1-23;oqk-ak@1-16;oqk-al@1-13;oqk-am@1-1;oqk-an@1-2;oqk-ao@1-22;oqk-ap@1-6;oqk-aq@1-10;oqk-ar@1-218;oqk-as@1-1;oqk-at@1-24;oqk-au@1-22,39426
+V0272,Roman,Gnostic,,pdw-aa@1-1;ppa-aa@1-29;ply-aa@1-1;oss-aa@1-41;qwc-aa@1-111;qwc-ab@1-69;rqw-aa@1-1;qya-ac@1-390,47446
+V0273,Roman,Christian,,qya-ad@1-3;qya-ae@1-86;qya-ag@1-997,64208
+V0274,Roman,Christian,,qya-ah@1-1291,54188
+V0275,Roman,Christian,,qya-ah@1292-2495,54215
+V0276,Roman,Christian,,qya-ah@2496-3706;qsg-ae@1-2;qsg-af@1-3;qsg-ar@1-80,58610
+V0277,Roman,Christian,,qsg-at@1-1198;qsg-av@1-12;qsg-aw@1-1,73208
+V0278,Roman,Christian,,qsg-bj@1-514;qsg-bp@1-8;qsg-bv@1-64;qsg-bx@1-3;qsg-by@1-4;qsg-bz@1-1;qsg-cc@1-295;pxc-aa@1-324;pci-aa@1-109,69449
+V0279,Roman,Christian,,qrc-aa@1-88;psc-aa@1-149;pby-aa@1-7;bko-aa@1-307,42708
+V0280,Roman,Philosophy,,pqo-aa@1-67;pqo-ab@1-185;nqg-aa@1-1;pyq-aa@1-219;pyq-ab@1-93;pyq-ac@1-4,48580
+V0281,Roman,Oratory,,qwm-aa@1-10;qwm-ab@1-20;qwm-ac@1-9;qwm-ad@1-12;qwm-ae@1-1;qwm-af@1-12;qwm-ag@1-9;qwm-ah@1-21;qwm-ai@1-7;qwm-aj@1-15;qwm-ak@1-8;qwm-al@1-9;qwm-am@1-9;qwm-an@1-13;qwm-ao@1-86,52664
+V0282,Roman,Oratory,,qwm-ap@1-200;qwm-aq@1-6;qwm-ar@1-11;qwm-as@1-7;qwm-at@1-33;qwm-au@1-15;qwm-av@1-22;qwm-aw@1-5,79020
+V0283,Roman,Oratory,,qwm-ax@1-195;qwm-ay@1-12;qwm-az@1-115;qwm-ba@1-16;qwm-bb@1-8;qwm-bc@1-13;qwm-bd@1-26;qwm-be@1-19;qwm-bf@1-5,81666
+V0284,Roman,Oratory,,qwm-bg@1-15;qwm-bh@1-18;qwm-bi@1-1;qwm-bj@1-12;qwm-bk@1-5;qwm-bl@1-37;qwm-bm@1-5;qwm-bn@1-32;qwm-bo@1-5;qwm-bp@1-4;qwm-bq@1-4;qwm-br@1-16;qwm-bs@1-16;qwm-bt@1-106;qwm-bu@1-12;qwm-bv@1-6;qwm-bw@1-5;qwm-bx@1-10,82311
+V0285,Roman,Oratory,,qwm-by@1-14;qwm-bz@1-4;qwm-ca@1-34;qwm-cb@1-6;qwm-cc@1-19;qwm-cd@1-8;qwm-ce@1-9,26439
+V0286,Roman,Oratory,,rda-aa@1-167,64447
+V0287,Roman,Oratory,,rda-aa@168-332,64132
+V0288,Roman,Oratory,,rda-ab@1-346,66404
+V0289,Roman,Oratory,,rda-ab@347-720,66279
+V0290,Roman,Oratory,,rda-ab@721-1080,66246
+V0291,Roman,Oratory,,rda-ab@1081-1394;rda-ac@1-1;pve-aa@1-29;nvg-aa@1-2;nvg-ab@1-22;okq-aa@1-1;okq-ab@1-12,71606
+V0292,Roman,Oratory,,okq-ac@1-842,60567
+V0293,Roman,Oratory,,okq-ac@843-1502,56387
+V0294,Roman,Oratory,,okq-ac@1503-2191;nse-aa@1-5;oug-aa@1-80;qea-aa@1-14;pmi-aa@1-20;pmi-ab@1-9;pmi-ac@1-5;pmi-ad@1-2;pmi-ae@1-2;ras-aa@1-2;qng-aa@1-37,79115
+V0295,Roman,Oratory,,qng-ab@1-14;qng-ac@1-107;qng-ad@1-30;qng-ae@1-67;qng-af@1-1;qoa-aa@1-28;pfk-aa@1-8,77836
+V0296,Roman,Oratory,,pfk-ab@1-55;pfk-ac@1-28;pfk-ad@1-16;pfk-ae@1-28;pfk-af@1-41;pfk-ag@1-57;pfk-ah@1-19;pfk-ai@1-12;pfk-aj@1-22;pfk-ak@1-41;pfk-al@1-42;pfk-am@1-39;pfk-an@1-30;pfk-ao@1-12;pfk-ap@1-13;pfk-aq@1-37;pfk-ar@1-26;pfk-as@1-85,80684
+V0297,Roman,Oratory,,pfk-at@1-113;pfk-au@1-61;pfk-av@1-56;pfk-aw@1-52;pfk-ax@1-12;pfk-ay@1-63;pfk-az@1-18;pfk-ba@1-25;pfk-bb@1-58;pfk-bc@1-17;pfk-bd@1-60;pfk-be@1-12;pfk-bf@1-8;pfk-bg@1-9;pfk-bh@1-46;pfk-bi@1-13;pfk-bj@1-10;pfk-bk@1-8,79419
+V0298,Roman,Oratory,,pfk-bl@1-53;pfk-bm@1-42;pfk-bn@1-30;pfk-bo@1-10;pfk-bp@1-89;pfk-bq@1-33;pfk-br@1-15;pfk-bs@1-28;pfk-bt@1-32;pfk-bu@1-37;pfk-bv@1-25;pfk-bw@1-24;pfk-bx@1-33;pfk-by@1-20;pfk-bz@1-20;pfk-ca@1-21;pfk-cb@1-5;pfk-cc@1-26;pfk-cd@1-66;pfk-ce@1-21;pfk-cf@1-46,81335
+V0299,Roman,Oratory,,pfk-cg@1-39;pfk-ch@1-7;pfk-ci@1-9;pfk-cj@1-27;pfk-ck@1-25;pfk-cl@1-32;pfk-cm@1-13;pfk-cn@1-38;pfk-co@1-13;pfk-cp@1-34;pfk-cq@1-24;pfk-cr@1-57;pfk-cs@1-43,37933
+V0300,Roman,Oratory,,pgy-aa@1-1161;rvm-aa@1-12;oxs-aa@1-4,68237
+V0301,Roman,Oratory,,rfi-aa@1-388,83857
+V0302,Roman,Oratory,,rfi-ab@1-152;rfi-ac@1-76;rfi-ad@1-55;rfi-ae@1-94;rfi-af@1-8;rfi-ag@1-7;riu-aa@1-30;prs-aa@1-14,77635
+V0303,Roman,Oratory,,qok-aa@1-272;qok-ab@1-830;qok-ac@1-6;nno-aa@1-7;nno-ab@1-5,78611
+V0304,Roman,Oratory,,nzw-aa@1-158;qeu-aa@1-29;qeu-ab@1-25;qeu-ac@1-45;qeu-ad@1-57;qeu-ae@1-47;qeu-af@1-49;qeu-ag@1-2;qeu-ah@1-9;qeu-ai@1-20;qeu-aj@1-54;rhg-aa@1-5;rhg-ab@1-21;rhg-ac@1-26;rhg-ad@1-9;rhg-ae@1-3;rhg-af@1-18;rhg-ag@1-23;rhg-ah@1-3;rhg-ai@1-3;rhg-aj@1-58,81525
+V0305,Roman,Oratory,,rhg-ak@1-12;rhg-al@1-2;rhg-am@1-51;rhg-an@1-15;rhg-ao@1-48;rhg-ap@1-3;rhg-aq@1-13;rhg-ar@1-4;rhg-as@1-8;rhg-at@1-3;rhg-au@1-3;rhg-av@1-3;pws-aa@1-8;ore-aa@1-153;nny-aa@1-45;rlm-aa@1-8;rlm-ab@1-76,70637
+V0306,Roman,Law,,poq-aa@1-2;ohe-aa@1-193;qbs-ac@1-52;qbs-ad@1-237;rnu-aa@1-11;pbo-aa@1-50,38968
+V0307,Roman,Science,,opg-aa@1-174;pua-aa@1-4;rrg-aa@1-3;rrg-ab@1-1;rrg-ac@1-5;rrg-ad@1-5;rrg-ae@1-1;rrg-af@1-4;rrg-ag@1-15;rrg-ah@1-2;rrg-ai@1-1;rrg-aj@1-17;rrg-ak@1-4;rrg-al@1-5;rrg-am@1-4;rrg-an@1-2;rrg-ao@1-1;rrg-ap@1-1;rrg-aq@1-4;rrg-ar@1-2;rrg-as@1-4;rrg-at@1-3;rrg-au@1-3;rrg-av@1-3;rrg-aw@1-2;rrg-ax@1-4;rrg-ay@1-4;rrg-az@1-1;rrg-ba@1-3;rrg-bb@1-1;rrg-bc@1-1;rrg-bd@1-4;rrg-be@1-3;rrg-bf@1-6;rrg-bg@1-1;rrg-bh@1-2;rrg-bi@1-3;rrg-bj@1-4;rrg-bk@1-2;rrg-bl@1-2;rrg-bm@1-1;rrg-bn@1-1;rrg-bo@1-2;rrg-bp@1-10;rrg-bq@1-1;rrg-br@1-1;rrg-bs@1-2;rrg-bt@1-1;rrg-bu@1-1;rrg-bv@1-1;rrg-bw@1-1;rrg-bx@1-1;rrg-by@1-99;rrg-bz@1-155;rrg-ca@1-3;rrg-cb@1-14;rrg-cc@1-2;rrg-cd@1-4;rrg-ce@1-2;rrg-cf@1-2;rrg-cg@1-6;rrg-ch@1-2;rrg-ci@1-2;rrg-cj@1-3;rrg-ck@1-2;rrg-cl@1-5;rrg-cm@1-2;rrg-cn@1-1;rrg-co@1-1;rrg-cp@1-1;owo-aa@1-57,50432
+V0308,Roman,Science,,qtu-aa@1-429;ptg-aa@1-91;ptg-ab@1-64;oxi-aa@1-1,77886
+V0309,Roman,Science,,qae-aa@1-65;opq-aa@1-17;nwk-aa@1-11;oho-aa@1-19;oho-ab@1-7;oho-ac@1-104;oho-ad@1-2;rgm-aa@1-4;rsa-aa@1-1;nwa-aa@1-342;nwa-ab@1-5;nwa-ac@1-11;qbi-aa@1-1;odi-aa@1-22;odi-ab@1-41;odi-ac@1-15;odi-ad@1-35;odi-ae@1-171;odi-af@1-358,82106
+V0310,Roman,Science,,odi-ag@1-482;odi-ah@1-93;odi-ai@1-82;odi-aj@1-169,74193
+V0311,Roman,Science,,odi-ak@1-153;odi-al@1-265;odi-am@1-2;odi-an@1-95;odi-ao@1-47;odi-ap@1-85;nuw-aa@1-107;nuw-ab@1-8;nuw-ac@1-81;nuw-ad@1-76;qhc-aa@1-16;qhc-ab@1-1,73738
+V0312,Roman,Science,,oce-aa@1-180;ece-aa@1-47;ece-ab@1-39;ece-ac@1-41;ece-ad@1-11;ece-ae@1-2,19596
+V0313,Roman,Science,,pzu-aa@1-355,108808
+V0314,Roman,Mathematics,,rqc-aa@1-4;owy-aa@1-229;owy-ab@1-30;owy-ac@1-29;owy-ad@1-5;owy-ae@1-11;phs-aa@1-20;phs-ab@1-25,45061
+V0315,Roman,Mathematics,,phs-ac@1-355,58182
+V0316,Roman,Mathematics,,phs-ac@356-678,58071
+V0317,Roman,Mathematics,,phs-ac@679-1005;phs-ad@1-7,58902
+V0318,Roman,Mathematics,,phs-ae@1-245,33664
+V0319,Roman,Mathematics,,phs-af@1-1052;phs-ag@1-19;phs-ah@1-65,66944
+V0320,Roman,Mathematics,,phs-ai@1-463;phs-aj@1-18;phs-ak@1-9;phs-al@1-96;phs-am@1-23;pim-aa@1-2;pim-ab@1-8;pim-ac@1-13,75595
+V0321,Roman,Medicine,,qig-aa@1-3;owe-aa@1-5;owe-ab@1-16;qao-aa@1-221;qao-ab@1-112;qao-ac@1-116;qao-ad@1-211;qfy-aa@1-65;nyi-aa@1-210;nyi-ab@1-3,75862
+V0322,Roman,Medicine,,nyi-ac@1-1380,94378
+V0323,Roman,Medicine,,nyi-ad@1-308;qmm-aa@1-49;qmm-ab@1-93;qmm-ac@1-6;qmm-ad@1-77,62070
+V0324,Roman,Medicine,,qmm-ae@1-514,77829
+V0325,Roman,Medicine,,qmm-ae@515-891;qmm-af@1-80;qmm-ag@1-55;qmm-ah@1-46,78536
+V0326,Roman,Medicine,,qmm-ai@1-63;qmm-aj@1-54;qmm-ak@1-295;qmm-al@1-45,65627
+V0327,Roman,Medicine,,qmm-am@1-559;qmm-an@1-9,78688
+V0328,Roman,Medicine,,qmm-ao@1-57;qmm-ap@1-58,17472
+V0329,Roman,Medicine,,qmm-aq@1-501;qmm-ar@1-36,73987
+V0330,Roman,Medicine,,qmm-as@1-96;qmm-at@1-7;qmm-au@1-101;qmm-av@1-11;qmm-aw@1-352;qmm-ax@1-21;qmm-ay@1-37,81267
+V0331,Roman,Medicine,,qmm-az@1-1513,95054
+V0332,Roman,Medicine,,qmm-ba@1-297;qmm-bb@1-51;qmm-bc@1-66;qmm-bd@1-13;qmm-be@1-34,65484
+V0333,Roman,Medicine,,qmm-bf@1-495,69738
+V0334,Roman,Medicine,,qmm-bf@496-991;qmm-bg@1-10,71100
+V0335,Roman,Medicine,,qmm-bh@1-432,64870
+V0336,Roman,Medicine,,qmm-bh@433-939,75022
+V0337,Roman,Medicine,,qmm-bh@940-1305;qmm-bi@1-173;qmm-bj@1-13,81649
+V0338,Roman,Medicine,,qmm-bk@1-697,101833
+V0339,Roman,Medicine,,qmm-bl@1-67;qmm-bm@1-20;qmm-bn@1-40;qmm-bo@1-146;qmm-bp@1-12;qmm-bq@1-43;qmm-br@1-14;qmm-bs@1-95;qmm-bt@1-17;qmm-bu@1-22,68588
+V0340,Roman,Medicine,,qmm-bv@1-103;qmm-bw@1-45;qmm-bx@1-43;qmm-by@1-42;qmm-bz@1-22;qmm-ca@1-18,43635
+V0341,Roman,Medicine,,qmm-cb@1-311;qmm-cc@1-5;qmm-cd@1-131,63449
+V0342,Roman,Medicine,,qmm-ce@1-270;qmm-cf@1-28;qmm-cg@1-22,50270
+V0343,Roman,Medicine,,qmm-ch@1-292;qmm-ci@1-25;qmm-cj@1-50,51406
+V0344,Roman,Medicine,,qmm-ck@1-208;qmm-cl@1-316;qmm-cm@1-76,79090
+V0345,Roman,Medicine,,qmm-cn@1-97;qmm-co@1-223,51037
+V0346,Roman,Medicine,,qmm-cp@1-737,96410
+V0347,Roman,Medicine,,qmm-cq@1-391;qmm-cr@1-40,57964
+V0348,Roman,Medicine,,qmm-cs@1-187,29410
+V0349,Roman,Medicine,,qmm-ct@1-514;qmm-cu@1-4,78901
+V0350,Roman,Medicine,,qmm-cv@1-75,11018
+V0351,Roman,Medicine,,qmm-cw@1-336,52477
+V0352,Roman,Medicine,,qmm-cw@337-677,52493
+V0353,Roman,Medicine,,qmm-cw@678-1020;qmm-cx@1-65;qmm-cy@1-40,63835
+V0354,Roman,Medicine,,qmm-cz@1-203;qmm-da@1-20;qmm-db@1-46;qmm-dc@1-43,48438
+V0355,Roman,Medicine,,qmm-dd@1-296;qmm-de@1-11;qmm-df@1-194,77339
+V0356,Roman,Medicine,,qmm-dg@1-214,31865
+V0357,Roman,Medicine,,qmm-dh@1-455;qmm-di@1-4;qmm-dj@1-14;qmm-dk@1-32,74989
+V0358,Roman,Medicine,,qmm-dl@1-118;qmm-dm@1-446,78296
+V0359,Roman,Medicine,,qmm-dn@1-85;qmm-do@1-11;qmm-dp@1-3;qmm-dq@1-173;qmm-dr@1-40;qmm-ds@1-16;qmm-dt@1-186,77955
+V0360,Roman,Medicine,,qmm-du@1-50;qmm-dv@1-45;qmm-dw@1-39;qmm-dx@1-3;qmm-dy@1-208;qmm-dz@1-107;qmm-ea@1-71;qmm-eb@1-24,79050
+V0361,Roman,Medicine,,qmm-ec@1-219;qmm-ed@1-11;qmm-ee@1-138;qmm-ef@1-98;ois-aa@1-2;rsk-aa@1-19;nzm-aa@1-14;nzm-ab@1-55,75811
+V0362,Roman,Medicine,,rsu-aa@1-185;nys-aa@1-40;nys-ab@1-39;nys-ac@1-22;oyw-aa@1-10;oyw-ab@1-17;oyw-ac@1-4;oyw-ad@1-30;oyw-ae@1-6;oyw-af@1-9;ojc-aa@1-178;ojc-ab@1-197;ojc-ac@1-48;ojc-ad@1-60;ojc-ae@1-57;ojc-af@1-45;ojc-ag@1-40;omy-aa@1-15;omy-ab@1-24,54472
+V0363,Roman,Medicine,,omy-ac@1-683;omy-ad@1-60,44011
+V0364,Roman,Grammar,,rdk-aa@1-28;pka-aa@1-46;pka-ab@1-114;pka-ac@1-92,70077
+V0365,Roman,Grammar,,pka-ad@1-583,59427
+V0366,Roman,Grammar,,pjq-aa@1-171;qke-aa@1-227;nrk-aa@1-2;nru-aa@1-27,77592
+V0367,Roman,Grammar,,pdm-aa@1-179;pdm-ab@1-491;nzc-aa@1-110;nzc-ab@1-62;piw-aa@1-5;piw-ab@1-71;oqa-aa@1-5;oqa-ab@1-5;oqa-ac@1-58;oqa-ad@1-12;oqa-ae@1-4;nne-aa@1-41;oow-aa@1-25;oow-ab@1-102;oow-ac@1-25;oow-ad@1-174;oow-ae@1-1;oow-af@1-6;oow-ag@1-62,82101
+V0368,Roman,Grammar,,oow-ah@1-32;oqu-aa@1-374;oqu-ab@1-129;oqu-ac@1-271;oqu-ad@1-157;oqu-ae@1-87,36958
+V0369,Roman,Grammar,,qsq-aa@1-962,59526
+V0370,Roman,Grammar,,qsq-aa@963-1828;oyc-aa@1-168;oyc-ab@1-23;oem-aa@1-17;oem-ab@1-17;pxm-aa@1-2,69582
+V0371,Roman,Grammar,,pic-aa@1-204;rus-aa@1-13;pgo-aa@1-310,80733
+V0372,Roman,Grammar,,pxw-aa@1-420;qnq-aa@1-192;qnq-ab@1-9;qnq-ac@1-6;qnq-ad@1-6,31008
+V0373,Roman,Lexicography,,qnq-ae@1-274;qnq-af@1-17;qnq-ag@1-2;qnq-ah@1-2;qnq-ai@1-3;qnq-aj@1-9;qnq-ak@1-2;qnq-al@1-34;qnq-am@1-2;qnq-an@1-1;qnq-ao@1-19;qnq-ap@1-17;qnq-aq@1-37;qnq-ar@1-66;qnq-as@1-26,75916
+V0374,Roman,Lexicography,,qnq-at@1-144,52603
+V0375,Roman,Lexicography,,qnq-au@1-276,72735
+V0376,Roman,Lexicography,,qnq-au@277-545;qnq-av@1-3;qnq-aw@1-2,73116
+V0377,Roman,Lexicography,,qnq-ax@1-107;qnq-ay@1-45;qnq-az@1-4;qnq-ba@1-4;qnq-bb@1-44;qnq-bc@1-1;qnq-bd@1-14;qnq-be@1-6,54381
+V0378,Roman,Lexicography,,qnq-bf@1-205;qnq-bg@1-4;qnq-bh@1-20;qnq-bi@1-14;qnq-bj@1-1;qnq-bk@1-1;qnq-bl@1-48,80589
+V0379,Roman,Lexicography,,qnq-bm@1-224;qnq-bn@1-159;qnq-bo@1-2;qnq-bp@1-4;qnq-bq@1-3;qnq-br@1-20;qnq-bs@1-1;qnq-bt@1-3;qnq-bu@1-4;qnq-bv@1-3;qnq-bw@1-22;qnq-bx@1-41;ppu-aa@1-6,80366
+V0380,Roman,Lexicography,,ppu-ab@1-2014;ppu-ac@1-893,74423
+V0381,Roman,Lexicography,,ppu-ad@1-153;ppu-ae@1-95,10461
+V0382,Roman,Lexicography,,ppu-af@1-2007,67495
+V0383,Roman,Lexicography,,ppu-af@2008-3159,47425
+V0384,Roman,Lexicography,,ppu-af@3160-4116;ppu-ag@1-667,81948
+V0385,Roman,Scholia,,oag-aa@1-328,59640
+V0386,Roman,,,otw-aa@1-14,1144
+V0387,Late Antique,Epic,,utg-aa@1-1;utg-ab@1-438;utg-ac@1-1;uuu-aa@1-394;usc-aa@1-341;tns-aa@1-287,29989
+V0388,Late Antique,Epic,,tns-ab@1-10481,62509
+V0389,Late Antique,Epic,,tns-ab@10482-21410;unw-aa@1-162,66604
+V0390,Late Antique,Epic,,ujg-aa@1-8827;uge-aa@1-691,64516
+V0391,Late Antique,Poetry,,tpg-aa@1-395;vrm-aa@1-333;ttm-aa@1-1;vek-aa@1-399;tre-aa@1-26;uri-aa@1-278;sbq-aa@1-269,39865
+V0392,Late Antique,Poetry,,tce-aa@1-265,83996
+V0393,Late Antique,Poetry,,vke-aa@1-14;sck-aa@1-1;vfo-aa@1-1029;vfo-ab@1-303;uic-aa@1-11,9526
+V0394,Late Antique,Poetry,,vsg-aa@1-1073,54781
+V0395,Late Antique,Poetry,,vsg-aa@1074-2038,54751
+V0396,Late Antique,Poetry,,vsg-aa@2039-3086;uyq-aa@1-306,56354
+V0397,Late Antique,Poetry,,uyq-ab@1-595;uyq-ac@1-1282,41282
+V0398,Late Antique,Poetry,,uyq-ad@1-1512;tpq-aa@1-2,82064
+V0399,Late Antique,Comedy,,sfc-aa@1-6;sfc-ab@1-6;skw-aa@1-3;skw-ab@1-3;skw-ac@1-3;skw-ad@1-1;skw-ae@1-3;skw-af@1-1;skw-ag@1-2;skw-ah@1-1;skw-ai@1-1;skw-aj@1-3;skw-ak@1-2;skw-al@1-1;skw-am@1-1;skw-an@1-2;skw-ao@1-3;skw-ap@1-1;skw-aq@1-1;skw-ar@1-1;skw-as@1-1;skw-at@1-1;skw-au@1-1;skw-av@1-1;skw-aw@1-3;skw-ax@1-1;skw-ay@1-15;sru-aa@1-908,80653
+V0400,Late Antique,Fiction,,sru-ab@1-16;saw-aa@1-1;vhm-aa@1-55;uza-aa@1-661,64825
+V0401,Late Antique,History,,sos-aa@1-70;sos-ab@1-13;spm-aa@1-206;smu-aa@1-1;uws-aa@1-27;uws-ab@1-1;uws-ac@1-3;uws-ad@1-33,51968
+V0402,Late Antique,History,,ubo-aa@1-460;ubo-ab@1-42;ubo-ac@1-107;tdi-aa@1-12,82485
+V0403,Late Antique,History,,vae-aa@1-18;vae-ab@1-12,6881
+V0404,Late Antique,History,,vae-ac@1-474,87368
+V0405,Late Antique,History,,vue-aa@1-5;vhw-aa@1-127;vhw-ab@1-211,62746
+V0406,Late Antique,History,,vhw-ac@1-106,22008
+V0407,Late Antique,History,,rxk-aa@1-292,60403
+V0408,Late Antique,History,,rxk-aa@293-551,52207
+V0409,Late Antique,History,,rxk-aa@552-900,68443
+V0410,Late Antique,History,,rxk-aa@901-1155,50077
+V0411,Late Antique,History,,rxk-aa@1156-1513;vli-aa@1-2;viq-aa@1-31,73036
+V0412,Late Antique,History,,viq-ab@1-41;viq-ac@1-44;viq-ad@1-1;tzg-aa@1-2,26929
+V0413,Late Antique,History,,ryy-aa@1-320,67914
+V0414,Late Antique,History,,ryy-aa@321-640,67868
+V0415,Late Antique,History,,ryy-aa@641-968,67910
+V0416,Late Antique,History,,ryy-aa@969-1318,68028
+V0417,Late Antique,History,,ryy-aa@1319-1667;vcw-aa@1-4;tba-aa@1-10,69331
+V0418,Late Antique,History,,tba-ab@1-87,17382
+V0419,Late Antique,History,,unc-aa@1-2042,76212
+V0420,Late Antique,History,,unc-aa@2043-4357,79059
+V0421,Late Antique,History,,unc-aa@4358-6212,69320
+V0422,Late Antique,History,,unc-ab@1-863;unc-ac@1-1020;tss-aa@1-9,71303
+V0423,Late Antique,History,,tss-ab@1-217,88329
+V0424,Late Antique,History,,tga-aa@1-347,101907
+V0425,Late Antique,History,,sxy-aa@1-5;sfm-aa@1-30;thy-aa@1-521,61080
+V0426,Late Antique,Biography,,ule-aa@1-4;tuq-aa@1-21;tuq-ab@1-18;vbs-aa@1-22;vbs-ab@1-7;vbs-ac@1-82;vbs-ad@1-10;vbs-ae@1-5;vbs-af@1-14;vbs-ag@1-3;vbs-ah@1-116;tag-aa@1-2;tla-aa@1-174;vmc-aa@1-43,80842
+V0427,Late Antique,Geography,,the-aa@1-45,4305
+V0428,Late Antique,Geography,,vbi-aa@1-700,86853
+V0429,Late Antique,Geography,,ums-aa@1-3;szc-aa@1-14;szc-ab@1-106;szc-ac@1-31;szw-aa@1-3;vng-aa@1-13;vng-ab@1-8;txi-aa@1-51;ufa-aa@1-27,35673
+V0430,Late Antique,Platonist,,uuk-aa@1-31;uqe-aa@1-3107;uqe-ab@1-429;unm-aa@1-2,75862
+V0431,Late Antique,Aristotelian,,uim-aa@1-134;uim-ab@1-54,75007
+V0432,Late Antique,Aristotelian,,uim-ac@1-233,100174
+V0433,Late Antique,Aristotelian,,vnq-aa@1-72;vls-aa@1-3;vls-ab@1-16;vls-ac@1-73;vls-ad@1-58;vls-ae@1-211,59434
+V0434,Late Antique,Aristotelian,,vls-af@1-139,29089
+V0435,Late Antique,Eclectic,,tni-aa@1-49,74937
+V0436,Late Antique,Eclectic,,tni-aa@50-106,46535
+V0437,Late Antique,Eclectic,,tni-aa@107-148,77596
+V0438,Late Antique,Eclectic,,tni-aa@149-165,71673
+V0439,Late Antique,Eclectic,,tni-aa@166-194;rye-aa@1-56;rye-ab@1-53;rye-ac@1-30;rye-ad@1-55,72885
+V0440,Late Antique,Eclectic,,rye-ae@1-165;rye-af@1-43;rye-ag@1-64,82386
+V0441,Late Antique,Eclectic,,rye-ah@1-18;rye-ai@1-33;rye-aj@1-31;rye-ak@1-30;rye-al@1-34;rye-am@1-2;rye-an@1-12,14012
+V0442,Late Antique,Eclectic,,rye-ao@1-237,82658
+V0443,Late Antique,Eclectic,,rye-ap@1-67;rye-aq@1-50;rye-ar@1-127,81380
+V0444,Late Antique,Eclectic,,rye-as@1-45;rye-at@1-33;rye-au@1-66;rye-av@1-12;rye-aw@1-15;rye-ax@1-65;rye-ay@1-14;rye-az@1-33;rye-ba@1-31;rye-bb@1-30;rye-bc@1-70;rye-bd@1-10;rye-be@1-15;rye-bf@1-72;rye-bg@1-50;rye-bh@1-49;rye-bi@1-28;rye-bj@1-69;rye-bk@1-5;rye-bl@1-4;rye-bm@1-72;rye-bn@1-1;rye-bo@1-58,74114
+V0445,Late Antique,Neoplatonist,,uqo-aa@1-272,95514
+V0446,Late Antique,Neoplatonist,,uqo-ab@1-36;uqo-ac@1-106;uqo-ad@1-128,76370
+V0447,Late Antique,Neoplatonist,,uqo-ae@1-40;vcb-aa@1-226,52435
+V0448,Late Antique,Neoplatonist,,vcb-ab@1-153,59614
+V0449,Late Antique,Neoplatonist,,vcb-ab@154-301,59897
+V0450,Late Antique,Neoplatonist,,vcb-ab@302-452;uyg-aa@1-186,70602
+V0451,Late Antique,Neoplatonist,,uyg-ab@1-365,16677
+V0452,Late Antique,Neoplatonist,,uyg-ac@1-156,55444
+V0453,Late Antique,Neoplatonist,,uyg-ac@157-318,55576
+V0454,Late Antique,Neoplatonist,,uyg-ad@1-328,106919
+V0455,Late Antique,Neoplatonist,,uyg-ae@1-260;uyg-af@1-563;uyg-ag@1-157,58764
+V0456,Late Antique,Neoplatonist,,vcm-aa@1-140;vcm-ab@1-79,75366
+V0457,Late Antique,Neoplatonist,,sfw-aa@1-71;vgs-aa@1-6;vgs-ab@1-149,81263
+V0458,Late Antique,Neoplatonist,,vgs-ac@1-103;sio-aa@1-40;tbu-aa@1-371,63647
+V0459,Late Antique,Neoplatonist,,udw-aa@1-123;udw-ab@1-278;udw-ac@1-84,76609
+V0460,Late Antique,Neoplatonist,,udw-ad@1-86;udw-ae@1-166,58077
+V0461,Late Antique,Neoplatonist,,udw-af@1-124;sno-aa@1-29;sno-ab@1-10;sno-ac@1-44;sno-ad@1-16;sno-ae@1-43;sno-af@1-14;sno-ag@1-42,78169
+V0462,Late Antique,Neoplatonist,,sno-ah@1-24;sno-ai@1-21;sno-aj@1-22;sno-ak@1-21;sno-al@1-71;sno-am@1-2;sno-an@1-5;sno-ao@1-6;sno-ap@1-44;sno-aq@1-3;sno-ar@1-3;sno-as@1-1;sno-at@1-88;tsi-aa@1-12;utq-aa@1-16,71939
+V0463,Late Antique,Neoplatonist,,utq-ab@1-171,57318
+V0464,Late Antique,Neoplatonist,,utq-ab@172-338,57495
+V0465,Late Antique,Neoplatonist,,utq-ac@1-235,50279
+V0466,Late Antique,Neoplatonist,,utq-ad@1-463,61884
+V0467,Late Antique,Neoplatonist,,utq-ae@1-123;utq-af@1-159;utq-ag@1-25,78503
+V0468,Late Antique,Neoplatonist,,udm-aa@1-837;udm-ab@1-311,54389
+V0469,Late Antique,Neoplatonist,,udm-ac@1-3,65439
+V0470,Late Antique,Neoplatonist,,udm-ad@1-172;udm-ae@1-18;udm-af@1-3;udm-ag@1-1;udm-ah@1-133,71799
+V0471,Late Antique,Neoplatonist,,udm-ai@1-127;udm-aj@1-88;udm-ak@1-22;udm-al@1-37;udm-am@1-14;udm-an@1-1;udm-ao@1-73;udm-ap@1-61;udm-aq@1-36;udm-ar@1-61;udm-as@1-60;udm-at@1-50,79112
+V0472,Late Antique,Neoplatonist,,udm-au@1-33;udm-av@1-182;udm-aw@1-3;udm-ax@1-34;udm-ay@1-53;udm-az@1-13;udm-ba@1-63;uqy-aa@1-37,62983
+V0473,Late Antique,Neoplatonist,,uqy-ab@1-434,81323
+V0474,Late Antique,Neoplatonist,,uqy-ac@1-16;uqy-ad@1-62;uqy-ae@1-6;uqy-af@1-372;uqy-ag@1-147,69636
+V0475,Late Antique,Neoplatonist,,uqy-ah@1-237,63112
+V0476,Late Antique,Neoplatonist,,uqy-ah@238-466,63124
+V0477,Late Antique,Neoplatonist,,uqy-ah@467-687,63311
+V0478,Late Antique,Neoplatonist,,uqy-ah@688-906,63232
+V0479,Late Antique,Neoplatonist,,uqy-ah@907-1134,63055
+V0480,Late Antique,Neoplatonist,,uqy-ai@1-280,61430
+V0481,Late Antique,Neoplatonist,,uqy-ai@281-560;uqy-aj@1-42,70462
+V0482,Late Antique,Neoplatonist,,uqy-ak@1-339,68208
+V0483,Late Antique,Neoplatonist,,uqy-al@1-212;uqy-am@1-4,28997
+V0484,Late Antique,Neoplatonist,,uqy-an@1-217,57318
+V0485,Late Antique,Neoplatonist,,uqy-an@218-419,57100
+V0486,Late Antique,Neoplatonist,,uqy-an@420-631;uqy-ao@1-55,64895
+V0487,Late Antique,Neoplatonist,,uqy-ap@1-223,54063
+V0488,Late Antique,Neoplatonist,,uqy-ap@224-445,54359
+V0489,Late Antique,Neoplatonist,,uqy-ap@446-662;uqy-aq@1-7;uqy-ar@1-22;uqy-as@1-12;uqy-at@1-4,57471
+V0490,Late Antique,Neoplatonist,,uqy-au@1-1186;urs-aa@1-70;urs-ab@1-53;urs-ac@1-9,71727
+V0491,Late Antique,Neoplatonist,,urs-ad@1-125;urs-ae@1-27;sny-aa@1-97,35609
+V0492,Late Antique,Neoplatonist,,uzu-aa@1-178,66078
+V0493,Late Antique,Neoplatonist,,uzu-aa@179-356,65658
+V0494,Late Antique,Neoplatonist,,uzu-aa@357-536,65738
+V0495,Late Antique,Neoplatonist,,uzu-aa@537-728,65969
+V0496,Late Antique,Neoplatonist,,uzu-ab@1-152,56394
+V0497,Late Antique,Neoplatonist,,uzu-ab@153-294,56477
+V0498,Late Antique,Neoplatonist,,uzu-ab@295-438,56416
+V0499,Late Antique,Neoplatonist,,uzu-ac@1-248,58933
+V0500,Late Antique,Neoplatonist,,uzu-ad@1-185,66331
+V0501,Late Antique,Neoplatonist,,uzu-ad@186-353,66122
+V0502,Late Antique,Neoplatonist,,uzu-ad@354-518,66020
+V0503,Late Antique,Neoplatonist,,uzu-ad@519-677,66215
+V0504,Late Antique,Neoplatonist,,uzu-ad@678-846,65926
+V0505,Late Antique,Neoplatonist,,uzu-ad@847-1034,66360
+V0506,Late Antique,Neoplatonist,,uzu-ad@1035-1213,66258
+V0507,Late Antique,Neoplatonist,,uzu-ad@1214-1367,65997
+V0508,Late Antique,Neoplatonist,,uzu-ae@1-171,68682
+V0509,Late Antique,Neoplatonist,,uzu-ae@172-329;uzu-af@1-5,69334
+V0510,Late Antique,Neoplatonist,,vvs-aa@1-68;sys-aa@1-6;sys-ab@1-40;sys-ac@1-37;sys-ad@1-29;sys-ae@1-10;sys-af@1-27;sys-ag@1-2,65554
+V0511,Late Antique,Neoplatonist,,sys-ah@1-208;sys-ai@1-42;sys-aj@1-24,51039
+V0512,Late Antique,Neoplatonist,,tfq-aa@1-198;tfq-ab@1-94;tfq-ac@1-17,57379
+V0513,Late Antique,Neoplatonist,,tfq-ad@1-195,76024
+V0514,Late Antique,Christian,,tfg-aa@1-68;tfg-ab@1-25;uak-aa@1-12;tva-ab@1-4,21292
+V0515,Late Antique,Christian,,tva-aq@1-843,59003
+V0516,Late Antique,Christian,,tva-aq@844-1816,59040
+V0517,Late Antique,Christian,,tva-aq@1817-2763,58943
+V0518,Late Antique,Christian,,tva-aq@2764-3644,59023
+V0519,Late Antique,Christian,,tva-at@1-511,41359
+V0520,Late Antique,Christian,,tva-av@1-553,46271
+V0521,Late Antique,Christian,,tva-av@554-1251,64013
+V0522,Late Antique,Christian,,tva-av@1252-1743;tva-bg@1-43;tva-bh@1-246;tva-bm@1-25,82469
+V0523,Late Antique,Christian,,uxc-ab@1-232,73061
+V0524,Late Antique,Christian,,uxc-ab@233-440,72735
+V0525,Late Antique,Christian,,uxc-ac@1-131,52796
+V0526,Late Antique,Christian,,uxc-ad@1-155,59504
+V0527,Late Antique,Christian,,uxc-ad@156-309,59330
+V0528,Late Antique,Christian,,uxc-ad@310-456,59374
+V0529,Late Antique,Christian,,uxc-ad@457-608;uxc-ae@1-28,66999
+V0530,Late Antique,Christian,,uxc-ag@1-174,60501
+V0531,Late Antique,Christian,,uxc-ag@175-354,60161
+V0532,Late Antique,Christian,,uxc-ag@355-539,60573
+V0533,Late Antique,Christian,,uxc-ag@540-717,60298
+V0534,Late Antique,Christian,,uxc-ag@718-909,60378
+V0535,Late Antique,Christian,,uxc-ah@1-249,95198
+V0536,Late Antique,Christian,,uxc-ai@1-204,65936
+V0537,Late Antique,Christian,,uxc-aj@1-157,54106
+V0538,Late Antique,Christian,,uxc-aj@158-317,54451
+V0539,Late Antique,Christian,,uxc-aj@318-484,54106
+V0540,Late Antique,Christian,,uxc-al@1-314,105809
+V0541,Late Antique,Christian,,uxc-am@1-308,62696
+V0542,Late Antique,Christian,,uxc-an@1-324,70764
+V0543,Late Antique,Christian,,uxc-an@325-639,71157
+V0544,Late Antique,Christian,,sxe-aa@1-108;uhs-ae@1-58;uhs-ag@1-4;uhs-ah@1-73,72922
+V0545,Late Antique,Christian,,uhs-ai@1-431,91163
+V0546,Late Antique,Christian,,uhs-aj@1-1;uhs-ao@1-16;uhs-ap@1-1;uhs-aq@1-54;uhs-au@1-52,28020
+V0547,Late Antique,Christian,,uhs-av@1-1045,60405
+V0548,Late Antique,Christian,,uhs-aw@1-1151,68053
+V0549,Late Antique,Christian,,uhs-aw@1152-2838;uhs-ax@1-5;uhs-ay@1-4,82142
+V0550,Late Antique,Christian,,uhs-bd@1-51;uhs-be@1-1;uhs-bk@1-28;uhs-bn@1-22;uhs-bo@1-29;uhs-bp@1-33;uhs-bt@1-172;uhs-ck@1-23,35080
+V0551,Late Antique,Christian,,uhs-cs@1-249,60852
+V0552,Late Antique,Christian,,uhs-cs@250-419,43923
+V0553,Late Antique,Christian,,uhs-cs@420-647;uhs-cz@1-53,73088
+V0554,Late Antique,Christian,,uhs-da@1-285,64364
+V0555,Late Antique,Christian,,uhs-db@1-148;tds-aa@1-6;tds-ae@1-8;tds-ag@1-149,67867
+V0556,Late Antique,Christian,,tds-ai@1-165,39853
+V0557,Late Antique,Christian,,tds-al@1-943,67115
+V0558,Late Antique,Christian,,tds-ao@1-181;tds-av@1-34,50253
+V0559,Late Antique,Philosophy,,hjo-aa@1-2;slg-aa@1-336;slg-ab@1-3;uve-aa@1-37;sbg-aa@1-1;ueg-aa@1-6;ueg-ab@1-2;ueg-ac@1-1;ufk-aa@1-48,23115
+V0560,Late Antique,Oratory,,uvo-aa@1-1413,99129
+V0561,Late Antique,Oratory,,ugo-aa@1-1;sma-aa@1-36;sma-ab@1-37;sma-ac@1-25;sma-ad@1-51;siy-aa@1-15;siy-ab@1-1;siy-ac@1-136;swk-aa@1-3,81590
+V0562,Late Antique,Oratory,,swk-ab@1-70;swk-ac@1-223;swk-ad@1-11;swk-ae@1-24,17144
+V0563,Late Antique,Oratory,,swk-af@1-1107,65721
+V0564,Late Antique,Oratory,,swk-ag@1-789,72030
+V0565,Late Antique,Oratory,,swk-ag@790-1576,68709
+V0566,Late Antique,Oratory,,swk-ag@1577-2459,72853
+V0567,Late Antique,Oratory,,swk-ah@1-1554,72291
+V0568,Late Antique,Oratory,,swk-ah@1555-3101,72292
+V0569,Late Antique,Oratory,,swk-ah@3102-4636;swk-ai@1-70,74624
+V0570,Late Antique,Oratory,,swk-aj@1-773,62845
+V0571,Late Antique,Oratory,,swk-aj@774-1531,62896
+V0572,Late Antique,Oratory,,swk-aj@1532-2222,62902
+V0573,Late Antique,Oratory,,swk-aj@2223-2934;swk-ak@1-13;tjm-aa@1-18;ufu-aa@1-37,75617
+V0574,Late Antique,Oratory,,ufu-ab@1-78;ueq-aa@1-2;ueq-ab@1-79;ueq-ac@1-4;uxm-aa@1-15,36112
+V0575,Late Antique,Oratory,,spc-aa@1-198;spc-ab@1-21,58536
+V0576,Late Antique,Oratory,,spc-ac@1-349,87837
+V0577,Late Antique,Oratory,,upa-aa@1-12;twe-bk@1-36;sqg-bo@1-5;sne-bn@1-463;sne-bt@1-1446,54943
+V0578,Late Antique,Theology,,sne-bu@1-74;sne-by@1-1663;sne-cc@1-515,53717
+V0579,Late Antique,Theology,,sne-cl@1-803;uau-aj@1-41;ssy-aa@1-1,45040
+V0580,Late Antique,Science,,suc-aa@1-103;vpe-aa@1-24;vpo-aa@1-71;ses-aa@1-28;vou-aa@1-4,50415
+V0581,Late Antique,Science,,shk-aa@1-259;uka-aa@1-4;upk-aa@1-10,38700
+V0582,Late Antique,Science,,tco-aa@1-348,84096
+V0583,Late Antique,Science,,tco-ab@1-332;tco-ac@1-2;tco-ad@1-2;tco-ae@1-1;ukk-aa@1-6;ukk-ab@1-6;toc-aa@1-7;smk-aa@1-32;smk-ab@1-4;smk-ac@1-3,81124
+V0584,Late Antique,Science,,smk-ad@1-240;sac-aa@1-14;sac-ab@1-55;vok-aa@1-74;veu-aa@1-36;veu-ab@1-3;sde-aa@1-2;sei-aa@1-2,81227
+V0585,Late Antique,Science,,sum-aa@1-96;sum-ab@1-4;sxo-aa@1-9;vvi-aa@1-691;tow-aa@1-4;sse-aa@1-14;ugy-aa@1-61;tyc-aa@1-2;tyc-ab@1-8;tyc-ac@1-3,81084
+V0586,Late Antique,Science,,tyc-ad@1-5;tyc-ae@1-3;tyc-af@1-6;tyc-ag@1-5;tyc-ah@1-8;tyc-ai@1-5;tyc-aj@1-4;tyc-ak@1-4;tyc-al@1-2;tyc-am@1-21;tyc-an@1-4;tyc-ao@1-4;tyc-ap@1-2;tyc-aq@1-2;tyc-ar@1-7;tyc-as@1-2;tyc-at@1-9;tyc-au@1-5;tyc-av@1-8;tyc-aw@1-4;tyc-ax@1-3;tyc-ay@1-3;tyc-az@1-3;tyc-ba@1-2;tyc-bb@1-4;tyc-bc@1-4;tyc-bd@1-1;tyc-be@1-3;tyc-bf@1-2;tyc-bg@1-2;tyc-bh@1-2;tyc-bi@1-2;tyc-bj@1-7;tyc-bk@1-3;tyc-bl@1-2;tyc-bm@1-4;tyc-bn@1-2;tyc-bo@1-1;tyc-bp@1-1;tyc-bq@1-2;tyc-br@1-1;tyc-bs@1-1;tyc-bt@1-3;tyc-bu@1-3;tyc-bv@1-3;tyc-bw@1-1;tyc-bx@1-1;tyc-by@1-2;tyc-bz@1-2;tyc-ca@1-3;tyc-cb@1-5;tyc-cc@1-1;tyc-cd@1-2;tyc-ce@1-3;tyc-cf@1-2;tyc-cg@1-5;tyc-ch@1-1;tyc-ci@1-1;tyc-cj@1-1;tyc-ck@1-3;tyc-cl@1-1;tyc-cm@1-2;tyc-cn@1-1;tyc-co@1-1;tyc-cp@1-3,33100
+V0587,Late Antique,Mathematics,,vdg-aa@1-7;vdg-ab@1-10;vju-aa@1-13;uvy-aa@1-116;uvy-ab@1-30;uvy-ac@1-17;uvy-ad@1-95,65909
+V0588,Late Antique,Mathematics,,txs-aa@1-300,60604
+V0589,Late Antique,Mathematics,,txs-ab@1-314,75493
+V0590,Late Antique,Mathematics,,txs-ab@315-563;sam-aa@1-58,74917
+V0591,Late Antique,Mathematics,,sam-ab@1-92;spw-aa@1-153,54558
+V0592,Late Antique,Mathematics,,spw-ab@1-360,72506
+V0593,Late Antique,Mathematics,,spw-ab@361-738,72608
+V0594,Late Antique,Mathematics,,spw-ac@1-99;spw-ad@1-2;spw-ae@1-9;vcc-aa@1-23;vcc-ab@1-1;vcc-ac@1-14,24141
+V0595,Late Antique,Medicine,,vcc-ad@1-381,92022
+V0596,Late Antique,Medicine,,vcc-ae@1-75;vhc-aa@1-120;vhc-ab@1-30,63982
+V0597,Late Antique,Medicine,,vhc-ac@1-191;vhc-ad@1-145,62608
+V0598,Late Antique,Medicine,,vhc-ae@1-96;vhc-af@1-179,64288
+V0599,Late Antique,Medicine,,vhc-ag@1-269;vhc-ah@1-103;vhc-ai@1-90,77494
+V0600,Late Antique,Medicine,,vhc-aj@1-132;vhc-ak@1-50;vhc-al@1-83,77001
+V0601,Late Antique,Medicine,,vhc-am@1-372;vhc-an@1-158,64763
+V0602,Late Antique,Medicine,,sha-aa@1-103;vjk-aa@1-99;vjk-ab@1-10;vjk-ac@1-50;vjk-ad@1-59;vjk-ae@1-11;vjk-af@1-495,62479
+V0603,Late Antique,Medicine,,vjk-ag@1-1327,82597
+V0604,Late Antique,Medicine,,vjk-ah@1-11;vjk-ai@1-335;vjk-aj@1-203;vwc-aa@1-31;rzs-aa@1-11;umi-aa@1-3;umi-ab@1-8;umi-ac@1-34;umi-ad@1-1;umi-ae@1-5;umi-af@1-1;umi-ag@1-5;umi-ah@1-49;umi-ai@1-71;umi-aj@1-2;umi-ak@1-10;umi-al@1-30;umi-am@1-14;umi-an@1-13;umi-ao@1-10;umi-ap@1-10;umi-aq@1-5;umi-ar@1-10;umi-as@1-1;umi-at@1-21;umi-au@1-3;umi-av@1-79;umi-aw@1-28,82026
+V0605,Late Antique,Medicine,,umi-ax@1-22;tjw-aa@1-43,1930
+V0606,Late Antique,Medicine,,soi-aa@1-2010,73775
+V0607,Late Antique,Medicine,,soi-aa@2011-3493,69870
+V0608,Late Antique,Medicine,,soi-aa@3494-5306,68321
+V0609,Late Antique,Medicine,,soi-aa@5307-7405,81448
+V0610,Late Antique,Medicine,,soi-ab@1-881,37845
+V0611,Late Antique,Medicine,,soi-ac@1-2578,75355
+V0612,Late Antique,Medicine,,soi-ad@1-900,41710
+V0613,Late Antique,Medicine,,soi-ae@1-1851;soi-af@1-1;scu-aa@1-12;tqu-aa@1-20;tqu-ab@1-56;tqu-ac@1-13;tqu-ad@1-45;tqu-ae@1-43,81627
+V0614,Late Antique,Medicine,,tqu-af@1-7;tqu-ag@1-75;tqu-ah@1-118;tqu-ai@1-24;tqu-aj@1-15;tqu-ak@1-16;tqu-al@1-124;tqu-am@1-136;tqu-an@1-160,70938
+V0615,Late Antique,Medicine,,tqu-ao@1-271;tqu-ap@1-25;tqu-aq@1-7;tqu-ar@1-117;tqu-as@1-5;tqu-at@1-9;tqu-au@1-27;tqu-av@1-10;tqu-aw@1-60;tqu-ax@1-12;tqu-ay@1-28,73944
+V0616,Late Antique,Medicine,,tmy-aa@1-43;swu-aa@1-475;swu-ab@1-45;wbc-aa@1-979,61222
+V0617,Late Antique,Grammar,,wbc-ab@1-271;vko-aa@1-758;vsq-aa@1-12;vsq-ab@1-3;sie-aa@1-101;tqa-aa@1-3;tqa-ab@1-1;tqa-ac@1-43;tqa-ad@1-1;tqa-ae@1-2;tqa-af@1-3;tqa-ag@1-1;tqa-ah@1-5;tqa-ai@1-2;tqa-aj@1-3;tqa-ak@1-1;tqa-al@1-1;tqa-am@1-2;tqa-an@1-1;tqa-ao@1-1;tqa-ap@1-3;tqa-aq@1-1;tqa-ar@1-2;tqa-as@1-2;tqa-at@1-1;tqa-au@1-1;tqa-av@1-3;taq-aa@1-2,40956
+V0618,Late Antique,Grammar,,taq-ab@1-3408,51911
+V0619,Late Antique,Grammar,,taq-ab@3409-7708,60680
+V0620,Late Antique,Grammar,,taq-ab@7709-11937,56305
+V0621,Late Antique,Grammar,,taq-ab@11938-15714,56292
+V0622,Late Antique,Grammar,,taq-ac@1-3876,81369
+V0623,Late Antique,Grammar,,tbk-aa@1-192;tbk-ab@1-3;ttc-aa@1-3;uxw-aa@1-6;uxw-ab@1-2;uxw-ac@1-4;uxw-ad@1-6;uxw-ae@1-10;uxw-af@1-5;uxw-ag@1-7;uxw-ah@1-6;vuy-aa@1-732;vuy-ab@1-63;vmm-aa@1-2,31559
+V0624,Late Antique,Grammar,,tjc-aa@1-1173,54579
+V0625,Late Antique,Grammar,,tme-aa@1-205;tme-ab@1-12;tme-ac@1-8;tme-ad@1-28;tme-ae@1-126;tme-af@1-76;tmo-aa@1-7;tmo-ab@1-106;tmo-ac@1-72,51835
+V0626,Late Antique,Grammar,,uua-aa@1-713,102205
+V0627,Late Antique,Grammar,,uua-ab@1-7,178
+V0628,Late Antique,Grammar,,tem-aa@1-235,61844
+V0629,Late Antique,Grammar,,tem-aa@236-412,60664
+V0630,Late Antique,Grammar,,tem-aa@413-655;vdq-aa@1-3;vdq-ab@1-7;vdq-ac@1-40,72779
+V0631,Late Antique,Grammar,,vdq-ad@1-57;vdq-ae@1-4;vdq-af@1-76;vdq-ag@1-194;vdq-ah@1-4;slq-aa@1-99,79024
+V0632,Late Antique,Grammar,,usw-aa@1-54;usw-ab@1-6;tqk-aa@1-155;vtk-aa@1-23;uhi-aa@1-28;voa-aa@1-26;rzi-aa@1-18;vtu-aa@1-46;vtu-ab@1-438,78973
+V0633,Late Antique,Lexicography,,vtu-ac@1-63;vtu-ad@1-141;vtu-ae@1-29;vtu-af@1-81,43006
+V0634,Late Antique,Scholia,,tro-aa@1-981;tro-ab@1-167;tro-ac@1-193;tro-ad@1-129;tro-ae@1-842;tro-af@1-221,68161
+V0635,Late Antique,Scholia,,tro-ag@1-10271,99259
+V0636,Late Antique,Scholia,,tro-ah@1-1698,21293
+V0637,Late Antique,Scholia,,tro-ai@1-2741,84876
+V0638,Late Antique,Scholia,,tro-aj@1-308;tro-ak@1-20;tro-al@1-230;tro-am@1-350;tro-an@1-1402;tro-ao@1-423;vrw-aa@1-9;vrw-ab@1-3;vmw-aa@1-2;vmw-ab@1-1;vmw-ac@1-35;vmw-ad@1-2;vmw-ae@1-10;vmw-af@1-4;vmw-ag@1-20;vmw-ah@1-44;vmw-ai@1-29;vmw-aj@1-6;vmw-ak@1-4;vmw-al@1-3;vmw-am@1-18;vmw-an@1-1;vmw-ao@1-2;vmw-ap@1-1;vmw-aq@1-1;vmw-ar@1-16;vmw-as@1-1;vmw-at@1-67;vmw-au@1-500;vmw-av@1-34,55206
+V0639,Late Antique,Scholia,,vky-aa@1-1798,60462
+V0640,Late Antique,Scholia,,vky-aa@1799-2985,45784
+V0641,Late Antique,Scholia,,vky-aa@2986-4790;vta-aa@1-4,69347
+V0642,Late Antique,Scholia,,vta-ab@1-315;vta-ac@1-57,24993
+V0643,Late Antique,Scholia,,vta-ad@1-1325,50879
+V0644,Late Antique,Scholia,,vta-ad@1326-2829,54452
+V0645,Late Antique,Scholia,,vta-ad@2830-5159,50686
+V0646,Late Antique,Scholia,,vta-ae@1-2233,58506
+V0647,Late Antique,Scholia,,vta-ae@2234-5283,67660
+V0648,Late Antique,Scholia,,vta-ae@5284-8390,72164
+V0649,Late Antique,Scholia,,vta-ae@8391-11262,66149
+V0650,Late Antique,Scholia,,vta-ae@11263-14072,66285
+V0651,Late Antique,Scholia,,vta-ae@14073-16641,57515
+V0652,Late Antique,Scholia,,vta-ae@16642-20059,70977
+V0653,Late Antique,Scholia,,vta-af@1-1269;vta-ag@1-1596,63183
+V0654,Late Antique,Scholia,,vta-ah@1-3418,57266
+V0655,Late Antique,Scholia,,vta-ah@3419-8577;tom-aa@1-15,60900
+V0656,Late Antique,Scholia,,uku-aa@1-2145,93331
+V0657,Late Antique,Scholia,,tii-aa@1-3;tii-ab@1-62;tii-ac@1-141,7736
+V0658,Late Antique,Scholia,,tii-ad@1-7310,65530
+V0659,Late Antique,Scholia,,tii-ad@7311-15942;tii-ae@1-94;tii-af@1-114,74997
+V0660,Late Antique,Scholia,,tii-ag@1-280;vrc-aa@1-61;sji-aa@1-2;tis-aa@1-32,33674
+V0661,Byzantine,Poetry,,yew-aa@1-1;yfq-aa@1-3;vzo-aa@1-21;xwk-aa@1-152,72800
+V0662,Byzantine,Theology,,qww-aa@1-4,424
+V0663,Byzantine,Grammar,,xpw-ac@1-96,67938
+V0664,Byzantine,Grammar,,xpw-ac@97-193,67761
+V0665,Byzantine,Grammar,,xpw-ac@194-290,67862
+V0666,Byzantine,Grammar,,xpw-ac@291-387,67790
+V0667,Byzantine,Grammar,,xpw-ac@388-485,67953
+V0668,Byzantine,Grammar,,xpw-ac@486-582,67981
+V0669,Byzantine,Grammar,,xpw-ac@583-679,67844
+V0670,Byzantine,Grammar,,xpw-ac@680-777,67877
+V0671,Byzantine,Grammar,,xpw-ad@1-186,70968
+V0672,Byzantine,Grammar,,xpw-ad@187-374,70777
+V0673,Byzantine,Grammar,,xpw-ad@375-585,70965
+V0674,Byzantine,Grammar,,xpw-ad@586-802,71522
+V0675,Byzantine,Grammar,,xpw-ad@803-1088,70560
+V0676,Byzantine,Grammar,,xpw-ad@1089-1364,70915
+V0677,Byzantine,Grammar,,xpw-ad@1365-1640,75697
+V0678,Byzantine,Grammar,,xpw-ad@1641-1860,66289
+V0679,Byzantine,Grammar,,xpw-ad@1861-2090,71135
+V0680,Byzantine,Grammar,,xpw-ad@2091-2314,70911
+V0681,Byzantine,Grammar,,xpw-ad@2315-2534,70807
+V0682,Byzantine,Grammar,,xpw-ad@2535-2792,70962
+V0683,Byzantine,Grammar,,xpw-ad@2793-3053,71154
+V0684,Byzantine,Grammar,,xpw-ad@3054-3314,70851
+V0685,Byzantine,Grammar,,xpw-ad@3315-3575;woy-aa@1-1,71886
+V0686,Byzantine,Grammar,,woy-an@1-666,82033
+V0687,Byzantine,Grammar,,woy-ao@1-4974,51872
+V0688,Byzantine,Grammar,,yem-aa@1-418,55077
+V0689,Byzantine,Grammar,,yem-aa@419-954,63983
+V0690,Byzantine,Grammar,,yem-aa@955-1432,49950
+V0691,Byzantine,Grammar,,yem-aa@1433-1922,60461
+V0692,Byzantine,Lexicography,,xia-aa@1-2101,68908
+V0693,Byzantine,Lexicography,,xie-aa@1-2404,68712
+V0694,Byzantine,Lexicography,,xie-aa@2405-4690,69688
+V0695,Byzantine,Lexicography,,xie-aa@4691-6838,68229
+V0696,Byzantine,Lexicography,,xie-aa@6839-9167,69729
+V0697,Byzantine,Lexicography,,xie-aa@9168-11866,69034
+V0698,Byzantine,Lexicography,,xib-aa@1-2767,68369
+V0699,Byzantine,Lexicography,,xib-aa@2768-5197,69836
+V0700,Byzantine,Lexicography,,xib-aa@5198-7728,69143
+V0701,Byzantine,Lexicography,,xib-aa@7729-10886,66932
+V0702,Byzantine,Lexicography,,wus-aa@1-5137,108445
+V0703,Byzantine,Lexicography,,wus-ab@1-598;wus-ac@1-511;wus-ad@1-1718,59303
+V0704,Byzantine,Lexicography,,wus-ae@1-4425;wus-af@1-197,74242
+V0705,Byzantine,Lexicography,,wus-ag@1-691;wus-ah@1-624;wus-ai@1-796,45109
+V0706,Byzantine,Lexicography,,wus-aj@1-2805;wus-ak@1-882,65276
+V0707,Byzantine,Lexicography,,wus-al@1-1497;wus-am@1-622;wus-an@1-171;wus-ao@1-1288,72470
+V0708,Byzantine,Lexicography,,wus-ap@1-3260;wus-aq@1-324,66542
+V0709,Byzantine,Lexicography,,wus-ar@1-1815;wus-as@1-1240;wus-at@1-773,79141
+V0710,Byzantine,Lexicography,,wus-au@1-879;wus-av@1-623;wus-aw@1-178;wus-ax@1-295,43897
+V0711,Byzantine,Lexicography,,xic-aa@1-2172,49029
+V0712,Uncertain,Philosophy,,ktv-aa@1-18;rbw-aa@1-7;xum-aa@1-12;wmg-aa@1-57,24924
