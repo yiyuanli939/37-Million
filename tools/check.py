@@ -108,6 +108,8 @@ def check_file(path, man, variants):
         g = GREEK.findall(outside)
         if len(g) > 3 and meta.get("keep_greek") != "yes":
             errs.append(f"{tag}：残留希腊文 {''.join(g[:20])}")
+        if '"' in body:
+            errs.append(f"{tag}：半角双引号，应为“”（可用 tools/punct.py 修正）")
         cj = len(CJK.findall(body))
         if gw >= RATIO_MIN_WORDS:
             r = cj / gw

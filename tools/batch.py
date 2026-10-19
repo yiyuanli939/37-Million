@@ -173,6 +173,8 @@ def cmd_assemble(a):
             "status": a.status, "translator": "Claude (AI)", "reviewer": "Claude (AI, 独立审校)"
             if a.status == "reviewed" else ""}
     meta = {k: v for k, v in meta.items() if v}
+    import punct
+    units = [(x, y, punct.fix_quotes(t)) for x, y, t in units]
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(zh.render(meta, units), encoding="utf-8")
     # 存疑汇总进审校记录

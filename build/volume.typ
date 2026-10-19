@@ -36,7 +36,7 @@
 
 // 原文排版：处理内嵌标记已在脚本中转成 segments。
 #let grc-run(segs) = {
-  set text(font: grc-font, size: 9.5pt, lang: "el")
+  set text(font: grc-font, size: 8.7pt, lang: "el")
   set par(justify: false, leading: 0.6em, spacing: 0.6em, hanging-indent: 1.2em)
   for s in segs {
     if s.k == "t" { s.v }
@@ -50,13 +50,14 @@
   }
 }
 
-#let zh-run(t) = {
+#let zh-run(t, notes) = {
   set par(justify: true, first-line-indent: 0pt)
   for (i, para) in t.split("\n\n").enumerate() {
     if i > 0 { parbreak() }
     let lines = para.split("\n")
     for (j, l) in lines.enumerate() { if j > 0 { linebreak() }; l }
   }
+  for n in notes { super(text(size: 6.5pt, fill: rgb("#8a3b12"), n)) }
 }
 
 // ---------- 卷首 ----------
@@ -112,14 +113,14 @@
     #text(size: 8pt, fill: luma(90))[#w.author_en, _#w.title_en _ · eul_wid #raw(w.eul_wid) · #w.status_zh]
   ]
   #table(
-    columns: (8mm, 1.25fr, 1fr),
+    columns: (7mm, 1.3fr, 1fr),
     stroke: none,
     inset: (x: 3pt, y: 3.5pt),
     column-gutter: 4pt,
     ..w.rows.map(r => (
       align(right, text(size: 6.5pt, fill: luma(110), r.margin.join("\n"))),
       grc-run(r.grc),
-      { zh-run(r.zh); for n in r.notes { super(text(size: 6.5pt, fill: rgb("#8a3b12"), n)) } },
+      zh-run(r.zh, r.notes),
     )).flatten()
   )
 ]
