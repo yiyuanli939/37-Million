@@ -41,7 +41,10 @@ jobs:
             else
               tag="v${vol#V}"; flags=""; pre=""
             fi
-            if gh release view "$tag" >/dev/null 2>&1; then echo "$tag 已发布，跳过"; continue; fi
+            if d=$(gh release view "$tag" --json isDraft -q .isDraft 2>/dev/null); then
+              if [ "$d" = "true" ]; then echo "$tag 只留下草稿（上次发布中断），删除后重发"; gh release delete "$tag" --yes --cleanup-tag || true
+              else echo "$tag 已发布，跳过"; continue; fi
+            fi
             wids=$(python3 -c "
           import csv
           v={r['volume']:r for r in csv.DictReader(open('volumes.csv',encoding='utf-8'))}['$vol']
