@@ -3,8 +3,9 @@ eul_wid: adw-ab
 title_zh: 论诗残篇
 author_zh: 拉刻代蒙的阿尔克曼
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

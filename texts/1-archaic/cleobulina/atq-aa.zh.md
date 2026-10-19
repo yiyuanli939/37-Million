@@ -3,8 +3,9 @@ eul_wid: atq-aa
 title_zh: 谜语与悖论
 author_zh: 谜语作者克勒奥布利娜
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4

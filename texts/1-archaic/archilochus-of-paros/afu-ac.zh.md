@@ -3,8 +3,9 @@ eul_wid: afu-ac
 title_zh: 铭体诗
 author_zh: 帕罗斯的阿尔基洛科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

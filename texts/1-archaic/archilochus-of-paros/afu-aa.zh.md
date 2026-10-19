@@ -3,8 +3,9 @@ eul_wid: afu-aa
 title_zh: 抒情诗残篇
 author_zh: 帕罗斯的阿尔基洛科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -41,7 +42,7 @@ translator: Claude (AI)
 我说了这么多；我在盛开的花丛中
 抱住那少女，让她躺下，用柔软的
 斗篷把她裹住，用臂弯搂着她的脖颈，
-……她因恐惧而……
+……她在恐惧中……〔原文残缺，或补作“止住了恐惧”〕
 像一只小鹿……
 我用双手轻轻抚摸她的乳房，
 在那里，她显露出新生的
