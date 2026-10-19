@@ -4,7 +4,8 @@ name: 排版发布
 # 也可手动运行：可排试样卷（允许未译完），作为预发布。
 on:
   push:
-    tags: ["v[0-9][0-9][0-9][0-9]"]
+    # v0001：正式发布该卷。sample-V0001-<说明>：试样，只排已译的作品，发布为预发布版本。
+    tags: ["v[0-9][0-9][0-9][0-9]", "sample-V[0-9][0-9][0-9][0-9]-*"]
   workflow_dispatch:
     inputs:
       volume:
@@ -29,7 +30,10 @@ jobs:
       - name: 确定卷号
         id: v
         run: |
-          if [ "${{ github.event_name }}" = "push" ]; then
+          if [ "${{ github.event_name }}" = "push" ] && [[ "$GITHUB_REF_NAME" == sample-* ]]; then
+            vol=$(echo "$GITHUB_REF_NAME" | cut -d- -f2); echo "vol=$vol" >> "$GITHUB_OUTPUT"; echo "tag=$GITHUB_REF_NAME" >> "$GITHUB_OUTPUT"
+            echo "partial=--allow-partial --skip-untranslated" >> "$GITHUB_OUTPUT"; echo "only=" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "push" ]; then
             n="${GITHUB_REF_NAME#v}"; echo "vol=V$n" >> "$GITHUB_OUTPUT"; echo "tag=$GITHUB_REF_NAME" >> "$GITHUB_OUTPUT"
             echo "partial=" >> "$GITHUB_OUTPUT"; echo "only=" >> "$GITHUB_OUTPUT"
           else

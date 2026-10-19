@@ -96,7 +96,7 @@ def volume_titles():
     return out
 
 
-def build(vid, out_dir, allow_partial, only=None):
+def build(vid, out_dir, allow_partial, only=None, skip_untranslated=False):
     vols = {v["volume"]: v for v in read_csv(VOLUMES)}
     man = {r["eul_wid"]: r for r in read_csv(MANIFEST)}
     v = vols[vid]
@@ -117,6 +117,8 @@ def build(vid, out_dir, allow_partial, only=None):
         src = parse_greek.load(wid).units
         path = zh_path(r["period"], r["author_slug"], wid)
         meta, units = zh.load(path) if path.exists() else ({}, [])
+        if skip_untranslated and not units:
+            continue
         status = meta.get("status", "draft")
         statuses.add(status)
         verse = r["format"] == "Verse"
@@ -203,8 +205,9 @@ def main():
     ap.add_argument("--out", default=str(ROOT / "out"))
     ap.add_argument("--allow-partial", action="store_true")
     ap.add_argument("--only", nargs="*", help="只排这些作品（试样用）")
+    ap.add_argument("--skip-untranslated", action="store_true", help="跳过尚无译文的作品（试样用）")
     a = ap.parse_args()
-    build(a.volume, a.out, a.allow_partial, set(a.only or []))
+    build(a.volume, a.out, a.allow_partial, set(a.only or []), a.skip_untranslated)
 
 
 if __name__ == "__main__":
