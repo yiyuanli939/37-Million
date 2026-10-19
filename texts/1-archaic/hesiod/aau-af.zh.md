@@ -3,8 +3,9 @@ eul_wid: aau-af
 title_zh: 谱系残篇
 author_zh: 赫西俄德
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
