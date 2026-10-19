@@ -78,7 +78,9 @@ def cmd_prompts(a):
 
 def norm(g):
     g = unicodedata.normalize("NFD", g)
-    return "".join(c for c in g if not unicodedata.combining(c)).lower().replace("ς", "σ")
+    # 保留首字母大小写：小写开头的修饰语（χρυσάωρ）不与同形专名（Χρυσάωρ）混同
+    g = "".join(c for c in g if not unicodedata.combining(c)).replace("ς", "σ")
+    return g[:1] + g[1:].lower()
 
 
 def read_names():
@@ -134,6 +136,17 @@ def cmd_names(a):
                     t = t.replace(old, new)
             sf.write_text(t, encoding="utf-8")
     write_names(rows)
+    # 把异译统一改成译名表的正名
+    import check
+    variants = check.load_variants()
+    fixed = 0
+    for sf in d.glob("*.zh.md"):
+        t = sf.read_text(encoding="utf-8")
+        t2 = check.fix_variants(t, variants)
+        if t2 != t:
+            fixed += len(check.find_variants(t, variants))
+            sf.write_text(t2, encoding="utf-8")
+    conflicts.append(f"异译改正名 {fixed} 处")
     log = d / "names.log"
     log.write_text("新增：\n" + "\n".join(added) + "\n\n冲突：\n" + "\n".join(conflicts) + "\n",
                    encoding="utf-8")
