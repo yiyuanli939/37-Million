@@ -3,8 +3,9 @@ eul_wid: dbg-aa
 title_zh: 墨勒阿格罗斯与狩猎残篇
 author_zh: 拉姆努斯的安提丰
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

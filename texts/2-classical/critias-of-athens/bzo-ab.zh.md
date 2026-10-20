@@ -3,8 +3,9 @@ eul_wid: bzo-ab
 title_zh: 证言
 author_zh: 雅典的克里提亚
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

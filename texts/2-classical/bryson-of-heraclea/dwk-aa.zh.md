@@ -3,8 +3,9 @@ eul_wid: dwk-aa
 title_zh: 论家政残篇
 author_zh: 赫拉克勒亚的布律松
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: brc-ad
 title_zh: 论人性与蛮族
 author_zh: 智者安提丰
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

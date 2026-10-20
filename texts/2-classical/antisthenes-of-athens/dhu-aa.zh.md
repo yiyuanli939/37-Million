@@ -3,8 +3,9 @@ eul_wid: dhu-aa
 title_zh: 演说辞残篇
 author_zh: 雅典的安提斯泰尼（二）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-11
