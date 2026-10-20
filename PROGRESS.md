@@ -74,3 +74,4 @@
   恢复时：r8 全部完成后对 gtu-ab 和 .work/w8-new.txt 里的每个 wid 依次 `review_split.py merge` + `batch.py reviewed`，跑 check，部分作品退回 draft，提交；再查卷完整性，把 V0015 起完整的卷加进 releases.txt。然后补启动 w9-2..31。
 - 第 8 波审校已合并（c9f177b）；V0015、V0016 完整，已排队发布。emo-ad、emo-ae 只到部分，退回 draft，第 9 波补完。
 - 断点：第 9 波 job-w9-1..31 已全部启动（26、30 尚在跑，其余完成）。下一步：对第 9 波所有 wid 跑 names、写 w9 titles、assemble（已有作品不带标题）、check、提交；然后切片审校 r9。
+- 第 9 波已组装（af10cba），check 全过。断点：第 9 波审校 job-r9-1..19 在跑；第 10 波 job-w10-* 已生成，按空位依次启动（`.work/wave10.json`）。r9 完成后：对 .work/w9-all.txt 每个 wid merge + reviewed，check，部分作品退回 draft，提交，查卷完整性。
