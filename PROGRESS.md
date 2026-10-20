@@ -65,3 +65,10 @@
 - 写入 `CLAUDE.md`、`PLAN.md`、`STYLE.md`、`PROGRESS.md`。
 - 已查验 Eulogikon 仓库结构和清单格式，提交号为 `646609143098878ccc4a5937917cb71f1808476a`，细节见 `PLAN.md` 第 1 节。
 - 下一步：按 `PLAN.md` 第 5 节执行阶段 0。
+
+## 2026-10-20（续）第 7 波审完，第 8 波组装并开审，第 9 波开译
+
+- 第 7 波审校合并完毕（f669031）；V0013、V0014 完整，已加入 releases.txt。gtu-ab 只译到 @225，退回 draft，第 8 波已补完。
+- 第 8 波 102 部新作品 + gtu-ab 补全已组装（d2a78e3），check 全过；新登记作者译名 10 条。
+- 断点：第 8 波审校 job-r8-1..19 在跑；第 9 波 job-w9-1..31 只启动了 w9-1。
+  恢复时：r8 全部完成后对 gtu-ab 和 .work/w8-new.txt 里的每个 wid 依次 `review_split.py merge` + `batch.py reviewed`，跑 check，部分作品退回 draft，提交；再查卷完整性，把 V0015 起完整的卷加进 releases.txt。然后补启动 w9-2..31。
