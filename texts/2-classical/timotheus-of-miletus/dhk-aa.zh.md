@@ -3,8 +3,9 @@ eul_wid: dhk-aa
 title_zh: 狄奥尼索斯及神话残篇
 author_zh: 米利都的提摩忒奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -23,7 +24,7 @@ translator: Claude (AI)
 ### @3
 ……“我来了，你为什么喊我？”
 《波斯人》：为希腊铸成自由的光辉而伟大的装饰。
-要敬重羞耻心（αἰδώς），那是持矛作战的勇武（ἀρετή）的帮手。
+要敬重羞耻心（αἰδώς），那是持矛作战之卓越（ἀρετή）的帮手。
 > 第一句仍接上条马孔的诗。
 
 ### @4
