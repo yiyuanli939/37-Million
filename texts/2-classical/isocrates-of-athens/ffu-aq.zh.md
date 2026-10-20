@@ -3,8 +3,9 @@ eul_wid: ffu-aq
 title_zh: 驳欧提努斯
 author_zh: 伊索克拉底
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
