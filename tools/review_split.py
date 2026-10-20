@@ -19,11 +19,11 @@ def target(wid):
     return zh_path(r["period"], r["author_slug"], wid)
 
 
-def split(wid, words):
+def split(wid, words, frm=1):
     p = target(wid)
     meta, units = zh.load(p)
     out = subprocess.run([sys.executable, str(ROOT / "tools/batch.py"), "review-prompts", wid,
-                          f"1-{units[-1][1]}", "--words", str(words)], capture_output=True, text=True, check=True).stdout
+                          f"{frm}-{units[-1][1]}", "--words", str(words)], capture_output=True, text=True, check=True).stdout
     jobs = json.loads(out[out.index("["):])
     rv = WORK / wid / "rv"
     rv.mkdir(parents=True, exist_ok=True)
@@ -57,6 +57,8 @@ def merge(wid):
     new = []
     for f in sorted(glob.glob(str(rv / "*.zh.md")), key=key):
         new += zh.parse(Path(f).read_text(encoding="utf-8"))[1]
+    # 用 split --from 只审了后半部分时，前面已审校的单元照旧保留
+    new = [u for u in units if u[1] < new[0][0]] + new
     prev = 0
     for a, b, _ in new:
         assert a == prev + 1, (a, prev)
@@ -76,8 +78,9 @@ def main():
     ap.add_argument("cmd", choices=["split", "merge"])
     ap.add_argument("wid")
     ap.add_argument("--words", type=int, default=4000)
+    ap.add_argument("--from", dest="frm", type=int, default=1, help="只切出从这个单元起的审校段（之前的已审校）")
     a = ap.parse_args()
-    split(a.wid, a.words) if a.cmd == "split" else merge(a.wid)
+    split(a.wid, a.words, a.frm) if a.cmd == "split" else merge(a.wid)
 
 
 if __name__ == "__main__":
