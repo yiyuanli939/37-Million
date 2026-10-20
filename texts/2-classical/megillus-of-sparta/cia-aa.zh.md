@@ -3,8 +3,9 @@ eul_wid: cia-aa
 title_zh: 论数（残篇）
 author_zh: 斯巴达的墨吉罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

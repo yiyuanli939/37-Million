@@ -3,8 +3,9 @@ eul_wid: hfs-aa
 title_zh: 格言（一）
 author_zh: 米提利尼的卡瑞斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
