@@ -3,8 +3,9 @@ eul_wid: coo-ab
 title_zh: 荷马解释残篇
 author_zh: 希俄斯的涅索斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
