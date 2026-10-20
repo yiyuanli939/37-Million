@@ -3,12 +3,13 @@ eul_wid: exs-aa
 title_zh: 证言与残篇
 author_zh: 以弗所的赫尔墨多罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
-叙拉古人赫尔墨多罗斯，他也写过关于他的著作，并把〔他的〕对话带到西西里。
+叙拉古人赫尔墨多罗斯，他也写过关于他的著作，并把〔他的〕论说带到西西里。
 > 此条出自菲洛德摩斯《学园哲学家名录》（赫库兰尼姆纸草），原文残缺，字母多经整理者补足；“他”指柏拉图。
 
 ### @2
