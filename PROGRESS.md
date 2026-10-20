@@ -75,3 +75,9 @@
 - 第 8 波审校已合并（c9f177b）；V0015、V0016 完整，已排队发布。emo-ad、emo-ae 只到部分，退回 draft，第 9 波补完。
 - 断点：第 9 波 job-w9-1..31 已全部启动（26、30 尚在跑，其余完成）。下一步：对第 9 波所有 wid 跑 names、写 w9 titles、assemble（已有作品不带标题）、check、提交；然后切片审校 r9。
 - 第 9 波已组装（af10cba），check 全过。断点：第 9 波审校 job-r9-1..19 在跑；第 10 波 job-w10-* 已生成，按空位依次启动（`.work/wave10.json`）。r9 完成后：对 .work/w9-all.txt 每个 wid merge + reviewed，check，部分作品退回 draft，提交，查卷完整性。
+
+### 断点（第 10 波已汇编，审校 r10 进行中）
+- 第 10 波初译已汇编提交（cbm-ac…cbm-aj 全本，cbm-ak 到 @776/1385）。
+- r10 审校：`.work/job-r10-1..17.txt`（cbm-ac…cbm-aj），完成后对 `.work/w10-rv.txt` 中各作品 merge + reviewed。
+- 第 11 波翻译：`.work/wave11.json`，`.work/job-w11-1..30.txt`；已启动 1–3。
+- tools/check.py 的异译检查已改为预编译正则（大文件从数分钟降到 1 秒内）。
