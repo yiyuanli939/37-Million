@@ -3,8 +3,9 @@ eul_wid: aqo-ao
 title_zh: 铭辞
 author_zh: 寓言家伊索
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

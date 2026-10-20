@@ -3,8 +3,9 @@ eul_wid: bfe-aa
 title_zh: 酒神颂歌残篇
 author_zh: 伊卡里亚的忒斯庇斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -15,7 +16,7 @@ translator: Claude (AI)
 
 ### @3-4
 你看，宙斯正因这一点
-而居众神之首：他不习于虚谎，不习于夸口，也不习于愚蠢的笑闹；唯独甜美的享乐，他一无所知。
+而居众神之首：他不习于虚谎，不习于夸口，也不习于愚蠢的笑闹；唯有他不懂得甜美的享乐。
 
 ### @5-9
 看哪，

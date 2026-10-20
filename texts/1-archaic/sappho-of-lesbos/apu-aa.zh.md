@@ -3,8 +3,9 @@ eul_wid: apu-aa
 title_zh: 残篇补遗
 author_zh: 莱斯沃斯的萨福
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -48,9 +49,9 @@ translator: Claude (AI)
 
 ### @6
 ……
-……你们会记起……
-因为我们也在青春年少时
-做过这些事。
+……你们日后会想起……
+只因我们年少之时，
+也曾这样做过。
 许多……而且美好的……
 ……城邦……
 ……

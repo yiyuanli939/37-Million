@@ -3,8 +3,9 @@ eul_wid: bhm-ae
 title_zh: 证言
 author_zh: 叙拉古的厄庇卡尔摩斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -45,7 +46,7 @@ translator: Claude (AI)
 来代替真身，
 那些定居在叙拉古这座巨大城邦的人，
 正如同邦之人理当（？）
-记着一位智者的言辞，向他献上酬报。
+记着他那些智慧的言辞，向他献上酬报。
 因为他对孩子们说过许多
 有益于生活的话：对他致以大大的感谢。
 

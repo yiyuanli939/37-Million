@@ -3,8 +3,9 @@ eul_wid: atg-aa
 title_zh: 论女人的天性
 author_zh: 麦加拉的苏萨里翁
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

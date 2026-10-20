@@ -3,8 +3,9 @@ eul_wid: bou-aa
 title_zh: 斯巴达生活喜剧残篇
 author_zh: 喜剧诗人基奥尼德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -14,7 +15,7 @@ translator: Claude (AI)
 ### @3-4
 宙斯在上，说真的，我觉得自己如今跟一棵长在
 山沟里的牡荆已经没什么两样了。
-> 牡荆：一种灌木，常生于溪谷。
+> 牡荆：一种灌木，常生于溪谷。其名 ἄγνος 与“贞洁”（ἁγνός）谐音，古人认为它能抑制情欲，此处以之自嘲独守空床。
 
 ### @5
 七岁的

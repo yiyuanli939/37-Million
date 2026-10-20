@@ -3,8 +3,9 @@ eul_wid: big-aa
 title_zh: 论人生与希望残篇
 author_zh: 克奥斯的西蒙尼德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: apu-ac
 title_zh: 萨福的学园残篇
 author_zh: 莱斯沃斯的萨福
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -49,13 +50,13 @@ translator: Claude (AI)
 教育最出色的〔少女〕，不仅有本地的，也有来自伊奥尼亚的；而且她
 
 ### @7
-在如此
+受到如此〔之高的〕
 
 ### @8
-在
+来自
 
 ### @9
-同胞公民中受到〔如此〕敬重，以至于米蒂利尼人卡利阿斯在……中说……阿佛洛狄忒……
+同胞公民的敬重，以至于米蒂利尼人卡利阿斯在……中说……阿佛洛狄忒……
 ……
 
 ### @10

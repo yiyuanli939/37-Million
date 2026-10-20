@@ -3,8 +3,9 @@ eul_wid: aqo-aa
 title_zh: 布兰卡奇本佚名修辞家寓言
 author_zh: 寓言家伊索
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: big-ad
 title_zh: 证言
 author_zh: 克奥斯的西蒙尼德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

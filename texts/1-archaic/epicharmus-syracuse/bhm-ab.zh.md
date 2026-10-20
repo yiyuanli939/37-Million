@@ -3,8 +3,9 @@ eul_wid: bhm-ab
 title_zh: 伪厄庇卡尔摩斯残篇（二）
 author_zh: 叙拉古的厄庇卡尔摩斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

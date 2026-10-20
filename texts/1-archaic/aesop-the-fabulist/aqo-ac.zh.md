@@ -3,8 +3,9 @@ eul_wid: aqo-ac
 title_zh: 学者塞奥菲拉克托斯·西摩卡塔寓言
 author_zh: 寓言家伊索
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

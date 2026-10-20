@@ -3,12 +3,13 @@ eul_wid: aqo-am
 title_zh: 伊索谚语
 author_zh: 寓言家伊索
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
-伊索格言
+伊索谚语
 
 没有铜钱，福玻斯就不发神谕：这话表明礼物的力量。
 > 福玻斯：阿波罗的别号，此处指他在德尔斐等地发布神谕。
@@ -34,7 +35,7 @@ translator: Claude (AI)
 离宙斯近的人，也就离雷电近。
 
 ### @8
-从没有谁扛着〔时机〕出门，会被压弯了腰。
+从没有谁扛起了时机，出来时却被压弯了腰。
 
 ### @9
 阿尔忒弥斯哪里没有跳过舞呢？用沙子搓绳子。
