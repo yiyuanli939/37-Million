@@ -3,8 +3,9 @@ eul_wid: gww-ab
 title_zh: 论诗歌评鉴（残篇）
 author_zh: 本都赫拉克勒亚的卡迈勒昂
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: fuu-aa
 title_zh: 论解毒剂（残篇）
 author_zh: 罗得岛的欧德谟斯（二）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

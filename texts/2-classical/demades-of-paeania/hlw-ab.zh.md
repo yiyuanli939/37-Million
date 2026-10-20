@@ -3,8 +3,9 @@ eul_wid: hlw-ab
 title_zh: 证言
 author_zh: 德马德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
