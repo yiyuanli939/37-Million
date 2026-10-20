@@ -3,8 +3,9 @@ eul_wid: dos-aa
 title_zh: 萨索斯人赫革蒙的讽刺诗（残篇）
 author_zh: 萨索斯的赫革蒙
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

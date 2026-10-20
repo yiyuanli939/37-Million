@@ -3,8 +3,9 @@ eul_wid: brw-ac
 title_zh: 酒神颂残篇
 author_zh: 克奥斯的巴克基利得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -14,8 +15,8 @@ translator: Claude (AI)
 同……
 
 ### @3
-雅……〔典娜〕……
-神圣的精华……
+雅〔典〕……
+神圣〔雅典〕的精华……
 ……的圣域……
 ……回声在嘹亮的……中随着笛子的
 
@@ -165,8 +166,8 @@ translator: Claude (AI)
 ……
 （以下至少缺十八行）
 那深谋远虑的菲吕拉之子常常抚着他金黄的头，
-对他说：他将挥舞着〔兵器〕
-把斯卡曼德罗斯染红，杀死
+对他说：他将把那漩涡翻滚的
+斯卡曼德罗斯染红，杀死
 好战的
 特洛伊人……
 ……陌生的……

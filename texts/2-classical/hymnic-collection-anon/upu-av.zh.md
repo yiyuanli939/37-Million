@@ -3,8 +3,9 @@ eul_wid: upu-av
 title_zh: 颂歌第二十九：致赫斯提亚
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-6
@@ -12,8 +13,8 @@ translator: Claude (AI)
 无论是不死神明的，还是行走地上的凡人的，
 你都分得了永久的居所和最尊长的尊荣（τιμή），
 享有美好的特权与尊荣；因为没有你，
-凡人便不会有宴饮：每逢宴饮，人们都在开头和结尾
-首先向赫斯提亚奠洒甜如蜜的酒。
+凡人便不会有宴饮：每逢宴饮，人们都以赫斯提亚为始，在开头和结尾
+向她奠洒甜如蜜的酒。
 
 ### @7-12
 而你，弑阿尔戈斯者，宙斯和迈亚的儿子，

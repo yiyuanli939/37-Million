@@ -3,8 +3,9 @@ eul_wid: cqc-ae
 title_zh: 德尔斐致阿波罗派安颂（一）
 author_zh: 派安颂集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-14

@@ -3,8 +3,9 @@ eul_wid: upu-ai
 title_zh: 颂歌第二十二：致波塞冬
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

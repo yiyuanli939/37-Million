@@ -3,15 +3,16 @@ eul_wid: brw-ae
 title_zh: 舞歌残篇
 author_zh: 克奥斯的巴克基利得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
 吕底亚石能显明
 黄金，而人的卓越（ἀρετή）
 要由智慧（σοφία）
-和全能的真实来检验。
+和全能的真相（ἀλήθεια）来检验。
 > 吕底亚石：即试金石。
 
 ### @5-7

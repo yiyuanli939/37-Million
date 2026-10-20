@@ -3,8 +3,9 @@ eul_wid: hdk-aa
 title_zh: 致狄奥尼索斯派安颂
 author_zh: 斯卡尔费亚的抒情诗人菲洛达摩斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -117,10 +118,10 @@ translator: Claude (AI)
 欢喜慈和地守护这座城邦，
 赐它长久的福运！
 
-来吧，迎接酒神的
+来吧，迎接那狂欢的
 狄奥尼索斯，在街巷中
-与歌队一同，
-呼唤这常春藤为发的神
+与那些以常春藤为发的歌队一同，
+呼唤他
 （欧嗬伊，噢，伊俄巴科斯，噢，伊埃，派安），
 走遍富饶的整个希腊……
 ……

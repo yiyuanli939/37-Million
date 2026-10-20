@@ -3,8 +3,9 @@ eul_wid: cqc-ab
 title_zh: 厄律特赖致阿波罗派安颂残篇
 author_zh: 派安颂集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

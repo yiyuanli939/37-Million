@@ -3,8 +3,9 @@ eul_wid: dse-aa
 title_zh: 论诸神的本性（残篇）
 author_zh: 米洛斯的狄阿戈拉斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

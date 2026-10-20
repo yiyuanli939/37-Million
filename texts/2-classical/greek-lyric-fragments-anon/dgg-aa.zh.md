@@ -3,8 +3,9 @@ eul_wid: dgg-aa
 title_zh: 诸家引述无名抒情诗残篇
 author_zh: 抒情诗残篇无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -14,7 +15,7 @@ translator: Claude (AI)
 这是从萨福那里挤来的蜜，我把它带给你
 
 ### @3
-我这苦命的人，狠狠抓破了脸颊，为你堆起坟冢
+那苦命的女子，狠狠抓破了脸颊，为你堆起坟冢
 
 ### @4
 老妇人哀哭着
@@ -203,7 +204,7 @@ translator: Claude (AI)
 不均地分配
 
 ### @64
-……的剑锋
+〔义不明〕的剑锋
 
 ### @65
 远离祭坛的献祭
@@ -485,7 +486,7 @@ translator: Claude (AI)
 > 苏拉：罗马统帅，据说面色红斑点点，雅典人以此讥嘲他。
 
 ### @153
-你自知是人，便越发是神。
+你越是自知为人，便越是神。
 我们期盼过，我们拜伏过，我们见到了，我们送你上路。
 > 这是雅典人迎送庞培时所题的诗句。
 

@@ -3,8 +3,9 @@ eul_wid: dzm-aa
 title_zh: 致许革亚与睡神颂（残篇）
 author_zh: 希俄斯的利金尼奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

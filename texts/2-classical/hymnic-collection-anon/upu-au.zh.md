@@ -3,13 +3,14 @@ eul_wid: upu-au
 title_zh: 颂歌第二十八：致雅典娜
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-16
 我开始歌唱帕拉斯·雅典娜，荣耀的女神，
-灰眼睛的、多智的、心性刚硬的女神，
+灰眼睛的、足智多谋的、心性刚硬的女神，
 可敬的处女，护卫城池的勇武者，
 特里托革涅亚；多谋的宙斯亲自
 从他庄严的头颅中生出了她，她身披战争的铠甲，

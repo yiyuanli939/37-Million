@@ -3,12 +3,13 @@ eul_wid: esi-aa
 title_zh: 吕山德胜利献辞（残篇）
 author_zh: 萨摩斯的伊翁
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
-吕山德在这件功业之后立起了自己的像，那时他获胜，
+吕山德为这件功业献立了自己的像，那时他获胜，
 以迅捷的战船摧毁了刻克洛普斯后裔的力量，为从未被攻破的拉刻代蒙
 > 刻克洛普斯的后裔：指雅典人。此指公元前 405 年的羊河之战。
 

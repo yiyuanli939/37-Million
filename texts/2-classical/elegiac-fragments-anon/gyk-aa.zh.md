@@ -3,8 +3,9 @@ eul_wid: gyk-aa
 title_zh: 论德性与命运（残篇）
 author_zh: 哀歌残篇无名氏（一）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -100,7 +101,7 @@ translator: Claude (AI)
 但认真也要随之而来，让我们轮流
 听人讲话：这才是宴饮的美德。
 让我们听从主持饮酒的人；因为这正是
-好人所做的事，还要说出好话。
+好人所做的事，也能为人赢得美名。
 
 ### @25
 ……也不……

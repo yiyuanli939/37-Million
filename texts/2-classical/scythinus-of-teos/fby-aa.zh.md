@@ -3,8 +3,9 @@ eul_wid: fby-aa
 title_zh: 证言
 author_zh: 忒奥斯的斯库提诺斯（二）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

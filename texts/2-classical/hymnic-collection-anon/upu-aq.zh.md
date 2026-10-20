@@ -3,8 +3,9 @@ eul_wid: upu-aq
 title_zh: 颂歌第十八：致赫尔墨斯
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-9

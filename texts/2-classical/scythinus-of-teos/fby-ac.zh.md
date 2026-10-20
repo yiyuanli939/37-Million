@@ -1,10 +1,11 @@
 ---
 eul_wid: fby-ac
-title_zh: 论特拉基斯的赫拉克勒娅（残篇）
+title_zh: 论特拉基斯的赫拉克勒亚（残篇）
 author_zh: 忒奥斯的斯库提诺斯（二）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

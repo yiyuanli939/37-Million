@@ -3,8 +3,9 @@ eul_wid: upu-an
 title_zh: 颂歌第二十七：致阿尔忒弥斯
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -15,7 +16,7 @@ translator: Claude (AI)
 ### @4-10
 她在幽暗的群山和多风的峰顶上
 以狩猎为乐，拉开纯金的弓，
-射出令野兽哀号的箭矢；高山的峰巅
+射出令人哀号的箭矢；高山的峰巅
 为之战栗，浓荫蔽日的森林
 在野兽的嘶吼中发出可怕的回响，大地
 和多鱼的大海都在颤抖；而她怀着勇猛的心，

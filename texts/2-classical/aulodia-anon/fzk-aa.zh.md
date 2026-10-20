@@ -3,8 +3,9 @@ eul_wid: fzk-aa
 title_zh: 无名氏笛歌
 author_zh: 无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

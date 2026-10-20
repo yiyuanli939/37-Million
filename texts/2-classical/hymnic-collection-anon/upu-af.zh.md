@@ -3,8 +3,9 @@ eul_wid: upu-af
 title_zh: 颂歌第二十：致赫菲斯托斯
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
@@ -19,4 +20,4 @@ translator: Claude (AI)
 在自己的家中安然无扰。
 
 ### @8
-赫淮斯托斯啊，请你慈悲；请赐给我们卓越（ἀρετή）和福泽。
+赫淮斯托斯啊，请你慈悲；请赐给我们美德（ἀρετή）和福运。

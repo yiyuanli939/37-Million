@@ -3,8 +3,9 @@ eul_wid: cqc-ac
 title_zh: 致提图斯·弗拉米尼努斯派安颂残篇
 author_zh: 派安颂集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

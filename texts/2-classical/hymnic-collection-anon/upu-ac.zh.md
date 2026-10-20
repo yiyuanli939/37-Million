@@ -3,8 +3,9 @@ eul_wid: upu-ac
 title_zh: 颂歌第二十五：致缪斯与阿波罗
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

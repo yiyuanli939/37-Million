@@ -3,8 +3,9 @@ eul_wid: brw-af
 title_zh: 颂歌残篇
 author_zh: 克奥斯的巴克基利得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -22,4 +23,4 @@ translator: Claude (AI)
 
 ### @4
 刻琉斯
-> 刻琉斯：厄琉西斯王，曾款待寻找女儿的得墨忒耳。
+> 刻琉斯：厄琉西斯王，曾款待寻找女儿的得墨忒尔。

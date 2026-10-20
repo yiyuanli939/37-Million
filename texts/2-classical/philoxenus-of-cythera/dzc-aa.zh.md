@@ -3,8 +3,9 @@ eul_wid: dzc-aa
 title_zh: 论伽拉忒亚与爱欲（残篇）
 author_zh: 库忒拉的菲洛克塞诺斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-7
@@ -40,7 +41,7 @@ translator: Claude (AI)
 > 据说是独目巨人对奥德修斯所说的话。
 
 ### @15-16
-神灵把我关进了
+神灵（δαίμων）把我关进了
 怎样一个怪物的身边！
 > 据说是奥德修斯在独目巨人洞中所说的话。
 
@@ -49,7 +50,7 @@ translator: Claude (AI)
 > 伽摩斯：婚姻的人格化神。
 
 ### @18
-因为他们自己穿过帕尔纳索斯，进入宁芙们金顶的闺房
+因为他们自己穿过帕尔纳索斯山，进入宁芙们金顶的闺房
 
 ### @19
 旋转闪光的

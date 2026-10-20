@@ -3,8 +3,9 @@ eul_wid: upu-ax
 title_zh: 颂歌第三十二：致塞勒涅
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

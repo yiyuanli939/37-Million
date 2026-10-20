@@ -3,8 +3,9 @@ eul_wid: gtu-ab
 title_zh: 美食之旅（残篇）
 author_zh: 革拉的阿尔刻斯特拉托斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

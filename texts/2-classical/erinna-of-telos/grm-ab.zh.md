@@ -3,8 +3,9 @@ eul_wid: grm-ab
 title_zh: 哀包基斯（残篇）
 author_zh: 特洛斯的埃林娜
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -61,7 +62,7 @@ translator: Claude (AI)
 ……我抛下……因为我的脚
 不许〔我〕离开这家门，我是不洁的；也〔不愿〕
 亲眼看见死者，也不能披散着
-头发恸哭，因为绯红的羞惭
+头发恸哭，因为绯红的羞耻心（αἰδώς）
 笼罩着我，撕扯着我……
 ……而总是在前面……
 ……第十九〔年〕……
@@ -72,7 +73,7 @@ translator: Claude (AI)
 > 不洁的：亲属服丧，未嫁少女不得出门送葬。一说埃林娜因此不能亲临包基斯的葬礼。
 
 ### @12-14
-这些……羞惭使我……
+这些……羞耻心使我……
 ……少女的……
 ……望着……
 ……还有头发……

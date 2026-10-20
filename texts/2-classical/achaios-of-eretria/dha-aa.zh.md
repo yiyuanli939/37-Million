@@ -3,8 +3,9 @@ eul_wid: dha-aa
 title_zh: 论竞技者与萨堤尔（残篇）
 author_zh: 埃雷特里亚的阿开奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -121,7 +122,7 @@ translator: Claude (AI)
 > 萨罗尼亚的：阿尔忒弥斯在特洛曾的别号，得名于萨罗尼科斯湾。
 
 ### @44
-冲着那如尖船头般的公牛。
+那如尖船头般的公牛。
 
 ### @45-46
 《伊里斯》（萨提洛斯剧）
@@ -207,7 +208,7 @@ translator: Claude (AI)
 > 法奈俄斯的：阿波罗的别号，得名于希俄斯岛的法奈海角。
 
 ### @75
-《佩里托斯》
+《庇里托俄斯》
 四周围起的酒瓮。
 
 ### @76-79

@@ -3,13 +3,14 @@ eul_wid: gls-ab
 title_zh: 论埃及诸城（残篇）
 author_zh: 讽刺诗人帕尔墨农
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5
 埃及的宙斯啊，尼罗河！还有卡诺波斯人
-〈……〉的公民们，以及那些在布托、在门德斯、
+……的公民们，以及那些在布托、在门德斯、
 在山羊的
 小城、在法库萨的
 城墙、在勒托之城和犬之城

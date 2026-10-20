@@ -3,8 +3,9 @@ eul_wid: fxm-aa
 title_zh: 论罗得岛的燕子节（残篇）
 author_zh: 罗得岛的忒奥格尼斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-6
@@ -19,7 +20,7 @@ translator: Claude (AI)
 > 波厄德罗米昂月：阿提卡历的第三个月，约当公历九月至十月。
 
 ### @7-8
-燕子来了，
+燕子，
 带来美好的时节，
 带来美好的年头，
 肚皮白白，脊背黑黑。

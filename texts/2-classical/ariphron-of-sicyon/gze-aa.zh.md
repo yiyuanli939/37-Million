@@ -3,8 +3,9 @@ eul_wid: gze-aa
 title_zh: 健康女神颂
 author_zh: 西锡安的阿里弗隆
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: upu-bg
 title_zh: 致异乡人
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -12,4 +13,4 @@ translator: Claude (AI)
 你们住在眼神可爱的新娘赫拉的高城，
 在枝叶高耸的赛德涅山最低的山脚，
 饮着金黄的赫尔莫斯河美妙流淌的神圣之水——那河是不死的宙斯所生。
-> 相传此诗是荷马向埃奥利斯的库麦居民求取款待时所作。赛德涅：库麦附近的山。赫尔莫斯河：小亚细亚西部的河流。
+> 相传此诗是荷马在库麦的殖民城新堡向当地居民求取款待时所作。赛德涅：库麦附近的山。赫尔莫斯河：小亚细亚西部的河流。

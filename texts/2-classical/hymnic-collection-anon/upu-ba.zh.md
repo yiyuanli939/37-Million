@@ -3,13 +3,14 @@ eul_wid: upu-ba
 title_zh: 颂歌第三十：致大地
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
 我要歌唱盖娅，万物之母，根基牢固，
-最古老的神明，她哺育大地上存在的一切：
+她最为年长，哺育大地上存在的一切：
 凡在神圣的陆地上行走的，凡在海中游动的，
 凡在空中飞翔的，都靠你的丰饶得到滋养。
 

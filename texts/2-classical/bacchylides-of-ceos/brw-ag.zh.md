@@ -3,8 +3,9 @@ eul_wid: brw-ag
 title_zh: 存疑残篇
 author_zh: 克奥斯的巴克基利得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -23,7 +24,7 @@ translator: Claude (AI)
 因为卓越（ἀρετή）受人称颂，就像树一样生长。
 
 ### @8-9
-真实与诸神同住一城，唯有她与诸神
+真相（ἀλήθεια）与诸神同住一城，唯有她与诸神
 共同生活。
 
 ### @10-14

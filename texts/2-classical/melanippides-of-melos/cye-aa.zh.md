@@ -3,8 +3,9 @@ eul_wid: cye-aa
 title_zh: 论狄奥尼索斯与酒（残篇）
 author_zh: 米洛斯的墨拉尼庇得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-7

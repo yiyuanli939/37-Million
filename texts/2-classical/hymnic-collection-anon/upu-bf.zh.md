@@ -3,8 +3,9 @@ eul_wid: upu-bf
 title_zh: 颂歌第八：致阿瑞斯
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-8
@@ -12,7 +13,7 @@ translator: Claude (AI)
 心志刚猛，执盾者，城邦的护卫，身披铜甲，
 臂膀强健，不知疲倦，以矛称雄，奥林波斯的屏障，
 善战的尼刻之父，忒弥斯的助手，
-敌对者的暴君，最正直之人的统帅，
+敌人的主宰，最正直之人的统帅，
 勇武的执杖者，你在天穹七条轨道的星辰之间
 转动火光闪耀的圆轮，在那里，烈焰腾腾的马匹
 永远载着你，行在第三重轨圈之上；

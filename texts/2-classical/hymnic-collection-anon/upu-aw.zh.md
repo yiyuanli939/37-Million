@@ -3,8 +3,9 @@ eul_wid: upu-aw
 title_zh: 颂歌第三十一：致赫利俄斯
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

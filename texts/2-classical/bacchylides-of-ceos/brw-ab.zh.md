@@ -3,8 +3,9 @@ eul_wid: brw-ab
 title_zh: 凯歌残篇
 author_zh: 克奥斯的巴克基利得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4

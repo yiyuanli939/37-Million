@@ -3,8 +3,9 @@ eul_wid: upu-aa
 title_zh: 颂歌第十五：致狮心的赫拉克勒斯
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -19,7 +20,7 @@ translator: Claude (AI)
 
 ### @7-8
 如今他已住在积雪的奥林波斯那美好的居所，
-满心欢喜，娶了脚踝秀美的赫柏为妻。
+满心欢喜，娶了美踝的赫柏为妻。
 > 欧律斯透斯：迈锡尼国王，奉赫拉之意给赫拉克勒斯派下十二件苦差。赫柏：青春女神，赫拉克勒斯成神后娶她为妻。
 
 ### @9

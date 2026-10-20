@@ -3,8 +3,9 @@ eul_wid: cgw-aa
 title_zh: 赫拉克勒斯与拟剧之争（残篇）
 author_zh: 雅典的格里洛斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-9
@@ -24,7 +25,7 @@ translator: Claude (AI)
 
 ### @12-15
 看哪，他本人大步跨了过来，
-一个……，没嘴的，粗野得吓人的乡巴佬，
+一个〔原文此词义不明〕的、没嘴的、粗野得吓人的乡巴佬，
 ……那三夜月亮里怀上的家伙。
 ……我什么也不怕，我要开口了：
 > 三夜月亮：传说宙斯与阿尔克墨涅同寝时把一夜延长为三夜，赫拉克勒斯由此怀上。

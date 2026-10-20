@@ -3,8 +3,9 @@ eul_wid: upu-bc
 title_zh: 颂歌第十二：致赫拉
 author_zh: 颂歌集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5

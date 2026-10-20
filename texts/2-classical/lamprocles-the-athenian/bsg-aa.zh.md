@@ -3,8 +3,9 @@ eul_wid: bsg-aa
 title_zh: 致帕拉斯·雅典娜颂歌残篇
 author_zh: 雅典的兰普罗克勒斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: doi-aa
 title_zh: 残篇与题名
 author_zh: 雅典的克里昂
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

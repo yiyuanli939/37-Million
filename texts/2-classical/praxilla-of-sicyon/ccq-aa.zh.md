@@ -3,8 +3,9 @@ eul_wid: ccq-aa
 title_zh: 论生活与爱情（抒情诗残篇）
 author_zh: 西锡安的普拉克西拉
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
@@ -20,7 +21,7 @@ translator: Claude (AI)
 ### @6-7
 朋友啊，你既已听过阿德墨托斯的故事，
 就该爱那些高贵的人，远离那些卑怯的人，要知道卑怯之人的情谊微薄。
-> 阿德墨托斯：费赖的国王，其妻阿尔刻斯提斯甘愿替他赴死，而他的父母却不肯。
+> 阿德墨托斯：斐赖的国王，其妻阿尔刻斯提斯甘愿替他赴死，而他的父母却不肯。
 
 ### @8-10
 每一块石头底下的

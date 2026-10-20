@@ -3,8 +3,9 @@ eul_wid: cqc-ad
 title_zh: 厄律特赖致阿斯克勒庇俄斯派安颂
 author_zh: 派安颂集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

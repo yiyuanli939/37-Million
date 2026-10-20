@@ -3,8 +3,9 @@ eul_wid: fby-ab
 title_zh: 论阿波罗的宇宙残篇
 author_zh: 忒奥斯的斯库提诺斯（二）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -18,7 +19,7 @@ translator: Claude (AI)
 与最先者，
 又在自身之中拥有万物，永远是一，又不〈是一；因为〉那
 逝去的，又再回来，
-〈他〉从存在之中，为自己〈走〉相反的路，
+〈他〉从存在之中，为自己〔走〕相反的路，
 一年复一年……而明天，
 到了第三天，
 就是昨天，〈这个〉昨天，又是明天。

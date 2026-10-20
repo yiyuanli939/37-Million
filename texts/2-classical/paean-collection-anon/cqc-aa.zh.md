@@ -3,8 +3,9 @@ eul_wid: cqc-aa
 title_zh: 狄翁城发现的厄律特赖派安颂
 author_zh: 派安颂集无名氏
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

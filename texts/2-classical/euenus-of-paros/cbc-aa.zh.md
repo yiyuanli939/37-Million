@@ -3,8 +3,9 @@ eul_wid: cbc-aa
 title_zh: 论智慧与节制（残篇）
 author_zh: 帕罗斯的欧埃诺斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-7
@@ -54,7 +55,7 @@ translator: Claude (AI)
 事情，天生就令人苦恼。
 
 ### @23-24
-朋友啊，我说长久的练习〔会成为〕……的确，
+朋友啊，我说练习是长久的事；的确，
 到了最后，它对世人来说就成了
 本性（φύσις）。
 

@@ -3,8 +3,9 @@ eul_wid: dsy-aa
 title_zh: 奢华宴席（残篇）
 author_zh: 琉卡斯的菲洛克塞诺斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -38,7 +39,7 @@ translator: Claude (AI)
 满是肥美的枪乌贼
 和触须柔软的墨鱼、章鱼〈……〉；此后
 又端来了热腾腾的、和桌子一般大的一整条
-〔？〕
+〔鱼名不详〕
 齿鲷，
 刚离开火〈……〉
 〈……〉，然后，冒着一阵阵热气，在它上面
@@ -66,7 +67,7 @@ translator: Claude (AI)
 如实说出摆在我们面前的一切。在旁边又放上了热腾腾的
 内脏；随后是
 一头家养猪的空肠，还有脊肉、
-腰肉和热乎乎的〔？〕，还有一整个
+腰肉和热乎乎的〔菜名不详〕，还有一整个
 剖开的煮熟的头……
 ……一只闷死的小山羊……
 他都摆了上来。

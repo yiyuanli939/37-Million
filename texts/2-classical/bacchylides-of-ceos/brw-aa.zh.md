@@ -3,8 +3,9 @@ eul_wid: brw-aa
 title_zh: 未定作品残篇
 author_zh: 克奥斯的巴克基利得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -23,9 +24,9 @@ translator: Claude (AI)
 直到两鬓斑白的老年，也不曾遭逢灾祸。
 
 ### @7-9
-因为它带给凡人的那有声的言辞
+因为它带给凡人的那有声的言辞（λόγος）
 并不隐秘……
-言辞将是智慧……
+言辞将是智慧（σοφία）……
 
 ### @10
 宽阔的道路

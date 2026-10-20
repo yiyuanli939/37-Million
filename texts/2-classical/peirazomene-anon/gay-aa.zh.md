@@ -3,8 +3,9 @@ eul_wid: gay-aa
 title_zh: 狂女的祈求（残篇）
 author_zh: 《受试的女子》（作者不详）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

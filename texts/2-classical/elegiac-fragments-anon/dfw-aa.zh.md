@@ -3,8 +3,9 @@ eul_wid: dfw-aa
 title_zh: 论加拉太战争（残篇）
 author_zh: 哀歌残篇无名氏（二）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -43,7 +44,7 @@ translator: Claude (AI)
 “这些人蛮横无礼，又毫无头脑，可是很快
 他们就要为这番狂妄领受报偿；
 他们吃了教训就会明白：比他们更强的别人，
-〔我们〕也已经让他们陷入沉重的奴役。
+〔我们〕也已使之沦入沉重的奴役。
 ……对家资丰厚的米底人一样……
 ……那凶猛的人，高卢人。因为他不是
 裹着紫袍，也不是用香膏

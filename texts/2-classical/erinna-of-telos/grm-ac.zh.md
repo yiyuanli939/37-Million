@@ -3,8 +3,9 @@ eul_wid: grm-ac
 title_zh: 铭辞
 author_zh: 特洛斯的埃林娜
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -42,8 +43,8 @@ translator: Claude (AI)
 它们就会向你讲述包基斯极其残酷的命运：
 
 ### @17-18
-曾为这姑娘唱婚歌时燃着的松木火把，
-她的公公就用这些火把点着了火葬的柴堆。
+人们曾在这些松木火把旁为这姑娘唱起婚歌，
+如今她的公公就用这些火把，在火葬堆上焚化了她。
 
 ### @19-20
 而你，许墨奈俄斯啊，竟把婚礼的欢乐歌声
