@@ -3,8 +3,9 @@ eul_wid: aku-aa
 title_zh: 库瑞特斯颂歌
 author_zh: 佚名
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-10
@@ -72,7 +73,7 @@ translator: Claude (AI)
 ### @44-47
 为［我们跃起，跃入］酒罐，
 跃入毛色美好的［羊群，
-跃入］果实累累的田地，
+跃入］五谷的田地，
 跃入结［出果实的田野］。
 > 跃起：原文 θόρε，或指跃动的舞步，祈求神把丰饶带给万物。
 
