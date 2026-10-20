@@ -3,8 +3,9 @@ eul_wid: bsq-aa
 title_zh: 《阿尔克迈翁纪》残篇
 author_zh: 史诗《阿尔克迈翁纪》
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
@@ -16,7 +17,7 @@ translator: Claude (AI)
 > 被杀者为福科斯，忒拉蒙与佩琉斯的异母兄弟。
 
 ### @5-8
-〈……〉他把尸体放在铺于地上的
+〈……〉他把那些尸体放在铺于地上的
 宽大
 草垫上，又在他们身旁摆下丰盛的宴席
 和酒杯，并在他们头上戴上花冠。

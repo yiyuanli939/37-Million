@@ -3,8 +3,9 @@ eul_wid: euq-aa
 title_zh: 《墨洛皮斯》残篇
 author_zh: 佚名史诗《墨洛皮斯》
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -45,6 +46,6 @@ translator: Claude (AI)
 干透了；女神带来神膏，浇在上面；
 她把它缠绕在身体周围，作为屏障，连同
 那双手和宽大的
-脚爪一起；
+脚爪〔？〕一起；
 她就这样装扮停当……
 > 墨罗普斯人：传说中科斯岛的居民，赫拉克勒斯曾与之交战。阿斯特罗斯：墨罗普斯人中刀枪不入的巨人。

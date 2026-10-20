@@ -3,8 +3,9 @@ eul_wid: emy-aa
 title_zh: 咏酒残篇（或属伊阿索斯的科伊里洛斯）
 author_zh: 萨摩斯的科伊里洛斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4

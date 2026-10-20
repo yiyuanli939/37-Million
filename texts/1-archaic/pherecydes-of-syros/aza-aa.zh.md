@@ -3,8 +3,9 @@ eul_wid: aza-aa
 title_zh: 论死亡与疾病（残篇）
 author_zh: 叙罗斯的斐瑞居德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

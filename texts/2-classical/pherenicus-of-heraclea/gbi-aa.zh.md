@@ -3,8 +3,9 @@ eul_wid: gbi-aa
 title_zh: 论许珀尔玻瑞亚人（残篇）
 author_zh: 赫拉克勒亚的斐瑞尼科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4

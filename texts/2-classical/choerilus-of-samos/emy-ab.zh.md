@@ -3,8 +3,9 @@ eul_wid: emy-ab
 title_zh: 残篇与题名
 author_zh: 萨摩斯的科伊里洛斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -34,7 +35,7 @@ translator: Claude (AI)
 还有牧羊的
 萨卡人，按族类是斯基泰人；他们居住在亚细亚
 产麦的地方；他们是游牧者的移民，
-却是守法的人。
+而那些游牧者是守法的人。
 
 ### @13-16
 在他们后面，渡过来一个看上去令人惊奇的族群，

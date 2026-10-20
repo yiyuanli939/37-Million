@@ -3,8 +3,9 @@ eul_wid: bdg-ab
 title_zh: 铭诗
 author_zh: 米利都的福库利德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

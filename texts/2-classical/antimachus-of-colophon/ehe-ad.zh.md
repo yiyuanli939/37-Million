@@ -3,8 +3,9 @@ eul_wid: ehe-ad
 title_zh: 铭诗
 author_zh: 科洛封的安提玛科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4

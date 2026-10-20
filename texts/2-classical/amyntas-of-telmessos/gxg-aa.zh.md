@@ -3,8 +3,9 @@ eul_wid: gxg-aa
 title_zh: 哀歌残篇
 author_zh: 特尔墨索斯的阿明塔斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -20,7 +21,7 @@ translator: Claude (AI)
 是卡利特勒斯，但我死于
 分娩。”“是谁为你立起
 墓碑？”“忒奥克里托斯，他们把我许配给他做妻子。”“你活到了多大年纪？”“三个七年
-又一年，正当年轻。”“莫非你没有孩子？”“不，我在家中留下了一个三岁的孩子。”
+又一年。”“莫非你没有孩子？”“不，我在家中留下了一个三岁的孩子。”
 > 本篇为问答体墓志诗。三个七年又一年：即二十二岁。
 
 ### @8-11

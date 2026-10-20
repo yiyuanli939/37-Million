@@ -3,8 +3,9 @@ eul_wid: cee-aa
 title_zh: 论波塞冬的统治（残篇）
 author_zh: 史诗诗人赫尔摩纳克斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-7
