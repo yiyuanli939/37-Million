@@ -3,8 +3,9 @@ eul_wid: bzy-aa
 title_zh: 论拜占庭风俗
 author_zh: 乐师达蒙
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

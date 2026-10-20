@@ -3,8 +3,9 @@ eul_wid: etc-aa
 title_zh: 证言
 author_zh: 智者特拉叙阿尔刻斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

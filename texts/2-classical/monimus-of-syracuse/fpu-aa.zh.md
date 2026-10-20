@@ -3,8 +3,9 @@ eul_wid: fpu-aa
 title_zh: 犬儒格言与言论
 author_zh: 叙拉古的摩尼摩斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

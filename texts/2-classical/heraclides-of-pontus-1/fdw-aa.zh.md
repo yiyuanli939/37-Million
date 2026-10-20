@@ -3,8 +3,9 @@ eul_wid: fdw-aa
 title_zh: 论难词
 author_zh: 本都的赫拉克利德斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

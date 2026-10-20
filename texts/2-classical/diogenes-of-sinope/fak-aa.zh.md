@@ -3,8 +3,9 @@ eul_wid: fak-aa
 title_zh: 论德性与机运的犬儒格言
 author_zh: 西诺普的第欧根尼
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -21,7 +22,7 @@ translator: Claude (AI)
 赫拉克勒斯：
 可怜的德性（ἀρετή）啊！原来你只是一句空话，
 我却把你当作实事来修习；原来你一直在给机运当奴隶。
-……他抛开了那生财的不义，
+……抛开了那生财的不义，
 抛开了那孕育一切快乐的放纵……
 没有城邦，没有家室，被夺去了祖国，
 一个乞丐，一个漂泊者，过着朝不保夕的日子……
