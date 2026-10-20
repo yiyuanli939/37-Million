@@ -3,8 +3,9 @@ eul_wid: dra-ab
 title_zh: 论宇宙与必然
 author_zh: 原子论者留基伯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -19,6 +20,6 @@ translator: Claude (AI)
 
 ### @5-8
 阿埃提奥斯第 1 卷第 25 章第 4 节（D. 321）：留基伯认为万物都依必然而发生，而必然就是命运。他在《论理智》中说：
-“没有任何事物
-是无端产生的，万物都出于道理（λόγος）
-并由于必然（ἀνάγκη）。”
+“没有一样事物
+是平白生成的，一切都有其道理（λόγος），
+并且出于必然（ἀνάγκη）。”

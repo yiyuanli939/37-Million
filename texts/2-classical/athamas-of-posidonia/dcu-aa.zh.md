@@ -3,8 +3,9 @@ eul_wid: dcu-aa
 title_zh: 论万物的四根
 author_zh: 波塞多尼亚的阿塔玛斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -15,5 +16,5 @@ translator: Claude (AI)
 > 克莱门引此，意在说明希腊人的学说多有因袭；所引恩培多克勒诗句见第尔斯—克兰茨编《前苏格拉底哲学家残篇》恩培多克勒 B 6、B 17 等处。
 
 ### @2
-因为从它们之中，产生了过去存在的、将来存在的和现在存在的一切。“
+因为从它们之中，产生了过去存在的、将来存在的和现在存在的一切。”
 > 此行见恩培多克勒残篇 B 21 第 9 行，克莱门把它与前两行连缀在一起。
