@@ -3,8 +3,9 @@ eul_wid: has-aa
 title_zh: 铭体诗
 author_zh: 忒奥斯的斯库提诺斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-6
@@ -25,8 +26,8 @@ translator: Claude (AI)
 绷得紧紧的，仿佛永远不会罢休；
 可是当涅墨塞诺斯把整个身子侧过来向着我，
 把我想要的一切都给我时，你却像死了一样垂挂着。
+> 无名的东西：指男子的阳物。
 
 ### @13-14
 你尽管绷紧，尽管胀裂，尽管流泪吧——全是白费；
 你从我的手上得不到半点怜悯。
-> 无名的东西：指男子的阳物。

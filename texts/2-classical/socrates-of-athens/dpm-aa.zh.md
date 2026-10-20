@@ -3,12 +3,13 @@ eul_wid: dpm-aa
 title_zh: 论神与智慧（残篇）
 author_zh: 雅典的苏格拉底
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
-提洛的阿波罗啊，万福！还有阿尔忒弥斯，你们这一对声名远扬的孩子。
+提洛岛的阿波罗啊，万福！还有阿尔忒弥斯，你们这一对声名远扬的孩子。
 > 据第欧根尼·拉尔修《名哲言行录》第 2 卷第 42 节，这是苏格拉底在狱中所作颂歌的开头。
 
 ### @2
