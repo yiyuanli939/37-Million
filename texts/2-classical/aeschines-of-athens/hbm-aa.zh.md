@@ -1,6 +1,6 @@
 ---
 eul_wid: hbm-aa
-title_zh: 诉克忒西丰
+title_zh: 诉克特西丰
 author_zh: 埃斯基涅斯
 source_commit: 6466091
 status: reviewed
