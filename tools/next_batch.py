@@ -31,12 +31,12 @@ def work_covered(wid, done):
     return done
 
 
-def pending(limit_words, aid=None, skip=()):
+def pending(limit_words, aid=None, skip=(), only=None):
     out, total = [], 0
     for r in read_csv(MANIFEST):
         if aid and r["eul_aid"] != aid:
             continue
-        if r["eul_wid"] in skip:
+        if r["eul_wid"] in skip or (only is not None and r["eul_wid"] not in only):
             continue
         n = int(r["units"])
         if not n:

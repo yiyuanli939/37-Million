@@ -258,7 +258,15 @@ def make_prompts(wid, lo, hi, words=2000):
 def cmd_wave(a):
     """领取下一批，生成各段说明，把小作品打包，输出每个子任务要处理的说明文件列表。"""
     import next_batch
-    items = next_batch.pending(a.words, a.author, set(a.skip or []))
+    only = None
+    if a.volumes:
+        # 只领取指定卷范围（如 V0031-V0050）内的作品，供多个会话分头翻译
+        lo, hi = a.volumes.split("-")
+        only = set()
+        for r in read_csv(ROOT / "volumes.csv"):
+            if lo <= r["volume"] <= hi:
+                only |= {q.split("@")[0] for q in r["parts"].split(";") if q}
+    items = next_batch.pending(a.words, a.author, set(a.skip or []), only)
     segs = []
     for it in items:
         if it["end"] < it["start"]:
@@ -318,7 +326,7 @@ def main():
     p = sub.add_parser("queue"); p.add_argument("wid"); p.add_argument("range")
     p.add_argument("--seg", type=int, default=2000)
     p = sub.add_parser("wave"); p.add_argument("--words", type=int, default=40000)
-    p.add_argument("--seg", type=int, default=2000); p.add_argument("--author"); p.add_argument("--skip", nargs="*")
+    p.add_argument("--seg", type=int, default=2000); p.add_argument("--author"); p.add_argument("--skip", nargs="*"); p.add_argument("--volumes")
     a = ap.parse_args()
     {"queue": cmd_queue, "wave": cmd_wave, "reviewed": cmd_reviewed, "prompts": cmd_prompts, "names": cmd_names, "assemble": cmd_assemble,
      "review-prompts": cmd_review_prompts}[a.cmd](a)
