@@ -3,8 +3,9 @@ eul_wid: beu-ae
 title_zh: 铭诗
 author_zh: 科洛封的克塞诺芬尼
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
