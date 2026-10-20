@@ -3,8 +3,9 @@ eul_wid: awi-aa
 title_zh: 《埃吉纳志》残篇
 author_zh: 史家皮泰涅托斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

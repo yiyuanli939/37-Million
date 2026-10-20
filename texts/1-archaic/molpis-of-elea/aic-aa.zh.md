@@ -3,8 +3,9 @@ eul_wid: aic-aa
 title_zh: 论斯巴达习俗与饮食
 author_zh: 埃利亚的摩尔皮斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

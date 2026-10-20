@@ -3,8 +3,9 @@ eul_wid: bbs-aa
 title_zh: 位置未定残篇
 author_zh: 麦加拉的忒奥格尼斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -21,6 +22,6 @@ translator: Claude (AI)
 我就是证人；你也来为我所说的实情作证吧。
 
 ### @4
-如今已有一个海中的死者唤我回家，
-他早已死去，却用活着的嘴发声。
+海里来的一个死者已经把我唤回了家，
+它虽已死去，却张着活的嘴出声。
 > 这是一则谜语，谜底一般认为是海螺：螺壳取自海中，吹响时可作号角召唤。

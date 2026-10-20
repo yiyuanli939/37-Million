@@ -3,8 +3,9 @@ eul_wid: bli-ac
 title_zh: 欧罗巴地理残篇
 author_zh: 米利都的史家赫卡泰奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

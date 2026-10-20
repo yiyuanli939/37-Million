@@ -3,8 +3,9 @@ eul_wid: aim-aa
 title_zh: 伯罗奔尼撒史残篇
 author_zh: 史家皮兰德罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

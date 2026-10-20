@@ -3,8 +3,9 @@ eul_wid: bao-aa
 title_zh: 忒修斯与阿玛宗人残篇
 author_zh: 普罗孔涅索斯的彼翁
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

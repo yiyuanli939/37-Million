@@ -3,8 +3,9 @@ eul_wid: bfo-aa
 title_zh: 论克里特蜜蜂与迁徙
 author_zh: 雅典的安特诺尔
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: age-aa
 title_zh: 史事残篇
 author_zh: 以弗所的皮特尔摩斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
