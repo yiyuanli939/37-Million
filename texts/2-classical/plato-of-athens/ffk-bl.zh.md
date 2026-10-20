@@ -3,8 +3,9 @@ eul_wid: ffk-bl
 title_zh: 弥诺斯
 author_zh: 柏拉图
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -493,7 +494,7 @@ translator: Claude (AI)
 友人：你说得对。
 
 ### @160
-苏格拉底：他们的笛曲最为神圣，唯有它们能打动人心，并显露出那些需要众神的人；而且直到如今，也唯有它们因其神圣而留存下来。
+苏格拉底：他们的笛曲最为神圣，唯有它们能触动并显露出那些需要众神的人；而且直到如今，也唯有它们因其神圣而留存下来。
 
 ### @161
 友人：是这样。
