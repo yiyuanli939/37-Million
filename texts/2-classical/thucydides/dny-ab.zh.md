@@ -3,8 +3,9 @@ eul_wid: dny-ab
 title_zh: 铭体诗
 author_zh: 修昔底德
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
