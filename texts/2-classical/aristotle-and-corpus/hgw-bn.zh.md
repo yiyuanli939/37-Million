@@ -3,8 +3,9 @@ eul_wid: hgw-bn
 title_zh: 论灵魂（残篇）
 author_zh: 亚里士多德
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
