@@ -3,8 +3,9 @@ eul_wid: fsm-ci
 title_zh: 论组织
 author_zh: 德摩斯梯尼
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

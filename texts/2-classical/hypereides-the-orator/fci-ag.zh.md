@@ -3,8 +3,9 @@ eul_wid: fci-ag
 title_zh: 葬礼演说
 author_zh: 许佩里得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
