@@ -81,3 +81,8 @@
 - r10 审校：`.work/job-r10-1..17.txt`（cbm-ac…cbm-aj），完成后对 `.work/w10-rv.txt` 中各作品 merge + reviewed。
 - 第 11 波翻译：`.work/wave11.json`，`.work/job-w11-1..30.txt`；已启动 1–3。
 - tools/check.py 的异译检查已改为预编译正则（大文件从数分钟降到 1 秒内）。
+
+### 断点（第 11 波已汇编，审校 r11 进行中）
+- 第 11 波初译已汇编提交（cbm-ak…cbm-aw 全本；cbm-ax、cbm-ay、cbm-az 只到开篇）。
+- r11 审校：`.work/job-r11-1..18.txt`，对象见 `.work/w11-rv.txt`；完成后 merge + reviewed，再查 V0018/V0019 是否齐。
+- 第 12 波翻译：`.work/wave12.json`，`.work/job-w12-*.txt`。
