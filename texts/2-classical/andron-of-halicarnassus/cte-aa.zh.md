@@ -3,8 +3,9 @@ eul_wid: cte-aa
 title_zh: 地理残篇
 author_zh: 哈利卡纳苏斯的安德隆
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
