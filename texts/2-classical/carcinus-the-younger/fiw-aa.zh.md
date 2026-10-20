@@ -3,8 +3,9 @@ eul_wid: fiw-aa
 title_zh: 论得墨忒尔与珀尔塞福涅（残篇）
 author_zh: 托里科斯的小卡尔基诺斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -50,7 +51,7 @@ translator: Claude (AI)
 
 ### @20-21
 并不是那人使他失了常性；因为天生而端正地
-确立起来的心志，任何时机都不能诱它去犯错。
+确立起来的……心志，任何时机都不能诱它去犯错。
 
 ### @22-24
 因为对许多人来说，医治不幸的药

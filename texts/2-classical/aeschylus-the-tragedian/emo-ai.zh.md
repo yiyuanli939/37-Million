@@ -3,14 +3,15 @@ eul_wid: emo-ai
 title_zh: 铭辞
 author_zh: 悲剧诗人埃斯库罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
 幽暗的摩伊拉也夺去了这些持矛坚守的勇士，
 当他们护卫着羊群繁盛的故土。
-逝者的荣名却活着长存；他们曾以肢体，
+逝者的荣名（κλέος）却依然鲜活；他们曾以肢体，
 可怜的人啊，披上了奥萨山的尘土。
 > 摩伊拉：命运女神。奥萨山：色萨利的山。此诗相传为埃斯库罗斯为阵亡于色萨利的人所作的墓志。
 

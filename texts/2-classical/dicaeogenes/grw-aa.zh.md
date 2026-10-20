@@ -3,8 +3,9 @@ eul_wid: grw-aa
 title_zh: 论爱欲与家室（残篇）
 author_zh: 狄凯奥革涅斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

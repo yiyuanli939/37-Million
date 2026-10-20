@@ -3,8 +3,9 @@ eul_wid: buy-aa
 title_zh: 安泰俄斯（残篇）
 author_zh: 弗利乌斯的阿里斯提阿斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -23,7 +24,7 @@ translator: Claude (AI)
 波吕斐摩斯：你往酒里兑了水，把酒全糟蹋了！奥德修斯：——
 
 ### @8-9
-我有
+我曾有
 一座摔跤场，近旁还有一条带顶棚的跑道
 
 ### @10

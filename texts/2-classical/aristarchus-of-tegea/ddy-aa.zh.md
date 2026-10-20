@@ -3,8 +3,9 @@ eul_wid: ddy-aa
 title_zh: 论阿喀琉斯与爱欲（残篇）
 author_zh: 忒革亚的阿里斯塔科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

@@ -3,13 +3,14 @@ eul_wid: eii-aa
 title_zh: 哲理格言残篇
 author_zh: 老狄奥尼修斯（叙拉古）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
-在宁芙们天然成顶的洞穴之下，——请听——
-我把这头被逐出巢穴、猎获上好的野猪，
+在宁芙们的洞穴之下，——请听——
+我把这头栖身天然窝穴〔“天然窝穴”一语所指存疑〕、被逐出巢穴、猎获上好的野猪，
 连同它的蹄子，作为初献的精品奉上。
 > 宁芙：山林水泽的女神。
 

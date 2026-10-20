@@ -3,8 +3,9 @@ eul_wid: cbm-ab
 title_zh: 阿尔基比亚德凯歌
 author_zh: 欧里庇得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5
@@ -14,7 +15,7 @@ translator: Claude (AI)
 毫不费力地走上前去，头戴宙斯的
 橄榄冠，让传令官高声
 宣告。
-> 克莱尼阿斯之子：阿尔基比亚德。他在奥林匹亚赛会（公元前416年）上派出七辆战车参赛，一举包揽前几名。
+> 克莱尼阿斯之子：阿尔基比亚德。他在奥林匹亚赛会（通常定在公元前416年，一说前420年）上派出七辆战车参赛，一举包揽前几名。
 
 ### @6
 那声名卓著的城邦。

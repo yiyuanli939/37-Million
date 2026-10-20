@@ -46,19 +46,37 @@ def load_variants():
     return out, names
 
 
+_RX = {}
+
+
+def _compiled(variants):
+    """把正名和异译各编成一个正则（长的在前），按 variants 缓存。"""
+    key = id(variants)
+    if key not in _RX:
+        var, names = variants
+        ns = sorted((n for n in names if len(n) >= 2), key=len, reverse=True)
+        vs = sorted(var, key=len, reverse=True)
+        _RX[key] = (re.compile("|".join(map(re.escape, ns))) if ns else None,
+                    re.compile("|".join(map(re.escape, vs))) if vs else None)
+    return _RX[key]
+
+
 def find_variants(text, variants):
     """找出 text 中的异译，返回 [(起, 止, 异译, 正名)]（不含落在已登记正名里的）。"""
     var, names = variants
+    rx_names, rx_var = _compiled(variants)
+    if rx_var is None:
+        return []
     masked = list(text)
-    for n in sorted(names, key=len, reverse=True):
-        if len(n) < 2:
-            continue
-        for m in re.finditer(re.escape(n), text):
+    if rx_names is not None:
+        for m in rx_names.finditer(text):
             for i in range(m.start(), m.end()):
                 masked[i] = "\0"
     masked = "".join(masked)
     hits = []
-    for v, right in variants[0].items():
+    for v, right in var.items():
+        if v not in masked:
+            continue
         for m in re.finditer(re.escape(v), masked):
             nxt = masked[m.end():m.end() + 1]
             if nxt and nxt in NAME_TAIL:
