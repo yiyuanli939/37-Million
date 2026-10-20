@@ -3,8 +3,9 @@ eul_wid: ccg-ae
 title_zh: 论狄奥尼索斯与厄洛斯（残篇）
 author_zh: 希俄斯的伊翁
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
