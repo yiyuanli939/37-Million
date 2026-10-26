@@ -94,3 +94,7 @@
 ### 断点（第 13 波审校 / 第 14 波翻译）
 - 第 12 波审校已合并，V0019 排入发布。第 13 波初译已提交；审校任务 `.work/job-r13-1…15.txt`（作品 `.work/w13-rv.txt`；buo-ai、buo-aj、dru-aa 未译完，不在内）。
 - 第 14 波翻译：`.work/wave14.json`，任务 `.work/job-w14-1…30.txt`（wid 见 `.work/w14-all.txt`）。
+
+### 断点（第 14 波审校 / 第 15 波翻译）
+- 第 13 波审校已合并，V0020 排入发布。第 14 波初译已提交；审校任务 `.work/job-r14-1…19.txt`（作品 `.work/w14-rv.txt`；daw-ad、daw-ae 未译完）。
+- 第 15 波翻译：`.work/wave15.json`，任务 `.work/job-w15-1…30.txt`（wid 见 `.work/w15-all.txt`）。
