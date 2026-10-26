@@ -110,3 +110,7 @@
 - 第 16 波初译已组装提交（djs-ab 仅 @1-19，余下留待后续波次）；审校任务 `.work/job-r16-1…17.txt`（作品列表 `.work/w16-rv.txt`）。
 - 第 17 波翻译任务 `.work/job-w17-1…30.txt`（`.work/w17-all.txt`），第 18 波 `.work/job-w18-1…30.txt`（`.work/w18-all.txt`）。下一波用 `--skip $(cat .work/w17-all.txt .work/w18-all.txt)`。
 - 组装第 17 波前：daw-ap 的 Νεφελοκοκκυγία 统一为 云鹃城，ΠΟΙΗΤΗΣ（@983 起）作 波塞冬，见 `.work/glossary-todo.md`。
+
+### 断点：第 17 波审校 / 第 18 波翻译
+- 第 17 波已组装（fhi-aa/ab/ac 尚缺段，待第 18 波补齐）；审校任务 .work/job-r17-1…16.txt，合并清单 .work/w17-rv.txt。
+- 第 18 波翻译任务 job-w18-1…30 均已派出；下一波用 `--skip $(cat .work/w18-all.txt)`。
