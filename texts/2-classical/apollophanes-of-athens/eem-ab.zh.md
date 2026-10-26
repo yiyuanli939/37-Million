@@ -3,8 +3,9 @@ eul_wid: eem-ab
 title_zh: 筵席与欢宴残篇
 author_zh: 阿波罗法涅斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

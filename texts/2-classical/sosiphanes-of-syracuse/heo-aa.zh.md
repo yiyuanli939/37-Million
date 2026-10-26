@@ -3,8 +3,9 @@ eul_wid: heo-aa
 title_zh: 忒拜与特洛伊神话残篇
 author_zh: 索西法涅斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -13,8 +14,9 @@ translator: Claude (AI)
 > 色萨利女子以巫术著称，相传能用咒语把月亮拽落。
 
 ### @4-6
-……如今……你……
-老人家，见了这景象，让你的心气重新年轻起来吧；
+如今，
+老人家，
+见了这景象，让你的心灵（θυμός）重新年轻起来吧；
 此刻正当你受了冤屈，就该发起怒来。
 
 ### @7-11

@@ -3,8 +3,9 @@ eul_wid: ebk-aa
 title_zh: 喜剧宴饮残篇
 author_zh: 阿尔基波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -96,8 +97,8 @@ translator: Claude (AI)
 
 ### @38-42
 海的传令螺，
-海所养育的儿子，
-紫螺的〔儿子〕。……用帽贝、海胆、炉贝、颌针鱼，
+紫螺抚养长大的
+儿子。……用帽贝、海胆、炉贝、颌针鱼，
 还有扇贝
 ……
 > 传令螺：原文 κῆρυξ 既指传令官，也指一种海螺。炉贝：原文 ἐσχάρα 字面为“炉灶”，是一种贝类的名称。
@@ -157,7 +158,7 @@ translator: Claude (AI)
 头上戴着一顶滚落下来的花冠回家去。
 
 ### @66
-倾倒出来
+倾倒出来〔存疑：词形难定，或解作“堆起土来”〕
 
 ### @67
 剃刀

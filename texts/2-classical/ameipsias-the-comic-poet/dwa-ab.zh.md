@@ -3,8 +3,9 @@ eul_wid: dwa-ab
 title_zh: 关于苏格拉底的喜剧残篇
 author_zh: 阿墨普西阿斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -32,10 +33,10 @@ translator: Claude (AI)
 一件外袍呢？
 
 ### @10-12
-乙：这倒霉事儿全怪那些
-鞋匠存心捣乱。可这人
+乙：这个祸害生来就是给
+鞋匠们添堵的。可这人
 饿成这样，也从来没肯低头巴结谁。
-> 苏格拉底常年赤足、衣衫单薄，剧中戏称是鞋匠们故意与他作对。
+> 苏格拉底常年赤足，鞋匠赚不到他的钱，剧中因此戏称他生来就是与鞋匠作对的。
 
 ### @13-15
 所以

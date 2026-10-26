@@ -3,8 +3,9 @@ eul_wid: dwa-aa
 title_zh: 日常生活残篇
 author_zh: 阿墨普西阿斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -85,8 +86,8 @@ translator: Claude (AI)
 而且
 那些富人当中，
 凭赫淮斯托斯起誓，没有一个
-比得上你：你席面讲究，又爱把油汪汪的
-大块面饼吞下肚去。
+像你这样：席面讲究，又爱把油汪汪的
+大口吃食吞下肚去。
 
 ### @37
 洗手的水
@@ -123,7 +124,7 @@ translator: Claude (AI)
 我回来了
 
 ### @50
-叫他站起来
+叫〔他〕站起来
 
 ### @51
 已经被榨得一干二净了

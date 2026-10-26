@@ -3,8 +3,9 @@ eul_wid: ebk-ab
 title_zh: 鱼与宴饮残篇
 author_zh: 阿尔基波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -50,8 +51,8 @@ translator: Claude (AI)
 
 ### @22-26
 用帽贝、海胆、炉贝、颌针鱼，
-还有扇贝
-……传令螺，海之女神
+还有扇贝。
+传令螺，海之女神
 所养育的，紫螺女神的
 儿子。
 > 传令螺：原文 κῆρυξ 既指传令官，也指一种海螺。炉贝：原文 ἐσχάρα 字面为“炉灶”，是一种贝类的名称。本版把“海”“紫螺”写作专名，拟人为螺的养母和生母。

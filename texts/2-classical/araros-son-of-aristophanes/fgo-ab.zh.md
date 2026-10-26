@@ -3,8 +3,9 @@ eul_wid: fgo-ab
 title_zh: 神的审判残篇
 author_zh: 阿拉罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

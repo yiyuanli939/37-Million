@@ -3,8 +3,9 @@ eul_wid: hee-ab
 title_zh: 治家残篇
 author_zh: 革拉的阿波罗多洛斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-4
@@ -14,8 +15,8 @@ translator: Claude (AI)
 备好了。
 
 ### @5-6
-说话的工夫，我看他这东西，像是个装孜然的小罐，不像是写字板，
-却随身带着。
+说话的工夫，我看这家伙是把一个装孜然的小罐，而不是写字板，
+随身带着。
 > 装孜然的小罐：讥讽此人吝啬。希腊人以“剖孜然的人”（κυμινοπρίστης）称守财奴。
 
 ### @7-8

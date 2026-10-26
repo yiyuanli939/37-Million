@@ -3,8 +3,9 @@ eul_wid: fjg-aa
 title_zh: 论妇女与正义残篇
 author_zh: 忒奥德克特斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -130,7 +131,7 @@ translator: Claude (AI)
 ### @53-57
 （关于影子的
 谜语）
-有一种东西（φύσις），既不属于哺育万物的大地所生，
+有一种东西，既不属于哺育万物的大地所生，
 也不属于大海所生，在凡人当中，它的肢体
 也不像人那样生长：在初生之时
 它最大，到了中年壮盛时却小，及至老年，

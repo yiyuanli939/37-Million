@@ -3,8 +3,9 @@ eul_wid: equ-aa
 title_zh: 狂欢与名妓残篇
 author_zh: 阿里斯塔戈拉斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

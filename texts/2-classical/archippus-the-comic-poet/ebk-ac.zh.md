@@ -3,12 +3,13 @@ eul_wid: ebk-ac
 title_zh: 爱欲与劝说残篇
 author_zh: 阿尔基波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
-把胳膊反剪到背后。
+反剪着双臂。
 
 ### @2
 有福的人啊，你在披细羊毛袍的姑娘们身上，采摘阿佛洛狄忒的园子！

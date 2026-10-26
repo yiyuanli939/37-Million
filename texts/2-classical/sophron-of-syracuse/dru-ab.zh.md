@@ -3,8 +3,9 @@ eul_wid: dru-ab
 title_zh: 净化仪式拟剧残篇
 author_zh: 索弗戎
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -15,5 +16,5 @@ translator: Claude (AI)
 不论你是在死者中间游荡而来，
 沾满污秽进了门；不论你是从
 三岔路口被涤罪的秽物（καθάρματα）吸引过来，又与那
-负血债者的冤魂缠在一起——”
+负血债者（παλαμναῖος）〔或解作“血债的复仇恶灵”〕缠在一起——”
 > 这是驱除恶灵的咒语，对象应是与赫卡忒相关、作祟于人的鬼怪；三岔路口是赫卡忒受祭之处，涤罪后的秽物也弃置在那里。
