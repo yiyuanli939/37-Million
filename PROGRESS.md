@@ -86,3 +86,7 @@
 - 第 11 波初译已汇编提交（cbm-ak…cbm-aw 全本；cbm-ax、cbm-ay、cbm-az 只到开篇）。
 - r11 审校：`.work/job-r11-1..18.txt`，对象见 `.work/w11-rv.txt`；完成后 merge + reviewed，再查 V0018/V0019 是否齐。
 - 第 12 波翻译：`.work/wave12.json`，`.work/job-w12-*.txt`。
+
+### 断点（第 12 波审校 / 第 13 波翻译）
+- 第 12 波初译已提交（36d762b）。审校任务：`.work/job-r12-1…17.txt`（作品清单 `.work/w12-rv.txt`），完成后逐个 `review_split.py merge` + `batch.py reviewed`。
+- 第 13 波翻译：`.work/wave13.json`，任务 `.work/job-w13-1…31.txt`（索福克勒斯续译等，wid 见 `.work/w13-all.txt`）。
