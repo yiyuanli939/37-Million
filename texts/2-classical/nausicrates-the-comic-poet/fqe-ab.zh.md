@@ -3,8 +3,9 @@ eul_wid: fqe-ab
 title_zh: 论海中生物残篇
 author_zh: 瑙西克拉特斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5

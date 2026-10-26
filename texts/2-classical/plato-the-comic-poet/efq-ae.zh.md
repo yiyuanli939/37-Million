@@ -3,8 +3,9 @@ eul_wid: efq-ae
 title_zh: 铭辞
 author_zh: 柏拉图（喜剧诗人）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-6

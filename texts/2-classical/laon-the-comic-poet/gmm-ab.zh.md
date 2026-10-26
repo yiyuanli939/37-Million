@@ -3,8 +3,9 @@ eul_wid: gmm-ab
 title_zh: 论波奥提亚与品性残篇（二）
 author_zh: 拉翁
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

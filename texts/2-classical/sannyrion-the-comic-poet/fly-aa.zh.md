@@ -3,8 +3,9 @@ eul_wid: fly-aa
 title_zh: 论神与凡人喜剧残篇（一）
 author_zh: 桑尼里昂
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -27,7 +28,7 @@ translator: Claude (AI)
 船主
 
 ### @8
-鼓弄民众，煽惑民众
+鼓弄民众；鼓弄民众之举
 
 ### @9
 那么我变成什么，才能钻进洞里去呢？得好好想想。来吧，要是我变成一只鼩鼱呢？可是那个演悲剧的赫革洛科斯准会把我告发出来，他会冲着仇敌们大喊一声：

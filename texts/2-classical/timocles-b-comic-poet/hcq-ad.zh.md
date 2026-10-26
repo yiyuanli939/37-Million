@@ -3,8 +3,9 @@ eul_wid: hcq-ad
 title_zh: 论喜剧残篇（二）
 author_zh: 提摩克勒斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

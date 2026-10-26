@@ -3,8 +3,9 @@ eul_wid: fcs-ac
 title_zh: 涅瑞伊得斯残篇
 author_zh: 尼科卡瑞斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

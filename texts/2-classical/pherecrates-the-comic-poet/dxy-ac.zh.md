@@ -3,8 +3,9 @@ eul_wid: dxy-ac
 title_zh: 论人事残篇
 author_zh: 斐瑞克拉忒斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

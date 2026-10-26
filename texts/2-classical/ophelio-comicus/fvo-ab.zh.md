@@ -3,8 +3,9 @@ eul_wid: fvo-ab
 title_zh: 日常生活喜剧残篇
 author_zh: 俄斐利昂
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

@@ -3,8 +3,9 @@ eul_wid: ezg-aa
 title_zh: 论意大利诸神残篇
 author_zh: 阿格西劳斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

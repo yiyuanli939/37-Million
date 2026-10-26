@@ -3,8 +3,9 @@ eul_wid: efq-ad
 title_zh: 论阿尔戈斯与毁灭残篇
 author_zh: 柏拉图（喜剧诗人）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

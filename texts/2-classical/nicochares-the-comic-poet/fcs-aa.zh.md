@@ -3,8 +3,9 @@ eul_wid: fcs-aa
 title_zh: 尼科卡瑞斯宴饮残篇
 author_zh: 尼科卡瑞斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -23,7 +24,7 @@ translator: Claude (AI)
 > 菲洛尼得斯：雅典人，喜剧中常被讥为粗鄙无学。墨利忒：雅典的村社。
 
 ### @8-10
-来，快，
+来吧，现在
 快把
 这件罩衫拿来。
 > 罩衫：套在内衣外面的长衫。

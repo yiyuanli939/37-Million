@@ -3,8 +3,9 @@ eul_wid: eis-aa
 title_zh: 论饮食与贪吃残篇
 author_zh: 尼科丰
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -23,7 +24,7 @@ translator: Claude (AI)
 诱饵
 
 ### @7
-这个在织机上把布织完，那个在装经线。
+这一机布正在织成，那一机正在装上经线。
 
 ### @8-9
 海梭鱼

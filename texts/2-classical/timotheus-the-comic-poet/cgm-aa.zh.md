@@ -3,8 +3,9 @@ eul_wid: cgm-aa
 title_zh: 论宴饮残篇
 author_zh: 提摩忒奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -16,7 +17,7 @@ translator: Claude (AI)
 > 七榻的厅：可摆七张卧榻的宴饮室。凯瑞丰：当时有名的蹭饭食客。
 
 ### @4
-也不是那生着翅膀、粘住目光的胶——厄洛斯，
+也不是那生着翅膀、粘住目光的鸟胶——厄洛斯，
 库普里斯的猎手，刺透心神的箭镞，
 那发了誓也不必向众神受罚的家伙。
-> 粘鸟胶：涂在枝上捕鸟的胶。末句指情人的誓言不受神罚。
+> 鸟胶：涂在枝上捕鸟的黏胶。末句指情人的誓言不受神罚。

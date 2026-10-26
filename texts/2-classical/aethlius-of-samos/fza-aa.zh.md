@@ -3,8 +3,9 @@ eul_wid: fza-aa
 title_zh: 论萨摩斯岁时残篇
 author_zh: 埃特利奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

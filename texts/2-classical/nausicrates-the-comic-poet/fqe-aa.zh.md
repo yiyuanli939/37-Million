@@ -3,8 +3,9 @@ eul_wid: fqe-aa
 title_zh: 论鱼与海中生物残篇
 author_zh: 瑙西克拉特斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5
@@ -18,7 +19,7 @@ translator: Claude (AI)
 乙：你说的是格劳科斯鱼。甲：你猜着了……
 ……
 ……和它们一起的，还有那些天生出众的
-黄皮肤的鱼，埃克索涅一带的浪涛
+皮色金黄的鱼，埃克索涅一带的浪涛
 把它们养得
 比哪里都好；水手们
 送上晚餐作供礼的时候，
@@ -31,6 +32,6 @@ translator: Claude (AI)
 > 埃克索涅：阿提卡的村社，以出产红鲻鱼著称。持光的少女女神：大概指赫卡忒，红鲻鱼是献给她的祭品。
 
 ### @13
-在阿提卡，有谁见过
+因为在阿提卡，有谁见过
 狮子，或者别的这类野兽？
 在那儿就连一只兔子都不容易找到。

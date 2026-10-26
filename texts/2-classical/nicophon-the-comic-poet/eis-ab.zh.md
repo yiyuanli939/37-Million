@@ -3,8 +3,9 @@ eul_wid: eis-ab
 title_zh: 论饮食与市集喜剧残篇
 author_zh: 尼科丰
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

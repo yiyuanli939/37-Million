@@ -3,8 +3,9 @@ eul_wid: fcs-ab
 title_zh: 宴饮残篇
 author_zh: 尼科卡瑞斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

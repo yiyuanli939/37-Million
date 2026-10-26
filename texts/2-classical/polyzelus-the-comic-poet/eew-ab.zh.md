@@ -3,8 +3,9 @@ eul_wid: eew-ab
 title_zh: 论塞拉门尼斯与僭政残篇
 author_zh: 波吕泽洛斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -17,8 +18,8 @@ translator: Claude (AI)
 那里挂着几口锅，还有那只炒锅。
 
 ### @5-6
-因为你既是圣物，
-就归了埃帕克里奥斯宙斯。
+因为你恰好是
+埃帕克里奥斯宙斯的圣物。
 > 埃帕克里奥斯宙斯：阿提卡北部埃帕克里亚一带奉祀的宙斯，意为“山巅上的”。
 
 ### @7-8

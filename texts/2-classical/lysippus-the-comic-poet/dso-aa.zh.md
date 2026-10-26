@@ -3,8 +3,9 @@ eul_wid: dso-aa
 title_zh: 井与狗残篇
 author_zh: 吕西波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -22,8 +23,8 @@ translator: Claude (AI)
 可这顶毡帽是用三股线织成的。
 
 ### @5
-也没有把别人的构思梳洗一遍、再用硫黄熏过……
-> 梳洗、熏硫黄：漂洗工翻新旧毛料的手续，这里讥讽剽窃他人构想、改头换面据为己有。
+也没有把别人的构思重新刮一遍绒、再用硫黄熏过……
+> 刮绒、熏硫黄：漂洗工翻新旧毛料的手续，这里讥讽剽窃他人构想、改头换面据为己有。
 
 ### @6
 他连笛子带笛匣一齐冲了上来。

@@ -3,8 +3,9 @@ eul_wid: gcm-ab
 title_zh: 论健康与快乐残篇
 author_zh: 菲勒泰罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -17,7 +18,7 @@ translator: Claude (AI)
 跑过的斯塔狄昂
 要比
 索塔得斯还多；
-陶瑞阿斯，我苦练起来能压倒他；克特西亚斯，我比吃饭也能跑赢他。
+陶瑞阿斯，我苦练起来能压倒他；克特西亚斯，论吃饭我也能跑赢他。
 > 斯塔狄昂：长度单位，约合一百八十米，也指同长度的赛跑。索塔得斯、陶瑞阿斯：当时知名的运动员。克特西亚斯：喜剧中常被嘲笑的饕餮之徒。
 
 ### @8

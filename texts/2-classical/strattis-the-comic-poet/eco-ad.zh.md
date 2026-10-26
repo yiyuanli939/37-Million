@@ -3,8 +3,9 @@ eul_wid: eco-ad
 title_zh: 论希俄斯与科斯残篇
 author_zh: 斯特拉提斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -69,7 +70,7 @@ translator: Claude (AI)
 ……他们望着城邦……
 ……拥有……可整个儿没有一样是正当的……
 ……他们定下法律……
-……把所有人都排除在外……
+……把所有人都〔排除在外？原文此词费解，或读作“使之一律平等”〕……
 ……争吵……
 
 ### @7

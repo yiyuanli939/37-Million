@@ -3,8 +3,9 @@ eul_wid: gli-aa
 title_zh: 论食客与谄媚者残篇
 author_zh: 尼古拉
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-7
@@ -57,7 +58,7 @@ translator: Claude (AI)
 养你的人，哪怕让他自取灭亡。有人摆开阵势，说他把所有人都杀了，〔这时你〕吃着饭，
 不出一声，对着
 饭桌冲他暗暗冷笑，把你的
-怒气也一并咽下。
+怒气也就此放下。
 > 伽倪墨得斯：被宙斯掳上天的美少年，成为众神的斟酒人。此处意谓食客要恭维老来扮俏的主人。
 
 ### @29-32

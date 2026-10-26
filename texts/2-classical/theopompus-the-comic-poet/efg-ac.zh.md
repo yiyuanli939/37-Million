@@ -3,12 +3,13 @@ eul_wid: efg-ac
 title_zh: 论德尔斐与农事残篇
 author_zh: 特奥庞波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
-随后，他在德尔斐也被画成像供奉起来。
+随后，〔这句话〕在德尔斐也被写下来供奉着：
 农夫总是要到明年
 才会好起来；首先
 要远远地躲开饥荒。

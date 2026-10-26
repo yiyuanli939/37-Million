@@ -3,8 +3,9 @@ eul_wid: hcq-ac
 title_zh: 论喜剧残篇（一）
 author_zh: 提摩克勒斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -27,5 +28,5 @@ translator: Claude (AI)
 > 忒柔斯、普洛克涅：色雷斯王忒柔斯及其妻。原文以“忒柔斯”（Τηρεύς）谐“看守”（τηρεῖν），以“普洛克涅”（Πρόκνη）谐“挠”（κνᾶσθαι），译文仅能近似。
 
 ### @5
-神嘛，显然是善堤喀在其中。
+显然，有一位神在其中，还有善堤喀。
 > 善堤喀：即“好运”女神，常在祝词、契约开头被呼请。

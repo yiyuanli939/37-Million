@@ -3,8 +3,9 @@ eul_wid: fdc-aa
 title_zh: 喜剧宴饮残篇（一）
 author_zh: 菲吕利奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

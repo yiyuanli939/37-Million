@@ -3,12 +3,13 @@ eul_wid: gcm-aa
 title_zh: 论人生与快乐喜剧残篇
 author_zh: 菲勒泰罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
-他斟满一大杯饭后酒，一半水一半酒，摇匀了递过去，嘴里先念出许革亚的
+他满满地晃进一大杯饭后酒，一半水一半酒，嘴里先念出许革亚的
 名号。
 > 饭后酒：原文 μετανιπτρίς，宴席上饭后洗手之后饮的一杯酒，通常献给许革亚（健康女神）。
 

@@ -3,8 +3,9 @@ eul_wid: efq-ac
 title_zh: 喜剧中的阿佛洛狄忒残篇
 author_zh: 柏拉图（喜剧诗人）
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -58,7 +59,7 @@ translator: Claude (AI)
 过苦日子的
 
 ### @19
-……我的好人哪，我跑得太快，可把自己累垮了。
+……我的好人哪，我跑得飞快，这下可完了。
 
 ### @20
 没有缩绒的外袍

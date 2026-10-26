@@ -3,8 +3,9 @@ eul_wid: dso-ab
 title_zh: 论雅典生活残篇
 author_zh: 吕西波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -25,8 +26,8 @@ translator: Claude (AI)
 > 连笛子带笛匣：俗语，意为“全副家当、一股脑儿地”。
 
 ### @7
-也没有把别人的构思梳洗一遍、再用硫黄熏过。
-> 梳洗、熏硫黄：漂洗工翻新旧毛料的手续，讥讽剽窃他人构想、改头换面据为己有。
+也没有把别人的构思重新刮一遍绒、再用硫黄熏过。
+> 刮绒、熏硫黄：漂洗工翻新旧毛料的手续，讥讽剽窃他人构想、改头换面据为己有。
 
 ### @8-13
 你要是没见过雅典，你就是截木头；

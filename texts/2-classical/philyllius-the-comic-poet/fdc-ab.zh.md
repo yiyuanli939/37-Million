@@ -3,8 +3,9 @@ eul_wid: fdc-ab
 title_zh: 喜剧宴饮残篇（二）
 author_zh: 菲吕利奥斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -14,7 +15,7 @@ translator: Claude (AI)
 ### @2-5
 好了，女人们已经吃完饭了。现在是时候撤去
 桌子，然后
-把地扫干净，再给每个人倒水洗手，还要
+把地扫干净，再给每位女客倒水洗手，还要
 给些香膏。
 
 ### @6-8
