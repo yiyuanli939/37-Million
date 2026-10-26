@@ -90,3 +90,7 @@
 ### 断点（第 12 波审校 / 第 13 波翻译）
 - 第 12 波初译已提交（36d762b）。审校任务：`.work/job-r12-1…17.txt`（作品清单 `.work/w12-rv.txt`），完成后逐个 `review_split.py merge` + `batch.py reviewed`。
 - 第 13 波翻译：`.work/wave13.json`，任务 `.work/job-w13-1…31.txt`（索福克勒斯续译等，wid 见 `.work/w13-all.txt`）。
+
+### 断点（第 13 波审校 / 第 14 波翻译）
+- 第 12 波审校已合并，V0019 排入发布。第 13 波初译已提交；审校任务 `.work/job-r13-1…15.txt`（作品 `.work/w13-rv.txt`；buo-ai、buo-aj、dru-aa 未译完，不在内）。
+- 第 14 波翻译：`.work/wave14.json`，任务 `.work/job-w14-1…30.txt`（wid 见 `.work/w14-all.txt`）。
