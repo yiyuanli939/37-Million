@@ -3,8 +3,9 @@ eul_wid: dvg-aa
 title_zh: 残篇
 author_zh: 伊俄丰
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

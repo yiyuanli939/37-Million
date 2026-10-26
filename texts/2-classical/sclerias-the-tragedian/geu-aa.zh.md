@@ -3,8 +3,9 @@ eul_wid: geu-aa
 title_zh: 残篇
 author_zh: 斯克勒里阿斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -17,4 +18,4 @@ translator: Claude (AI)
 总是安然无害，他的病却只朝身边的人发作。
 
 ### @3
-战争夺不走德性（ἀρετή）当战利品。
+战争无法把德性（ἀρετή）当作战利品掳走。

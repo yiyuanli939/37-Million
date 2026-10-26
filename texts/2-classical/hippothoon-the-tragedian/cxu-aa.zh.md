@@ -3,8 +3,9 @@ eul_wid: cxu-aa
 title_zh: 残篇
 author_zh: 希波托昂
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -23,8 +24,8 @@ translator: Claude (AI)
 是一个能同甘共苦的妻子。
 
 ### @8-9
-对年幼的孩子，必须加以管束，
-〔使他们成为〕明智的人。
+年幼的孩子，必须由
+明智的人加以管束。
 
 ### @10
 老狮子也胜过正当壮年的小鹿。

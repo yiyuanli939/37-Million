@@ -3,8 +3,9 @@ eul_wid: chg-aa
 title_zh: 意大利奇闻
 author_zh: 赫利奥多罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: cps-aa
 title_zh: 残篇
 author_zh: 涅奥弗隆
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5

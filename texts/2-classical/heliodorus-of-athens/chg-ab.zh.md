@@ -3,8 +3,9 @@ eul_wid: chg-ab
 title_zh: 毒泉残篇
 author_zh: 赫利奥多罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-8
@@ -38,8 +39,8 @@ translator: Claude (AI)
 > 高罗斯山：意大利坎帕尼亚的山，在库麦与那不勒斯之间。
 
 ### @22-24
-阿尔戈斯人
-成队成队地，所有那些
+在阿尔戈斯人的
+队伍中，所有那些
 从费拉刻跟随而来的人
 
 ### @25

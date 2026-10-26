@@ -3,8 +3,9 @@ eul_wid: cbm-az
 title_zh: 佛里克索斯
 author_zh: 欧里庇得斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -51,7 +52,7 @@ translator: Claude (AI)
 
 ### @38-43
 所以我父亲卡德摩斯这些……
-灵魂……
+灵魂（ψυχή）……
 ……
 
 ### @44-49
