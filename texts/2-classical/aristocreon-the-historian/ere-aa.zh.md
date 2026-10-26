@@ -3,8 +3,9 @@ eul_wid: ere-aa
 title_zh: 论埃塞俄比亚与利比亚残篇
 author_zh: 阿里斯托克瑞翁
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

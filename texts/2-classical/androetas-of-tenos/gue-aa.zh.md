@@ -3,8 +3,9 @@ eul_wid: gue-aa
 title_zh: 普罗庞提斯周航记
 author_zh: 安德罗伊塔斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

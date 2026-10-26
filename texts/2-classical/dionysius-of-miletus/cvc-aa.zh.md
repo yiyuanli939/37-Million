@@ -3,8 +3,9 @@ eul_wid: cvc-aa
 title_zh: 论字母与上古史
 author_zh: 米利都的狄奥尼修斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

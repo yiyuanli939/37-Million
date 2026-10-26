@@ -3,8 +3,9 @@ eul_wid: bvs-aa
 title_zh: 阿尔塔薛西斯王书信
 author_zh: 阿尔塔薛西斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

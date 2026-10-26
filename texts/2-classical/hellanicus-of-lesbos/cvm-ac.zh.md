@@ -3,8 +3,9 @@ eul_wid: cvm-ac
 title_zh: 论赫拉克勒斯后裔之战残篇
 author_zh: 赫拉尼科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

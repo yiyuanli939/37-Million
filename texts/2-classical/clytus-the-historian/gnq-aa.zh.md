@@ -3,8 +3,9 @@ eul_wid: gnq-aa
 title_zh: 论勒罗斯岛的鸟
 author_zh: 克吕托斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

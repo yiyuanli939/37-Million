@@ -3,8 +3,9 @@ eul_wid: gpe-aa
 title_zh: 建城志
 author_zh: 卡尔基斯的狄奥尼修斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

@@ -3,8 +3,9 @@ eul_wid: fbe-ac
 title_zh: 论哈尔摩尼亚残篇
 author_zh: 埃福罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

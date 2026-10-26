@@ -3,8 +3,9 @@ eul_wid: duc-aa
 title_zh: 阿卡狄亚古事与神话
 author_zh: 阿里斯提波
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
