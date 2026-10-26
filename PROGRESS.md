@@ -104,3 +104,9 @@
 - 第 15 波初译已组装提交；daw-ao（@1319 起）与 daw-ap（@2 起）未完，留待后续波次。审校任务 `.work/job-r15-1…17.txt`（作品列表 `.work/w15-rv.txt`）。
 - 第 16 波翻译任务 `.work/job-w16-1…29.txt`（`.work/w16-all.txt`）；下一波用 `--skip $(cat .work/w16-all.txt)`。
 - 组装第 16 波前统一 daw-ad 人名（兰庇托／米尔里涅）与 daw-ar 的 特律盖奥斯，见 `.work/glossary-todo.md`。
+
+### 断点（第 16 波审校 / 第 17、18 波翻译）
+- 第 15 波审校已合并，V0021 已排入发布。
+- 第 16 波初译已组装提交（djs-ab 仅 @1-19，余下留待后续波次）；审校任务 `.work/job-r16-1…17.txt`（作品列表 `.work/w16-rv.txt`）。
+- 第 17 波翻译任务 `.work/job-w17-1…30.txt`（`.work/w17-all.txt`），第 18 波 `.work/job-w18-1…30.txt`（`.work/w18-all.txt`）。下一波用 `--skip $(cat .work/w17-all.txt .work/w18-all.txt)`。
+- 组装第 17 波前：daw-ap 的 Νεφελοκοκκυγία 统一为 云鹃城，ΠΟΙΗΤΗΣ（@983 起）作 波塞冬，见 `.work/glossary-todo.md`。
