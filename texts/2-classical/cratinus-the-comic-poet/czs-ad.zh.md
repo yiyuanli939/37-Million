@@ -3,8 +3,9 @@ eul_wid: czs-ad
 title_zh: 论帕里斯评判残篇
 author_zh: 克拉提诺斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1
@@ -165,7 +166,7 @@ translator: Claude (AI)
 
 ### @36
 这是必须的。因为那个斯忒里亚人祈求的……
-她如今称之为哈格农，还有民众……
+他们如今称之为哈格农，还有民众……
 ——这家伙在这里发财来路不正，所以他要哭鼻子了。
 ——可他明明是个老财主，从一开始
 他名下的一切就都有了，一部分……另一部分……

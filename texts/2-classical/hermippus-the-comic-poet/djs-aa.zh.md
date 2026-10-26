@@ -3,8 +3,9 @@ eul_wid: djs-aa
 title_zh: 论神与时间残篇
 author_zh: 赫尔米波斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -84,8 +85,8 @@ translator: Claude (AI)
 你待在旁边
 
 ### @33-34
-我呜呜叫着，把所有的
-手指都卖掉了。
+我龇着牙低吼，要把所有的
+手指都咬下来。
 
 ### @35-40
 然后每当
@@ -327,7 +328,7 @@ translator: Claude (AI)
 今天我要揍你的脸，揍得你鼻血直流。
 
 ### @147
-所以从此以后，人人都把马拉松当作好事记着，总往腌菜里加茴香。
+所以从此以后，人人都把马拉松当作好事记着，总往腌橄榄里加茴香。
 > 马拉松（Μαραθών）与茴香（μάραθον）谐音。
 
 ### @148-150

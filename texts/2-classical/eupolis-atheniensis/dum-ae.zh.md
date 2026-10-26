@@ -3,8 +3,9 @@ eul_wid: dum-ae
 title_zh: 雅典生活残篇
 author_zh: 欧波利斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1

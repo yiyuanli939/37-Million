@@ -3,8 +3,9 @@ eul_wid: dam-aa
 title_zh: 家常喜剧残篇（一）
 author_zh: 狄奥克勒斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3

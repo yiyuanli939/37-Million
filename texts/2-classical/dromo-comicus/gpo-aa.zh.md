@@ -3,8 +3,9 @@ eul_wid: gpo-aa
 title_zh: 论宴席礼节残篇
 author_zh: 德罗蒙
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -13,7 +14,7 @@ translator: Claude (AI)
 你瞧那提图马洛斯，走来走去，
 脸总是比胭脂虫还红；
 他不交份子钱，就是这么脸红的。
-> 提图马洛斯：喜剧中以穷困著称的食客。胭脂虫：寄生于橡树上的虫，古人取以制红色染料，原文字面为“红果”。
+> 提图马洛斯：喜剧中以穷困著称的食客。胭脂虫：寄生于橡树上的虫，古人取以制红色染料，原文 κόκκος 字面义为“籽粒”，古人以为是植物的果实。
 
 ### @4-8
 我们匆匆吃完了午饭，那小厮

@@ -3,8 +3,9 @@ eul_wid: eyc-aa
 title_zh: 论金苹果残篇（一）
 author_zh: 厄里福斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -22,7 +23,7 @@ translator: Claude (AI)
 这些就是那金苹果。乙：才三个呀。甲：美好的东西，到哪儿
 都是又少又金贵。乙：这些嘛，我顶多出
 一个奥波尔，
-还嫌多了；我可得算算账。甲：这些是石榴。乙：好体面的品种！甲：据说，阿佛洛狄忒在塞浦路斯
+因为我得精打细算。甲：这些是石榴。乙：好体面的品种！甲：据说，阿佛洛狄忒在塞浦路斯
 亲手
 种下的树，就只有这一种。乙：〔……〕万般金贵的！那
 你就只

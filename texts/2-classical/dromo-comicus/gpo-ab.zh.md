@@ -3,8 +3,9 @@ eul_wid: gpo-ab
 title_zh: 食客之耻
 author_zh: 德罗蒙
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-3
@@ -13,7 +14,7 @@ translator: Claude (AI)
 那个提图马洛斯，你随时都能看见他
 满街转悠，脸比胭脂虫还红：
 他就是因为不交份子钱，才红成这样。
-> 提图马洛斯：喜剧中以穷困著称的食客。胭脂虫：古人用来制红色染料的虫子，原文字面为“红果”。
+> 提图马洛斯：喜剧中以穷困著称的食客。胭脂虫：古人用来制红色染料的虫子，原文 κόκκος 字面义为“籽粒”，古人以为是植物的果实。
 
 ### @4-9
 我们很快吃完了午饭，小厮

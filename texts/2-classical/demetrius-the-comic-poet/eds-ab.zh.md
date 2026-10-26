@@ -3,8 +3,9 @@ eul_wid: eds-ab
 title_zh: 海上喜剧残篇（二）
 author_zh: 德米特里
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
@@ -17,7 +18,7 @@ translator: Claude (AI)
 ### @3-5
 拉刻代蒙人拆毁了我们的城墙，又把我们的
 三层桨战船拿去作抵押，好让伯罗奔尼撒人
-从此不再受人在海上称霸。
+从此不再在海上受人压制。
 > 指公元前404年雅典向斯巴达投降后的条件。
 
 ### @6
@@ -25,6 +26,6 @@ translator: Claude (AI)
 
 ### @7-8
 邪恶是极容易上钩的：
-它眼里永远只有利益，
-所以什么话都糊里糊涂、冒冒失失地
+因为它眼里永远只有利益，
+什么话都糊里糊涂、冒冒失失地
 听信。

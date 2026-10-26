@@ -3,8 +3,9 @@ eul_wid: dxo-ab
 title_zh: 雅典妇女与歌队
 author_zh: 坎塔罗斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

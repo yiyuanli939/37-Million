@@ -3,8 +3,9 @@ eul_wid: gmw-aa
 title_zh: 会饮与饮酒残篇（一）
 author_zh: 克勒阿尔科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-5

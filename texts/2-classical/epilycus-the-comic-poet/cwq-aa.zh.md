@@ -3,8 +3,9 @@ eul_wid: cwq-aa
 title_zh: 饮食宴乐残篇
 author_zh: 厄庇吕科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2

@@ -3,8 +3,9 @@ eul_wid: gzy-ab
 title_zh: 玻俄提亚之宴（二）
 author_zh: 德摩尼科斯
 source_commit: 6466091
-status: draft
+status: reviewed
 translator: Claude (AI)
+reviewer: Claude (AI, 独立审校)
 ---
 
 ### @1-2
