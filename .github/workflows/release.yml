@@ -34,12 +34,19 @@ jobs:
           set -euo pipefail
           short=$(git rev-parse --short HEAD)
           commit7=$(grep commit= source.lock | cut -c8-14)
-          grep -v '^\s*#' releases.txt | while read -r vol kind; do
+          grep -v '^\s*#' releases.txt | while read -r vol kind rid; do
             [ -z "$vol" ] && continue
+            redo=""
             if [ "$kind" = "sample" ]; then
               tag="sample-$vol-$short"; flags="--allow-partial --skip-untranslated"; pre="--prerelease"
             else
               tag="v${vol#V}"; flags=""; pre=""
+            fi
+            # "V0001 rebuild <批次号>"：已发布的卷按当前译文重排一次；发布说明里记下批次号，同一批次不重复重排
+            if [ "$kind" = "rebuild" ] && [ -n "$rid" ]; then
+              redo="重排批次 $rid。"
+              if gh release view "$tag" --json body -q .body 2>/dev/null | grep -F "$redo" >/dev/null; then echo "$tag 已按批次 $rid 重排，跳过"; continue; fi
+              gh release delete "$tag" --yes --cleanup-tag 2>/dev/null || true
             fi
             if d=$(gh release view "$tag" --json isDraft -q .isDraft 2>/dev/null); then
               if [ "$d" = "true" ]; then echo "$tag 只留下草稿（上次发布中断），删除后重发"; gh release delete "$tag" --yes --cleanup-tag || true
@@ -53,7 +60,7 @@ jobs:
             rm -rf out && python3 tools/build_volume.py "$vol" --out out $flags
             title=$(python3 -c "import sys; sys.path.insert(0,'tools'); import build_volume as b; print(b.volume_titles()['$vol'])")
             [ -n "$pre" ] && title="$title（试样）"
-            notes="《古希腊文献希中对照全译》$vol：$title。希腊文—中文对照，AI 翻译、AI 审校，未经人工校订。底本 Eulogikon（提交 $commit7）。附对齐数据 JSONL。"
+            notes="《古希腊文献希中对照全译》$vol：$title。希腊文—中文对照，AI 翻译、AI 审校，未经人工校订。底本 Eulogikon（提交 $commit7）。附对齐数据 JSONL。$redo"
             gh release create "$tag" out/$vol.pdf out/$vol.jsonl --target "$GITHUB_SHA" --title "$vol $title" --notes "$notes" $pre
             gh release list --limit 1000 --json tagName,isPrerelease > releases.json
             if [ -n "${HF_TOKEN:-}" ]; then TAG="$tag" python3 tools/sync_hf.py out releases.json; else echo "没有 HUGGINGFACE_TOKEN，跳过同步"; fi
