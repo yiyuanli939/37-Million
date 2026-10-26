@@ -98,3 +98,9 @@
 ### 断点（第 14 波审校 / 第 15 波翻译）
 - 第 13 波审校已合并，V0020 排入发布。第 14 波初译已提交；审校任务 `.work/job-r14-1…19.txt`（作品 `.work/w14-rv.txt`；daw-ad、daw-ae 未译完）。
 - 第 15 波翻译：`.work/wave15.json`，任务 `.work/job-w15-1…30.txt`（wid 见 `.work/w15-all.txt`）。
+
+### 断点（第 15 波审校 / 第 16 波翻译）
+- 第 14 波审校已合并（e.g. gyu-*、fim-*、hbw-*、foq-* 等），V0021 尚缺 buo-ai、buo-aj、dru-aa 的审校。
+- 第 15 波初译已组装提交；daw-ao（@1319 起）与 daw-ap（@2 起）未完，留待后续波次。审校任务 `.work/job-r15-1…17.txt`（作品列表 `.work/w15-rv.txt`）。
+- 第 16 波翻译任务 `.work/job-w16-1…29.txt`（`.work/w16-all.txt`）；下一波用 `--skip $(cat .work/w16-all.txt)`。
+- 组装第 16 波前统一 daw-ad 人名（兰庇托／米尔里涅）与 daw-ar 的 特律盖奥斯，见 `.work/glossary-todo.md`。
